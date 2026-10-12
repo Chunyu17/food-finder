@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>新店美食探索</title>
+<style>
+  body { font-family: sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; background: #faf7f2; }
+  h1 { text-align: center; }
+  .tabs { display: flex; gap: 10px; justify-content: center; margin-bottom: 16px; }
+  .tab-btn { padding: 10px 20px; font-size: 16px; border: 2px solid #e67700; border-radius: 20px; background: white; cursor: pointer; color: #e67700; }
+  .tab-btn.active { background: #e67700; color: white; }
+  .filters { display: flex; gap: 10px; justify-content: center; margin-bottom: 20px; flex-wrap: wrap; }
+  select { padding: 8px; font-size: 14px; border-radius: 6px; }
+  .card { background: white; border-radius: 10px; padding: 16px; margin-bottom: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+  .card h2 { margin: 0 0 6px; font-size: 18px; }
+  .tag { display: inline-block; background: #ffe8cc; padding: 2px 8px; border-radius: 6px; font-size: 13px; margin-right: 6px; }
+  .open-tag { background: #d3f9d8; color: #2b8a3e; }
+  .closed-tag { background: #ffe3e3; color: #c92a2a; }
+  .rating { color: #e67700; font-weight: bold; }
+  .empty { text-align: center; color: #999; padding: 40px; }
+</style>
+</head>
+<body>
+<h1>🍜 新店美食探索</h1>
+
+<div class="tabs">
+  <button class="tab-btn active" id="tabNew" onclick="switchTab('new')">🆕 新開幕雷達</button>
+  <button class="tab-btn" id="tabQuick" onclick="switchTab('quick')">💕 快速約會候選</button>
+</div>
+
+<div class="filters">
+  <select id="categoryFilter" onchange="render()">
+    <option value="全部">全部類別</option>
+  </select>
+  <select id="stationFilter" onchange="render()">
+    <option value="全部">全部捷運站</option>
+  </select>
+</div>
+
+<div id="list"></div>
+
+<script src="data.js"></script>
+<script>
+const PRICE_LABEL = {
+  PRICE_LEVEL_INEXPENSIVE: "$", PRICE_LEVEL_MODERATE: "$$",
+  PRICE_LEVEL_EXPENSIVE: "$$$", PRICE_LEVEL_VERY_EXPENSIVE: "$$$$",
+};
+
+let currentTab = "new";
+
+function currentData() {
+  return currentTab === "new" ? RESTAURANT_DATA.new_radar : RESTAURANT_DATA.quick_date;
+}
+
+function populateFilters() {
+  const data = currentData();
+  const categories = [...new Set(data.map(p => p.category || "其他"))].sort();
+  const stations = [...new Set(data.flatMap(p => p.stations || []))].sort();
+
+  document.getElementById("categoryFilter").innerHTML =
+    '<option value="全部">全部類別</option>' + categories.map(c => `<option value="${c}">${c}</option>`).join("");
+
+  document.getElementById("stationFilter").innerHTML =
+    '<option value="全部">全部捷運站</option>' + stations.map(s => `<option value="${s}">${s}站</option>`).join("");
+}
+
+function card(p) {
+  const openTag = p.open_now === true ? '<span class="tag open-tag">營業中</span>'
+    : p.open_now === false ? '<span class="tag closed-tag">休息中</span>' : "";
+  const priceTag = PRICE_LABEL[p.price_level] ? `<span class="tag">${PRICE_LABEL[p.price_level]}</span>` : "";
+  const stationTag = (p.stations && p.stations.length) ? `<span class="tag">${p.stations[0]}站</span>` : "";
+  return `
+    <div class="card">
+      <h2>${p.name}</h2>
+      <span class="tag">${p.category || p.type || ""}</span>${priceTag}${openTag}${stationTag}
+      <span class="rating">★ ${p.rating ?? "–"}</span> (${p.reviews ?? 0} 則評論)
+      <p>${p.address || ""}</p>
+      ${p.first_seen ? `<small>發現日期：${p.first_seen}</small>` : ""}
+    </div>`;
+}
+
+function render() {
+  document.getElementById("tabNew").classList.toggle("active", currentTab === "new");
+  document.getElementById("tabQuick").classList.toggle("active", currentTab === "quick");
+
+  const cat = document.getElementById("categoryFilter").value;
+  const sta = document.getElementById("stationFilter").value;
+
+  let data = currentData();
+  if (cat !== "全部") data = data.filter(p => (p.category || "其他") === cat);
+  if (sta !== "全部") data = data.filter(p => (p.stations || []).includes(sta));
+
+  document.getElementById("list").innerHTML = data.length ? data.map(card).join("") : '<div class="empty">目前沒有符合條件的店家</div>';
+}
+
+function switchTab(tab) {
+  currentTab = tab;
+  populateFilters();
+  render();
+}
+
+populateFilters();
+render();
+</script>
+</body>
+</html>
