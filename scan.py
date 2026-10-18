@@ -37,8 +37,8 @@ def read_api_key():
     key = os.environ.get("GOOGLE_API_KEY", "")
     if not key:
         with open("api_key.txt", encoding="utf-8") as f:
-            key = f.read().strip()
-    return key
+            key = f.read()
+    return key.strip()
 
 
 def load_stations():
