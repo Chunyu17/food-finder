@@ -36,6 +36,7 @@
       "stations": [
         "南京三民",
         "台北小巨蛋",
+        "後山埤",
         "松山",
         "松山機場"
       ]
@@ -55,6 +56,12 @@
       "candidate": false,
       "stations": [
         "中山",
+        "台北車站",
+        "台大醫院",
+        "善導寺",
+        "圓山",
+        "松江南京",
+        "民權西路",
         "雙連"
       ]
     },
@@ -301,10 +308,12 @@
         "丹鳳",
         "新北產業園區",
         "新莊",
+        "泰山",
         "泰山貴和",
         "輔大",
         "迴龍",
-        "頭前庄"
+        "頭前庄",
+        "體育大學"
       ]
     },
     "ChIJSTQjAN2pQjQRI_eRnd_itIs": {
@@ -529,6 +538,7 @@
         "忠義",
         "新北投",
         "新北產業園區",
+        "新莊",
         "明德",
         "石牌",
         "竹圍",
@@ -873,6 +883,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "府中",
         "板橋"
       ]
     },
@@ -1133,6 +1144,7 @@
         "景美",
         "木柵",
         "松山",
+        "永安市場",
         "永春",
         "科技大樓",
         "萬芳社區",
@@ -1658,7 +1670,9 @@
       "baseline": true,
       "candidate": false,
       "stations": [
-        "劍潭"
+        "劍潭",
+        "士林",
+        "芝山"
       ]
     },
     "ChIJET0T9fSpQjQRUP2vJxTXpCY": {
@@ -1695,6 +1709,9 @@
         "中山",
         "中山國中",
         "中正紀念堂",
+        "信義安和",
+        "公館",
+        "六張犁",
         "北門",
         "南京三民",
         "南京復興",
@@ -1704,11 +1721,20 @@
         "台大醫院",
         "台電大樓",
         "善導寺",
+        "大安",
+        "大安森林公園",
         "小南門",
+        "忠孝復興",
+        "忠孝敦化",
+        "忠孝新生",
         "東門",
         "松山",
         "松山機場",
-        "西門"
+        "永安市場",
+        "科技大樓",
+        "西門",
+        "頂溪",
+        "麟光"
       ]
     },
     "ChIJJ--63GmrQjQR15I6nZY8NoU": {
@@ -1821,6 +1847,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "北投",
         "復興崗",
         "忠義",
         "新北投",
@@ -1852,7 +1879,8 @@
         "大安",
         "大安森林公園",
         "忠孝復興",
-        "忠孝敦化"
+        "忠孝敦化",
+        "松山機場"
       ]
     },
     "ChIJjWuf0E-pQjQRtOmXmAsdmb4": {
@@ -1907,8 +1935,10 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "信義安和",
         "六張犁",
         "科技大樓",
+        "萬芳醫院",
         "麟光"
       ]
     },
@@ -1952,6 +1982,7 @@
         "中山",
         "中山國小",
         "中正紀念堂",
+        "內湖",
         "劍南路",
         "劍潭",
         "北投",
@@ -1979,6 +2010,7 @@
         "明德",
         "景安",
         "景平",
+        "東門",
         "松山機場",
         "松江南京",
         "民權西路",
@@ -2577,6 +2609,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "中原",
         "中和",
         "丹鳳",
         "府中",
@@ -2677,7 +2710,9 @@
         "台大醫院",
         "善導寺",
         "大安森林公園",
-        "忠孝新生"
+        "小南門",
+        "忠孝新生",
+        "永安市場"
       ]
     },
     "ChIJRaUJepepQjQRlJ1zdq5mc7A": {
@@ -3377,8 +3412,12 @@
       "stations": [
         "北投",
         "唭哩岸",
+        "奇岩",
         "復興崗",
+        "忠義",
         "新北投",
+        "明德",
+        "石牌",
         "竹圍",
         "紅樹林",
         "關渡"
@@ -3777,7 +3816,10 @@
       "price_level": "PRICE_LEVEL_INEXPENSIVE",
       "photo_name": "places/ChIJgxYoRwwDaDQRNdy-cAHZqsE/photos/Aa-ngMb3HMD2_yXZm1vp41LfecW6QVJyUdsDNsyqU_Fi0f0rCTB_f2H1y7UHWh0_VN5cAWdxEUr458cauVnxDnP8VGha9qy-2J_JPDPj1aQkwwAm-hw73ZmuvUunIo-30QOwHFMFribupg1yyPm3SDrQuDmjVrDpnTAZwypYHL0AqreqEPB2Nx40osxiXGm7cUYPR14dsvNZaI-QXo1ehz9V4OROyb6W9HlCN1k43-W9_AeXJEHUaJpWGAr_WvBROR1TW8no-dXr5D5cWe8mtamGUOD1FWqNtVME-Rb4f3l-IrHdavhhL03DfciuO-uODIwQWtSMTrQdjQ6xrt8a3Cr3Q29IqaGRphIO1-SquKa_teGvDMRDTPYma250CAuPT_jqW9EBwJvJkajtJLRO0_jln_OPuHR4urEykmoAEVRzsxb5cw",
       "baseline": true,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "亞東醫院"
+      ]
     },
     "ChIJU-CM_0OrQjQRT-lyqLiX1N8": {
       "name": "陶薪珈琲故事所",
@@ -3815,7 +3857,8 @@
       "candidate": false,
       "stations": [
         "中原",
-        "板新"
+        "板新",
+        "橋和"
       ]
     },
     "ChIJcwCDZ-wdaDQRJ14ZvHfVs5U": {
@@ -3868,6 +3911,7 @@
         "大橋頭",
         "大直",
         "徐匯中學",
+        "忠孝新生",
         "松山機場",
         "松江南京",
         "民權西路",
@@ -4714,6 +4758,7 @@
         "十四張",
         "南京三民",
         "南京復興",
+        "南勢角",
         "南港展覽館",
         "台北101/世貿",
         "台北小巨蛋",
@@ -4901,7 +4946,10 @@
       "price_level": null,
       "photo_name": "places/ChIJh2uTeDusQjQRtayqfAVhdQg/photos/Aa-ngMZtnBOfCnL1kp5lBLXdzhqfkdN-HDqv54wEv7kY2om6xUu5Gwfl2GE1S1gNmby5VvcpE4sqI3Lw3NCDHQ1-_WE54qpgWVzlTHhPNwh-zcGUWrv_-gGW7dY8BjNGMSmjd9_m8lnyC6Dmd1q17lJ6KLinrZ0PArK-huIHukFdv3d3ibJpQTYBr5mhkup9rwbWnWhOviKFxMry3JkDNEtIRluQcI4nqi3qNnhZ5jKFh8YezVtxhkBxMGMeOI_Ity4k9mfyo1adf8IlbSAyrIamMcdqGprTKJ9wK3tQF8p8rEL-SS-geadAK_I6H3mob_4Hd_5msFoafc6VPMI8GQKa1TG5IU3lyFBAEqlpxKUx-cJ7VllP411j00MjGmtk5bMmdfcXPP7MVlz9tQy7SpIpNoX0TUU",
       "baseline": true,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "劍南路"
+      ]
     },
     "ChIJ0TklDKqrQjQRLAWzZf2HNbI": {
       "name": "樂雅樂餐廳 生技園區店",
@@ -5098,6 +5146,7 @@
         "小南門",
         "忠孝新生",
         "景安",
+        "景美",
         "東門",
         "橋和",
         "秀朗橋",
@@ -5126,7 +5175,9 @@
         "奇岩",
         "復興崗",
         "忠義",
-        "新北投"
+        "新北投",
+        "石牌",
+        "關渡"
       ]
     },
     "ChIJP-dotkqrQjQRpaOwby3BwtM": {
@@ -5259,6 +5310,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "七張",
         "中原",
         "中和",
         "十四張",
@@ -5295,6 +5347,7 @@
         "南京復興",
         "古亭",
         "台北小巨蛋",
+        "善導寺",
         "國父紀念館",
         "大安",
         "大安森林公園",
@@ -5655,6 +5708,7 @@
         "劍南路",
         "劍潭",
         "北投",
+        "台北橋",
         "圓山",
         "士林",
         "大橋頭",
@@ -6134,7 +6188,10 @@
       "price_level": "PRICE_LEVEL_MODERATE",
       "photo_name": "places/ChIJL-GEua2pQjQRogM0KVaJNeE/photos/Aa-ngMb5nkM6odKzeCupmxJgAVdWSdSRQlp8mADUXmyWOmK3TpVms5Wnb7xkZKFvz2abWy9QA7YMtLsV7Q3czFce-f5h3UJ55HnN0wd1SQLFGSFCQpmE5h06vE0xEiHmWjSahBRG6_Py_bMDnfV2-tYavwXfmKVPtvCwParBs_biO6c5Gc3XJ55utwoTYEF26KiK5szfpyKb4Tm5eArMJVSBwXSLeoAkrH8PG3Fa950eBEV4cvQXvTKshGI1KH6WLzIjABj8bM5h3D7f8kFG9H07XT2Y0F4MEAamS07AWScSOJwLrUDvB-qc_Ly_uCU-J_iGLeRxG7zV9oi79Wy7BrJs7YzpNqMp-pQpKbGG6gP9Bzeplkp5jbSmXD4e51aD5lCieca0jRBuh8P8zgBg6aOi15m5SjR9IeQ",
       "baseline": true,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "新埔民生"
+      ]
     },
     "ChIJR1eSLdypQjQRjFMtu3MQX0I": {
       "name": "野人雞蛋糕 新埔Jr",
@@ -6291,7 +6348,8 @@
         "新北投",
         "明德",
         "石牌",
-        "芝山"
+        "芝山",
+        "關渡"
       ]
     },
     "ChIJObqbZ6SnQjQRp2aT1A67DJc": {
@@ -7142,23 +7200,36 @@
       "stations": [
         "中山",
         "中山國中",
+        "中正紀念堂",
         "信義安和",
         "公館",
         "六張犁",
         "北門",
         "南京三民",
         "南京復興",
+        "古亭",
         "台北小巨蛋",
+        "台北車站",
+        "台大醫院",
+        "台電大樓",
+        "善導寺",
+        "大坪林",
         "大安",
         "大安森林公園",
+        "小南門",
         "忠孝復興",
         "忠孝敦化",
         "忠孝新生",
+        "景美",
+        "東門",
         "松山",
         "松山機場",
         "永安市場",
         "科技大樓",
+        "萬芳醫院",
+        "萬隆",
         "西門",
+        "辛亥",
         "頂溪",
         "麟光"
       ]
@@ -7265,6 +7336,7 @@
       "stations": [
         "丹鳳",
         "新莊",
+        "泰山",
         "泰山貴和",
         "輔大",
         "迴龍"
@@ -7385,6 +7457,7 @@
         "雙連",
         "頂埔",
         "頂溪",
+        "頭前庄",
         "麟光",
         "龍山寺"
       ]
@@ -7454,6 +7527,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "台大醫院",
         "善導寺",
         "大安森林公園",
         "忠孝新生"
@@ -7537,6 +7611,7 @@
       "candidate": false,
       "stations": [
         "內湖",
+        "大湖公園",
         "文德",
         "東湖",
         "葫洲"
@@ -7897,11 +7972,13 @@
         "忠孝復興",
         "忠孝敦化",
         "忠孝新生",
+        "忠義",
         "文德",
         "新北投",
         "新北產業園區",
         "新埔",
         "新埔民生",
+        "新店",
         "新店區公所",
         "新莊",
         "昆陽",
@@ -7931,6 +8008,7 @@
         "秀朗橋",
         "科技大樓",
         "竹圍",
+        "紅樹林",
         "芝山",
         "菜寮",
         "萬芳社區",
@@ -8235,9 +8313,11 @@
         "中和",
         "中正紀念堂",
         "公館",
+        "十四張",
         "南勢角",
         "古亭",
         "台電大樓",
+        "景安",
         "景平",
         "景美",
         "東門",
@@ -8267,6 +8347,7 @@
         "台北101/世貿",
         "市政府",
         "後山埤",
+        "昆陽",
         "松山",
         "象山"
       ]
@@ -8286,6 +8367,7 @@
       "candidate": false,
       "stations": [
         "小南門",
+        "西門",
         "龍山寺"
       ]
     },
@@ -8847,7 +8929,13 @@
       "candidate": false,
       "stations": [
         "中山國小",
-        "圓山"
+        "劍南路",
+        "劍潭",
+        "圓山",
+        "大橋頭",
+        "松江南京",
+        "民權西路",
+        "雙連"
       ]
     },
     "ChIJs4lvnM2rQjQRM28aEI3ThYo": {
@@ -9420,6 +9508,7 @@
         "菜寮",
         "西門",
         "雙連",
+        "頂溪",
         "龍山寺"
       ]
     },
@@ -9584,6 +9673,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "三和國中",
         "三重",
         "三重國小",
         "中山",
@@ -9598,7 +9688,8 @@
         "民權西路",
         "菜寮",
         "西門",
-        "雙連"
+        "雙連",
+        "龍山寺"
       ]
     },
     "ChIJhTXJjh6oQjQRSKCh4Nlo93o": {
@@ -10124,8 +10215,10 @@
         "景安",
         "板新",
         "板橋",
+        "橋和",
         "江子翠",
         "泰山",
+        "泰山貴和",
         "輔大",
         "迴龍",
         "頭前庄"
@@ -10838,6 +10931,7 @@
       "candidate": false,
       "stations": [
         "三重",
+        "中原",
         "中和",
         "中正紀念堂",
         "北門",
@@ -10904,14 +10998,27 @@
       "stations": [
         "信義安和",
         "六張犁",
+        "動物園",
+        "南京三民",
+        "南京復興",
         "台北101/世貿",
+        "台北小巨蛋",
         "國父紀念館",
         "大安",
+        "市政府",
+        "後山埤",
         "忠孝復興",
         "忠孝敦化",
         "忠孝新生",
+        "昆陽",
+        "木柵",
         "松山",
-        "科技大樓"
+        "永春",
+        "科技大樓",
+        "萬芳社區",
+        "萬芳醫院",
+        "象山",
+        "麟光"
       ]
     },
     "ChIJnU3U9WGnQjQRTCKtPYXP6pc": {
@@ -11012,9 +11119,11 @@
       "candidate": false,
       "stations": [
         "中山國小",
+        "劍潭",
         "圓山",
         "大橋頭",
-        "大直"
+        "大直",
+        "民權西路"
       ]
     },
     "ChIJe_nxgIMdaDQR92Szb8MmHKM": {
@@ -11320,7 +11429,9 @@
         "文德",
         "昆陽",
         "東湖",
-        "葫洲"
+        "港墘",
+        "葫洲",
+        "西湖"
       ]
     },
     "ChIJk_d8UcupQjQRBVrkjf--heQ": {
@@ -11451,6 +11562,7 @@
         "信義安和",
         "公館",
         "六張犁",
+        "南京三民",
         "台北101/世貿",
         "台北小巨蛋",
         "國父紀念館",
@@ -11465,6 +11577,7 @@
         "永春",
         "科技大樓",
         "萬芳社區",
+        "萬芳醫院",
         "西湖",
         "象山",
         "辛亥",
@@ -11955,6 +12068,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "中山國中",
         "南京復興"
       ]
     },
@@ -12476,6 +12590,7 @@
         "明德",
         "石牌",
         "竹圍",
+        "紅樹林",
         "關渡"
       ]
     },
@@ -12785,6 +12900,7 @@
         "大安",
         "大安森林公園",
         "忠孝復興",
+        "忠孝敦化",
         "忠孝新生",
         "景美",
         "木柵",
@@ -12849,6 +12965,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "十四張",
         "南勢角",
         "景安",
         "景平",
@@ -13393,6 +13510,7 @@
         "南港展覽館",
         "南港軟體園區",
         "大湖公園",
+        "大直",
         "文德",
         "昆陽",
         "東湖",
@@ -14390,6 +14508,7 @@
         "北投",
         "台北橋",
         "唭哩岸",
+        "大橋頭",
         "奇岩",
         "徐匯中學",
         "復興崗",
@@ -14865,7 +14984,8 @@
         "復興崗",
         "新北投",
         "明德",
-        "石牌"
+        "石牌",
+        "芝山"
       ]
     },
     "ChIJUw16o0mnQjQR4eHa2Bhqcps": {
@@ -14937,9 +15057,13 @@
         "新莊",
         "板新",
         "板橋",
+        "橋和",
+        "永寧",
         "江子翠",
         "泰山",
         "泰山貴和",
+        "竹圍",
+        "紅樹林",
         "菜寮",
         "輔大",
         "迴龍",
@@ -15418,6 +15542,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "南港",
         "市政府",
         "後山埤",
         "昆陽",
@@ -15511,8 +15636,11 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "府中",
+        "新埔",
         "新埔民生",
-        "板新"
+        "板新",
+        "板橋"
       ]
     },
     "ChIJL8XQG96rQjQR3Pefv2NemuQ": {
@@ -15546,7 +15674,9 @@
       "baseline": true,
       "candidate": false,
       "stations": [
-        "木柵"
+        "動物園",
+        "木柵",
+        "萬芳社區"
       ]
     },
     "ChIJoekXYq-pQjQRkZJX-yudBi0": {
@@ -15794,6 +15924,7 @@
       "candidate": false,
       "stations": [
         "士林",
+        "明德",
         "芝山"
       ]
     },
@@ -15811,7 +15942,8 @@
       "baseline": true,
       "candidate": false,
       "stations": [
-        "三重"
+        "三重",
+        "菜寮"
       ]
     },
     "ChIJy9Q3s06rQjQRm1Pb5o1iV7I": {
@@ -15941,10 +16073,12 @@
         "南京三民",
         "南京復興",
         "台北小巨蛋",
+        "台電大樓",
         "國父紀念館",
         "大安",
         "忠孝復興",
-        "忠孝敦化"
+        "忠孝敦化",
+        "忠孝新生"
       ]
     },
     "ChIJRzWfGWIDaDQRwB8IGFpED5E": {
@@ -16623,6 +16757,8 @@
         "北門",
         "南京三民",
         "南京復興",
+        "南港展覽館",
+        "南港軟體園區",
         "台北小巨蛋",
         "台北橋",
         "台大醫院",
@@ -16633,12 +16769,15 @@
         "大湖公園",
         "大直",
         "奇岩",
+        "小南門",
         "徐匯中學",
         "忠孝復興",
         "忠孝新生",
         "忠義",
         "文德",
         "明德",
+        "東湖",
+        "東門",
         "松山",
         "松山機場",
         "松江南京",
@@ -16705,6 +16844,7 @@
         "新莊",
         "泰山",
         "泰山貴和",
+        "輔大",
         "迴龍",
         "頭前庄"
       ]
@@ -16741,6 +16881,8 @@
       "candidate": false,
       "stations": [
         "北投",
+        "唭哩岸",
+        "奇岩",
         "復興崗",
         "新北投"
       ]
@@ -16762,7 +16904,8 @@
         "信義安和",
         "六張犁",
         "大安",
-        "忠孝復興"
+        "忠孝復興",
+        "科技大樓"
       ]
     },
     "ChIJnW61xiKpQjQRYVD3x_2JYZs": {
@@ -17034,6 +17177,8 @@
         "萬芳社區",
         "萬隆",
         "西門",
+        "輔大",
+        "迴龍",
         "關渡",
         "雙連",
         "頂溪",
@@ -17055,10 +17200,14 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "三重國小",
         "中山",
         "中山國小",
+        "劍潭",
         "北門",
+        "台北橋",
         "台北車站",
+        "台大醫院",
         "善導寺",
         "圓山",
         "大橋頭",
@@ -17769,6 +17918,7 @@
         "善導寺",
         "圓山",
         "士林",
+        "大安森林公園",
         "大橋頭",
         "奇岩",
         "小南門",
@@ -17883,6 +18033,7 @@
         "三重",
         "三重國小",
         "中原",
+        "中和",
         "中山國中",
         "中山國小",
         "先嗇宮",
@@ -17892,6 +18043,7 @@
         "動物園",
         "十四張",
         "南京三民",
+        "南勢角",
         "南港展覽館",
         "南港軟體園區",
         "台北橋",
@@ -17919,6 +18071,7 @@
         "松山機場",
         "松江南京",
         "橋和",
+        "永寧",
         "泰山",
         "泰山貴和",
         "港墘",
@@ -18068,6 +18221,7 @@
         "市政府",
         "忠孝復興",
         "忠孝敦化",
+        "木柵",
         "科技大樓",
         "象山",
         "麟光"
@@ -18126,7 +18280,8 @@
       "baseline": true,
       "candidate": false,
       "stations": [
-        "市政府"
+        "市政府",
+        "象山"
       ]
     },
     "ChIJJaYcLIuuQjQRaQ-YtpJXUcw": {
@@ -18774,6 +18929,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "亞東醫院",
         "土城",
         "永寧",
         "海山",
@@ -18990,6 +19146,7 @@
       "stations": [
         "士林",
         "明德",
+        "石牌",
         "芝山"
       ]
     },
@@ -19012,6 +19169,7 @@
         "中和",
         "先嗇宮",
         "小南門",
+        "景安",
         "永安市場",
         "江子翠",
         "西門",
@@ -19146,8 +19304,16 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "中原",
+        "亞東醫院",
         "府中",
-        "板橋"
+        "新埔",
+        "新埔民生",
+        "板新",
+        "板橋",
+        "江子翠",
+        "泰山貴和",
+        "海山"
       ]
     },
     "ChIJJ5XcegepQjQRZC3ZbnQ15g8": {
@@ -19356,6 +19522,7 @@
         "新北產業園區",
         "新莊",
         "輔大",
+        "迴龍",
         "頭前庄"
       ]
     },
@@ -19485,6 +19652,7 @@
         "北門",
         "小南門",
         "西門",
+        "頂埔",
         "龍山寺"
       ]
     },
@@ -20056,6 +20224,7 @@
         "六張犁",
         "大安",
         "科技大樓",
+        "萬芳醫院",
         "辛亥",
         "麟光"
       ]
@@ -20384,6 +20553,7 @@
       "candidate": false,
       "stations": [
         "泰山貴和",
+        "迴龍",
         "頂埔",
         "體育大學"
       ]
@@ -20800,6 +20970,7 @@
         "圓山",
         "大橋頭",
         "民權西路",
+        "西門",
         "雙連"
       ]
     },
@@ -20943,6 +21114,7 @@
         "信義安和",
         "六張犁",
         "南京復興",
+        "台北小巨蛋",
         "國父紀念館",
         "大安",
         "大安森林公園",
@@ -21271,7 +21443,8 @@
       "baseline": true,
       "candidate": false,
       "stations": [
-        "台北101/世貿"
+        "台北101/世貿",
+        "象山"
       ]
     },
     "ChIJCTRvFBWtQjQRNu42eXvgYX0": {
@@ -21286,7 +21459,10 @@
       "price_level": "PRICE_LEVEL_EXPENSIVE",
       "photo_name": "places/ChIJCTRvFBWtQjQRNu42eXvgYX0/photos/Aa-ngMaRGU2p0Yi4b3RQOdwI-4uv78gesx--srdoxJZYsL5Cc1zbYg5o1TdMLZuakx9-i-hPPVhd5YyHkg-Z4FGX6FokR2_8CrwbdCtC9iDEiWFw4OyqDoJFqSJN4emXIqhKOLaWuHJqY835gxz31q3JYN1qyYO5fndMU8mEoedPo1sbzBj9WgkhlfMPnMqzN4PhKa8tICUdZ7IX1_BvzX1XLVRRRJ0SpiNoOpZnH8HfSqkKRDgMGw_WwgiyBLlsdZfKG2uecpBoikKoqk8zvZHyJiDuadVf92A1HArd9vgCqsaVtzI84VhEqs4Tlk4TWZGTbjbOYllK-G4AC8R7vlNUFbnXXo88McengSagSZzLLbag0WQJeU9p6XmN5WtxgRthy0TGQBY2XFhMFZ5YR-w-8Y4CKxJfK_8",
       "baseline": true,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "劍南路"
+      ]
     },
     "ChIJQUGzwdEDaDQRI7K7Rmqr8wE": {
       "name": "千品苑手沖咖啡｜寵物友善",
@@ -21363,7 +21539,11 @@
       "price_level": "PRICE_LEVEL_INEXPENSIVE",
       "photo_name": "places/ChIJ-4DZrSSrQjQRlvuS3rJzc6s/photos/Aa-ngMZb03aYsvPiXp3clfOlarYWYvli02Vvof1rFXTQcdkweaptHxvpT786XUFipgvwXZOGUADPy28JS1Cjge31ieqb7GgWKC1NUDbXxRC3luruzTZ_szr2kHOoXnu1ZKx8MwFquAabudlhEP04KOJb489xOM7p_Sx37SMmODZaUW2OEifTLs2mx4lm4VE6FHCZ1ypIZeGqbUg-wONCOEWaA-NN6X7m_EKcsUkTxTQSon57WdSMp-huVqGIhoR_p_dccBim6Yi0y-WwmXImX9d1Up2CpSJ8yQXk55r9CGYW9hFLq7hjJ_8DpAh5XF3KMd_BtjiJtmpyDFNdxs2kP8p9ZW5hoYEOUxsvPhJKvFVnG6BWV5mN3oMxvX2xgDIAdB5m5YhlmxoggKKAhcuGyomsEK0mvkErjMmHUvcJEXe20MUZ9Q",
       "baseline": true,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "西門",
+        "龍山寺"
+      ]
     },
     "ChIJe39RryqnQjQRhUd77RUvc88": {
       "name": "好好時光咖啡廳 Well-Being Café(目前不提供餐飲服務，場地租借歡迎預約）",
@@ -21605,6 +21785,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "中正紀念堂",
         "信義安和",
         "公館",
         "六張犁",
@@ -21612,6 +21793,7 @@
         "台電大樓",
         "大安",
         "大安森林公園",
+        "忠孝新生",
         "東門",
         "科技大樓",
         "萬隆",
@@ -22390,6 +22572,7 @@
       "stations": [
         "三重",
         "三重國小",
+        "中原",
         "中山",
         "中山國中",
         "中山國小",
@@ -22433,6 +22616,7 @@
       "candidate": false,
       "stations": [
         "內湖",
+        "南港展覽館",
         "南港軟體園區",
         "大湖公園",
         "文德",
@@ -22589,6 +22773,7 @@
         "信義安和",
         "公館",
         "六張犁",
+        "南京三民",
         "南京復興",
         "台北小巨蛋",
         "大安",
@@ -22652,14 +22837,21 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "中山國中",
         "信義安和",
         "公館",
         "六張犁",
+        "北門",
+        "南京三民",
+        "南京復興",
+        "台北小巨蛋",
         "大安",
         "大安森林公園",
         "忠孝復興",
         "忠孝敦化",
         "忠孝新生",
+        "松山",
+        "松山機場",
         "科技大樓",
         "麟光"
       ]
@@ -22743,10 +22935,12 @@
         "先嗇宮",
         "內湖",
         "公館",
+        "劍南路",
         "劍潭",
         "北門",
         "十四張",
         "南京復興",
+        "南勢角",
         "南港",
         "南港展覽館",
         "古亭",
@@ -22776,6 +22970,7 @@
         "明德",
         "景安",
         "景平",
+        "景美",
         "東湖",
         "東門",
         "松山",
@@ -22786,6 +22981,7 @@
         "永安市場",
         "永寧",
         "江子翠",
+        "泰山",
         "泰山貴和",
         "港墘",
         "秀朗橋",
@@ -22854,8 +23050,10 @@
         "台大醫院",
         "台電大樓",
         "善導寺",
+        "土城",
         "大安森林公園",
         "小南門",
+        "忠孝新生",
         "新店",
         "新莊",
         "景安",
@@ -22864,10 +23062,13 @@
         "東門",
         "橋和",
         "永安市場",
+        "永寧",
         "秀朗橋",
+        "萬芳醫院",
         "萬隆",
         "西門",
         "關渡",
+        "頂埔",
         "頂溪",
         "頭前庄",
         "體育大學",
@@ -23064,6 +23265,7 @@
         "圓山",
         "大橋頭",
         "民權西路",
+        "西門",
         "雙連"
       ]
     },
@@ -23579,10 +23781,14 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "台北101/世貿",
+        "國父紀念館",
+        "市政府",
         "後山埤",
         "昆陽",
         "松山",
-        "永春"
+        "永春",
+        "象山"
       ]
     },
     "ChIJP-PjzkOpQjQRttc3FIHDk0E": {
@@ -24587,6 +24793,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "三和國中",
         "三重",
         "中原",
         "中和",
@@ -24886,6 +25093,7 @@
         "萬隆",
         "輔大",
         "辛亥",
+        "迴龍",
         "頂埔",
         "頂溪",
         "麟光",
@@ -25216,6 +25424,7 @@
       "candidate": false,
       "stations": [
         "北投",
+        "奇岩",
         "復興崗",
         "忠義",
         "新北投"
@@ -25546,6 +25755,7 @@
       "candidate": false,
       "stations": [
         "小南門",
+        "菜寮",
         "西門",
         "龍山寺"
       ]
@@ -25659,6 +25869,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "三和國中",
         "徐匯中學",
         "忠義",
         "竹圍",
@@ -26031,7 +26242,12 @@
       "price_level": "PRICE_LEVEL_MODERATE",
       "photo_name": "places/ChIJf9I0P9SrQjQRhIIDDEjwvfA/photos/Aa-ngMaJjDPzP3KNXI04Eab_BryEdaBekwlg_4-02lI0xcV8a9_1CKB1csUMB2skyPjfwiJdHw5KPgjjyWfiCljTQL4hxPYUjZ8HG1rweznGdzEOc9_0EqOGm-SLefx1cjqK55kM2v2ROxAUIC4ff1Z0ZFtApiCNrVIirv13udZco_VWlv-ZP_We0VksT9DW1CiaAbwz_tKZIx4KGlw70-BdzMjD7IixvGhdAIhfFJSoVJ6qvbP26JZv2JxefpeO2aVBSfHBW2qSkmA3ibpHlU98njWFcR1aU4EvhT-Evmu8FBuh1rjiygUZFXm66MuY3jiODtD-eNZuP3233cDCYGMaIym_A7iZu4jK0F5zpIOVqICma-WuXbQ404uNO1EefXM3HzsHiV0sHojsSmyOHSlVOA_ZtA",
       "baseline": true,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "南京三民",
+        "松山",
+        "象山"
+      ]
     },
     "ChIJHR0dIIGvQjQRZVRBYUYu-_s": {
       "name": "茶茶王國[士林店]-Matcha Prince茶茶王国のおうじちゃま",
@@ -26067,6 +26283,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "南京三民",
         "市政府",
         "後山埤",
         "松山",
@@ -26902,6 +27119,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "中原",
         "新埔",
         "新埔民生",
         "板新",
@@ -27092,6 +27310,7 @@
         "古亭",
         "台北車站",
         "台大醫院",
+        "台電大樓",
         "善導寺",
         "大安森林公園",
         "小南門",
@@ -27883,6 +28102,7 @@
       "candidate": false,
       "stations": [
         "淡水",
+        "竹圍",
         "紅樹林"
       ]
     },
@@ -27904,7 +28124,8 @@
         "南京復興",
         "台北小巨蛋",
         "大直",
-        "松山機場"
+        "松山機場",
+        "松江南京"
       ]
     },
     "ChIJSQaTf5KrQjQRUZ0rlNxUZtQ": {
@@ -28038,6 +28259,7 @@
         "圓山",
         "大橋頭",
         "民權西路",
+        "菜寮",
         "雙連"
       ]
     },
@@ -28088,6 +28310,7 @@
         "七張",
         "三和國中",
         "三重",
+        "中原",
         "中和",
         "中山",
         "中山國中",
@@ -28425,7 +28648,8 @@
       "candidate": false,
       "stations": [
         "台北101/世貿",
-        "市政府"
+        "市政府",
+        "永春"
       ]
     },
     "ChIJn1sydwCrQjQRw3jIuNmsGno": {
@@ -28618,6 +28842,7 @@
         "七張",
         "中原",
         "中和",
+        "中正紀念堂",
         "公館",
         "動物園",
         "十四張",
@@ -28685,6 +28910,7 @@
         "劍南路",
         "劍潭",
         "動物園",
+        "北投",
         "北門",
         "南京復興",
         "古亭",
@@ -28698,6 +28924,7 @@
         "大直",
         "小南門",
         "徐匯中學",
+        "復興崗",
         "忠孝復興",
         "忠孝新生",
         "景安",
@@ -28877,6 +29104,7 @@
       "candidate": false,
       "stations": [
         "北門",
+        "台大醫院",
         "小南門",
         "西門",
         "龍山寺"
@@ -28941,7 +29169,8 @@
       "candidate": false,
       "stations": [
         "忠孝復興",
-        "忠孝敦化"
+        "忠孝敦化",
+        "忠孝新生"
       ]
     },
     "ChIJCyKuHW-sQjQRLbLgae6QWSU": {
@@ -28989,11 +29218,15 @@
         "中正紀念堂",
         "先嗇宮",
         "內湖",
+        "公館",
         "劍南路",
         "劍潭",
         "北投",
         "北門",
+        "南京三民",
+        "南京復興",
         "古亭",
+        "台北小巨蛋",
         "台北橋",
         "台北車站",
         "台大醫院",
@@ -29002,6 +29235,7 @@
         "善導寺",
         "圓山",
         "士林",
+        "大安森林公園",
         "大橋頭",
         "大湖公園",
         "大直",
@@ -29018,6 +29252,7 @@
         "松山機場",
         "松江南京",
         "民權西路",
+        "江子翠",
         "港墘",
         "石牌",
         "竹圍",
@@ -29267,7 +29502,9 @@
       "baseline": true,
       "candidate": false,
       "stations": [
-        "淡水"
+        "淡水",
+        "竹圍",
+        "紅樹林"
       ]
     },
     "ChIJd3tXH8yrQjQRRtU-NjA-d_o": {
@@ -29451,6 +29688,7 @@
       "candidate": false,
       "stations": [
         "七張",
+        "動物園",
         "十四張",
         "大坪林",
         "景美",
@@ -29758,6 +29996,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "小南門",
         "西門",
         "龍山寺"
       ]
@@ -29776,6 +30015,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "內湖",
         "大湖公園",
         "東湖",
         "葫洲"
@@ -29901,6 +30141,8 @@
       "candidate": false,
       "stations": [
         "北投",
+        "奇岩",
+        "復興崗",
         "新北投"
       ]
     },
@@ -30082,6 +30324,7 @@
         "景美",
         "木柵",
         "東門",
+        "松江南京",
         "板新",
         "橋和",
         "永安市場",
@@ -30518,6 +30761,7 @@
         "木柵",
         "東門",
         "松山",
+        "永春",
         "科技大樓",
         "萬芳社區",
         "萬芳醫院",
@@ -30559,6 +30803,7 @@
         "台北101/世貿",
         "國父紀念館",
         "大安",
+        "忠孝復興",
         "忠孝敦化",
         "科技大樓",
         "象山"
@@ -30803,6 +31048,7 @@
         "三重",
         "三重國小",
         "中原",
+        "中和",
         "中正紀念堂",
         "先嗇宮",
         "北門",
@@ -30875,6 +31121,7 @@
       "candidate": false,
       "stations": [
         "六張犁",
+        "科技大樓",
         "麟光"
       ]
     },
@@ -31369,12 +31616,14 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "七張",
         "中山國中",
         "信義安和",
         "內湖",
         "六張犁",
         "劍南路",
         "動物園",
+        "十四張",
         "南京三民",
         "南京復興",
         "南港",
@@ -31382,8 +31631,10 @@
         "南港軟體園區",
         "台北101/世貿",
         "台北小巨蛋",
+        "台電大樓",
         "國父紀念館",
         "大坪林",
+        "大安森林公園",
         "大湖公園",
         "大直",
         "市政府",
@@ -31391,6 +31642,8 @@
         "忠孝復興",
         "忠孝敦化",
         "文德",
+        "新店",
+        "新店區公所",
         "昆陽",
         "景平",
         "景美",
@@ -31409,6 +31662,7 @@
         "西湖",
         "象山",
         "辛亥",
+        "頂溪",
         "麟光"
       ]
     },
@@ -31461,6 +31715,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "丹鳳",
         "新北產業園區",
         "新莊",
         "泰山",
@@ -31725,7 +31980,8 @@
       "baseline": true,
       "candidate": false,
       "stations": [
-        "中山"
+        "中山",
+        "台北車站"
       ]
     },
     "ChIJ6amtWfGpQjQRqdqqKlG47qw": {
@@ -32282,7 +32538,8 @@
         "大橋頭",
         "小南門",
         "菜寮",
-        "西門"
+        "西門",
+        "龍山寺"
       ]
     },
     "ChIJmYvKcaKrQjQRP84_3tp7iW0": {
@@ -32782,6 +33039,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "丹鳳",
         "泰山",
         "泰山貴和",
         "迴龍"
@@ -33526,6 +33784,7 @@
       "stations": [
         "三重",
         "三重國小",
+        "中原",
         "中和",
         "中山",
         "中正紀念堂",
@@ -33537,13 +33796,16 @@
         "台電大樓",
         "善導寺",
         "大安森林公園",
+        "大橋頭",
         "小南門",
         "徐匯中學",
         "忠孝新生",
         "景安",
         "東門",
         "松江南京",
+        "民權西路",
         "江子翠",
+        "秀朗橋",
         "菜寮",
         "西門",
         "雙連",
@@ -33759,6 +34021,7 @@
         "大坪林",
         "新店",
         "新店區公所",
+        "景平",
         "景美",
         "秀朗橋"
       ]
@@ -33851,6 +34114,7 @@
         "三重",
         "三重國小",
         "中山",
+        "中山國小",
         "劍潭",
         "北門",
         "台北橋",
@@ -34084,6 +34348,7 @@
         "南京復興",
         "南勢角",
         "南港",
+        "南港展覽館",
         "南港軟體園區",
         "古亭",
         "台北101/世貿",
@@ -34421,6 +34686,7 @@
       "candidate": false,
       "stations": [
         "丹鳳",
+        "亞東醫院",
         "土城",
         "新北產業園區",
         "新莊",
@@ -34487,7 +34753,8 @@
       "baseline": true,
       "candidate": false,
       "stations": [
-        "劍南路"
+        "劍南路",
+        "西湖"
       ]
     },
     "ChIJFy9dUIkBaDQRVobIv-eOhUQ": {
@@ -34859,6 +35126,7 @@
       "candidate": false,
       "stations": [
         "丹鳳",
+        "新北產業園區",
         "新莊",
         "泰山",
         "輔大",
@@ -34910,6 +35178,7 @@
         "大橋頭",
         "大直",
         "徐匯中學",
+        "民權西路",
         "雙連"
       ]
     },
@@ -35055,6 +35324,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "三和國中",
         "三重",
         "三重國小",
         "中山",
@@ -35070,6 +35340,8 @@
         "圓山",
         "大橋頭",
         "大直",
+        "小南門",
+        "忠孝新生",
         "木柵",
         "松山機場",
         "松江南京",
@@ -35077,7 +35349,8 @@
         "菜寮",
         "西門",
         "迴龍",
-        "雙連"
+        "雙連",
+        "龍山寺"
       ]
     },
     "ChIJK6mILyypQjQRik5uLRJKIxE": {
@@ -35929,9 +36202,12 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "中山國中",
         "中山國小",
         "劍南路",
         "劍潭",
+        "南京三民",
+        "南京復興",
         "松江南京",
         "雙連"
       ]
@@ -36104,6 +36380,7 @@
       "stations": [
         "中正紀念堂",
         "公館",
+        "十四張",
         "古亭",
         "台大醫院",
         "台電大樓",
@@ -36112,8 +36389,11 @@
         "大安森林公園",
         "忠孝復興",
         "忠孝新生",
+        "景平",
         "東門",
+        "秀朗橋",
         "科技大樓",
+        "萬芳社區",
         "萬隆",
         "辛亥",
         "頂溪"
@@ -36400,6 +36680,8 @@
       "candidate": false,
       "stations": [
         "三和國中",
+        "三重國小",
+        "劍南路",
         "劍潭",
         "北投",
         "唭哩岸",
@@ -36412,7 +36694,9 @@
         "新北投",
         "明德",
         "石牌",
+        "竹圍",
         "芝山",
+        "西湖",
         "關渡"
       ]
     },
@@ -36504,6 +36788,7 @@
         "小南門",
         "徐匯中學",
         "復興崗",
+        "忠孝新生",
         "忠義",
         "文德",
         "新北投",
@@ -37135,6 +37420,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "三重",
         "三重國小",
         "中原",
         "中和",
@@ -37143,17 +37429,23 @@
         "丹鳳",
         "先嗇宮",
         "北門",
+        "十四張",
+        "南勢角",
         "台北橋",
         "台北車站",
         "台大醫院",
         "善導寺",
         "小南門",
         "新北產業園區",
+        "新埔",
         "新埔民生",
         "新莊",
+        "景安",
         "松江南京",
+        "板新",
         "橋和",
         "民權西路",
+        "永安市場",
         "江子翠",
         "泰山",
         "泰山貴和",
@@ -37162,7 +37454,9 @@
         "輔大",
         "迴龍",
         "雙連",
-        "頭前庄"
+        "頂埔",
+        "頭前庄",
+        "龍山寺"
       ]
     },
     "ChIJ67abfVavQjQRscMhuF5_tQA": {
@@ -37610,6 +37904,7 @@
         "公館",
         "六張犁",
         "動物園",
+        "北投",
         "十四張",
         "南勢角",
         "南港",
@@ -37618,6 +37913,7 @@
         "古亭",
         "台北101/世貿",
         "台電大樓",
+        "善導寺",
         "土城",
         "大坪林",
         "大安",
@@ -37625,9 +37921,11 @@
         "大湖公園",
         "大直",
         "小南門",
+        "市政府",
         "後山埤",
         "復興崗",
         "忠義",
+        "文德",
         "新店",
         "新店區公所",
         "昆陽",
@@ -38390,6 +38688,7 @@
       "candidate": false,
       "stations": [
         "台北101/世貿",
+        "市政府",
         "象山"
       ]
     },
@@ -38567,14 +38866,18 @@
         "台北車站",
         "台大醫院",
         "善導寺",
+        "大橋頭",
         "小南門",
+        "府中",
         "徐匯中學",
         "新北產業園區",
         "新埔",
         "新埔民生",
         "新莊",
+        "景安",
         "板新",
         "橋和",
+        "永安市場",
         "江子翠",
         "菜寮",
         "西門",
@@ -38867,6 +39170,7 @@
         "新店",
         "新店區公所",
         "昆陽",
+        "景美",
         "木柵",
         "東湖",
         "萬芳社區",
@@ -39038,6 +39342,7 @@
         "台北車站",
         "台大醫院",
         "善導寺",
+        "圓山",
         "大橋頭",
         "大直",
         "松江南京",
@@ -39667,7 +39972,16 @@
       "price_level": "PRICE_LEVEL_INEXPENSIVE",
       "photo_name": "places/ChIJHQkIPaGpQjQRfD_HeN5XmdE/photos/Aa-ngMYGiHlH7GgWMFmnH3TJVjlQyJbbEBtFc7cOFnNJlTZ_YHVXkvmrjGoCwVNQkMeEU7Tl51uJhZNIa2v5GVX3RWCQiAEazSIVX0BGgwPJLuilP1-I6BuMcHfJSTJKfQrwZDw0hC2MMBbtPFikbyjebIS06dU5D_jEoqGMGCqvmphylTavNU8SCBF5E7dHChltJ6SaADvy6SvOJUSIVwCOJZ2pkipHggbQx2THYknVfV2TX1PzbjPi7Q5mF41MxLhszj2jHevMUZPbpM-kI9JrFgtHAPvlFxo4NF2qdmYdGBd4UZZf0-F91avKpVVRtxUcSwmcZfUgqnwxr9sJdfxoieoB__jn7mokDIVdc9ZpaahBGf4qTTsD3NdPnRbai2bf-Wbih4i5dJawdwYdgfZVkHDjTxbYlxIOgfqoc4v7F8GP",
       "baseline": true,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "公館",
+        "六張犁",
+        "大安",
+        "大安森林公園",
+        "忠孝新生",
+        "科技大樓",
+        "麟光"
+      ]
     },
     "ChIJFWNIoK2vQjQRJ35-KLamMNM": {
       "name": "予光咖啡",
@@ -39703,6 +40017,7 @@
       "candidate": false,
       "stations": [
         "七張",
+        "中山國中",
         "內湖",
         "六張犁",
         "劍南路",
@@ -39736,6 +40051,7 @@
         "港墘",
         "秀朗橋",
         "科技大樓",
+        "竹圍",
         "萬芳社區",
         "萬芳醫院",
         "萬隆",
@@ -39959,6 +40275,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "市政府",
         "永春",
         "象山"
       ]
@@ -40103,6 +40420,7 @@
         "中和",
         "中山國中",
         "中山國小",
+        "中正紀念堂",
         "內湖",
         "劍南路",
         "劍潭",
@@ -40158,6 +40476,7 @@
         "民權西路",
         "永安市場",
         "永寧",
+        "永春",
         "泰山",
         "港墘",
         "石牌",
@@ -40557,11 +40876,23 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "動物園",
+        "南京三民",
         "南港",
+        "南港展覽館",
+        "南港軟體園區",
         "台北101/世貿",
+        "國父紀念館",
         "市政府",
+        "後山埤",
+        "昆陽",
+        "木柵",
+        "東湖",
         "松山",
         "永春",
+        "萬芳社區",
+        "萬芳醫院",
+        "葫洲",
         "象山",
         "麟光"
       ]
@@ -41301,8 +41632,10 @@
         "大直",
         "文德",
         "明德",
+        "松山機場",
         "港墘",
         "芝山",
+        "葫洲",
         "西湖"
       ]
     },
@@ -41493,7 +41826,8 @@
       "baseline": true,
       "candidate": false,
       "stations": [
-        "泰山"
+        "泰山",
+        "泰山貴和"
       ]
     },
     "ChIJKTMk-LurQjQRj34Hcv02Muw": {
@@ -42079,6 +42413,7 @@
         "劍南路",
         "劍潭",
         "北投",
+        "台北橋",
         "唭哩岸",
         "士林",
         "大直",
@@ -42334,7 +42669,9 @@
       "baseline": true,
       "candidate": false,
       "stations": [
-        "動物園"
+        "動物園",
+        "木柵",
+        "萬芳社區"
       ]
     },
     "ChIJSaaF3AepQjQRNWEjmML4q30": {
@@ -43011,16 +43348,23 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "中山",
+        "中山國中",
         "信義安和",
+        "公館",
         "六張犁",
+        "北門",
+        "南京三民",
         "南京復興",
         "台北101/世貿",
         "台北小巨蛋",
         "國父紀念館",
         "大安",
+        "大安森林公園",
         "忠孝復興",
         "忠孝敦化",
         "忠孝新生",
+        "松山",
         "科技大樓",
         "麟光"
       ]
@@ -43202,6 +43546,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "台北橋",
         "圓山",
         "大橋頭",
         "民權西路"
@@ -43247,6 +43592,7 @@
         "台北橋",
         "圓山",
         "大橋頭",
+        "大直",
         "復興崗",
         "松江南京",
         "民權西路",
@@ -43793,10 +44139,13 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "三和國中",
+        "三重",
         "中山",
         "中山國中",
         "中山國小",
         "信義安和",
+        "先嗇宮",
         "內湖",
         "公館",
         "六張犁",
@@ -43838,6 +44187,7 @@
         "永春",
         "港墘",
         "科技大樓",
+        "芝山",
         "萬芳社區",
         "萬芳醫院",
         "萬隆",
@@ -43868,6 +44218,7 @@
         "公館",
         "六張犁",
         "南京復興",
+        "南勢角",
         "台北101/世貿",
         "台北小巨蛋",
         "台電大樓",
@@ -43878,7 +44229,9 @@
         "忠孝敦化",
         "忠孝新生",
         "景安",
+        "景平",
         "東門",
+        "秀朗橋",
         "科技大樓",
         "麟光"
       ]
@@ -44246,10 +44599,15 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "亞東醫院",
         "先嗇宮",
+        "府中",
         "新埔",
         "新埔民生",
-        "江子翠"
+        "板新",
+        "板橋",
+        "江子翠",
+        "海山"
       ]
     },
     "ChIJnd54fJSpQjQReRwwD640fwI": {
@@ -44276,6 +44634,7 @@
         "中山國小",
         "中正紀念堂",
         "丹鳳",
+        "信義安和",
         "先嗇宮",
         "內湖",
         "公館",
@@ -44339,6 +44698,7 @@
         "民權西路",
         "永安市場",
         "永寧",
+        "永春",
         "江子翠",
         "泰山",
         "泰山貴和",
@@ -44437,6 +44797,7 @@
         "南港軟體園區",
         "台北小巨蛋",
         "台北橋",
+        "台北車站",
         "唭哩岸",
         "圓山",
         "士林",
@@ -44749,13 +45110,17 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "內湖",
         "南港",
         "南港展覽館",
         "南港軟體園區",
+        "大湖公園",
         "後山埤",
+        "文德",
         "昆陽",
         "東湖",
         "松山",
+        "港墘",
         "葫洲"
       ]
     },
@@ -44932,7 +45297,8 @@
         "南港展覽館",
         "南港軟體園區",
         "昆陽",
-        "東湖"
+        "東湖",
+        "葫洲"
       ]
     },
     "ChIJ5-BN5XCoQjQRshfBPkfN5Bo": {
@@ -45030,7 +45396,10 @@
       "price_level": "PRICE_LEVEL_MODERATE",
       "photo_name": "places/ChIJz0Y0etepQjQRlUVHWbGkkbY/photos/Aa-ngMZjBd9J8_9VqMbeVRrw_8KMl4ZVR0M0MecmIlbQLqSj84kYz34mAzkXSWsP7e8_FXso3EdzcdYIxVI5IhA9aZzGzBxwJrDRgesGQXeRMoYOjho4--V359cuO2AnE2AomA1WGKY3PDeON0SnM1Za_cffB-l_lHyzadhWceGbJLGlIkunbOt-u5SkobATo7kVlnwG7Sn9EmE4Dfm0h1Ol08kjOQcPRJX4pEmMGmNefO2pjkMqUW7Flf67tGFChDqlkk4gsnyYVQT04i5cbwAacKfryTXofIodjD8de7OUyqdCt1tzvSut3OD9AgSZTovGJhlzTT-bDhcrG61B5GChTdtQgJwZBZV6tyKl1FR-mp1NOv_llufgqCqg2Xh3ylMNQqdoG3y8fNgZVMOwrguon4MNaklg34UIPYGit4ze_vRK-A",
       "baseline": true,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "中和"
+      ]
     },
     "ChIJT-EFxRalQjQRMLOrfeH6_0c": {
       "name": "紅毛城旁邊咖啡餐酒館 | 早午餐",
@@ -45212,7 +45581,10 @@
       "price_level": "PRICE_LEVEL_MODERATE",
       "photo_name": "places/ChIJW1m9B7irQjQRVClOY6i0IqA/photos/Aa-ngMZYYeaWFcg-ofubnrsC1jruzxEWp8m6sEFWnXMxUzX20IYGgBbqfNZBUdewMCWeNGNkeFnEG12EuQdrivzztXZ2wLIFodI03ilrHLJ3ghhY78IkL66FX29WXsBY52XtZO4-04tAZ9IXemAxVMwVpG9nVshvI1ntVrlB6gyXLXhT4NMdkASziKqsBGcOw_eiyl0FcHvPRxE2xR2KtzmUYJCBbKb0xHpJIrSzmLi5R-dwwztXQoppPr6v98DnDVzSXg6ZpK09mSYCxSFAFuSQjk0IOGGsvdbOzuYhtHWC2YAFyk1-E4zPcWKJNC-jDBX_iI4jjSpEmtgD9kp1GJeFJ7ozylJqyxokWa10S4bcJ4XkabLIskYigr9QIeNXLTg863uqIq8D_uP380Yj0RBju58zvJbT",
       "baseline": true,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "南京三民"
+      ]
     },
     "ChIJ_-065R-vQjQRoUqFIWnhKW0": {
       "name": "雪花咖啡",
@@ -45346,6 +45718,7 @@
         "中正紀念堂",
         "古亭",
         "台電大樓",
+        "東門",
         "頂溪"
       ]
     },
@@ -45425,6 +45798,7 @@
         "大湖公園",
         "文德",
         "港墘",
+        "葫洲",
         "西湖"
       ]
     },
@@ -45923,6 +46297,7 @@
         "三重國小",
         "中原",
         "中和",
+        "中山",
         "中山國中",
         "中正紀念堂",
         "信義安和",
@@ -46348,9 +46723,11 @@
       "candidate": false,
       "stations": [
         "先嗇宮",
+        "府中",
         "新埔",
         "新埔民生",
         "新莊",
+        "板橋",
         "江子翠",
         "輔大",
         "頭前庄"
@@ -46373,6 +46750,7 @@
         "南勢角",
         "景安",
         "景平",
+        "永安市場",
         "秀朗橋"
       ]
     },
@@ -46390,6 +46768,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "丹鳳",
         "迴龍"
       ]
     },
@@ -46669,6 +47048,9 @@
         "六張犁",
         "動物園",
         "南京三民",
+        "南港",
+        "南港展覽館",
+        "南港軟體園區",
         "台北101/世貿",
         "國父紀念館",
         "市政府",
@@ -47279,6 +47661,7 @@
         "先嗇宮",
         "新北產業園區",
         "新莊",
+        "泰山",
         "頭前庄"
       ]
     },
@@ -47408,6 +47791,7 @@
         "三重",
         "中原",
         "中和",
+        "中正紀念堂",
         "丹鳳",
         "亞東醫院",
         "先嗇宮",
@@ -47469,6 +47853,7 @@
         "大湖公園",
         "大直",
         "文德",
+        "昆陽",
         "東湖",
         "松山",
         "松山機場",
@@ -47784,6 +48169,7 @@
         "秀朗橋",
         "竹圍",
         "菜寮",
+        "西湖",
         "西門",
         "迴龍",
         "關渡",
@@ -47831,6 +48217,7 @@
         "先嗇宮",
         "新北產業園區",
         "新埔",
+        "新埔民生",
         "新莊",
         "江子翠",
         "泰山",
@@ -47854,6 +48241,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "丹鳳",
         "新北產業園區",
         "新莊",
         "泰山",
@@ -48041,9 +48429,11 @@
         "台北橋",
         "台北車站",
         "台大醫院",
+        "台電大樓",
         "善導寺",
         "大橋頭",
         "小南門",
+        "東門",
         "菜寮",
         "西門",
         "龍山寺"
@@ -48314,6 +48704,7 @@
         "善導寺",
         "圓山",
         "大橋頭",
+        "松江南京",
         "民權西路",
         "菜寮",
         "西門",
@@ -48564,6 +48955,7 @@
         "內湖",
         "公館",
         "劍南路",
+        "劍潭",
         "北門",
         "十四張",
         "南京三民",
@@ -48723,6 +49115,7 @@
         "動物園",
         "十四張",
         "大坪林",
+        "景平",
         "景美",
         "木柵",
         "秀朗橋",
@@ -48961,8 +49354,13 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "信義安和",
         "台北101/世貿",
-        "象山"
+        "國父紀念館",
+        "松山",
+        "永春",
+        "象山",
+        "辛亥"
       ]
     },
     "ChIJ5Z0bHpeuQjQRm7K3Imosj4M": {
@@ -49388,14 +49786,22 @@
       "candidate": false,
       "stations": [
         "信義安和",
+        "公館",
         "六張犁",
         "台北101/世貿",
         "國父紀念館",
         "大安",
+        "大安森林公園",
+        "市政府",
+        "忠孝復興",
         "忠孝敦化",
+        "景平",
+        "松山",
         "秀朗橋",
         "科技大樓",
+        "萬隆",
         "象山",
+        "辛亥",
         "麟光"
       ]
     },
@@ -49430,7 +49836,8 @@
       "baseline": true,
       "candidate": false,
       "stations": [
-        "淡水"
+        "淡水",
+        "紅樹林"
       ]
     },
     "ChIJ-fcGnwqvQjQRVWdgKR_qi5A": {
@@ -49542,9 +49949,11 @@
         "三和國中",
         "三重",
         "三重國小",
+        "中原",
         "中山",
         "中山國中",
         "中山國小",
+        "中正紀念堂",
         "先嗇宮",
         "劍南路",
         "劍潭",
@@ -49569,7 +49978,8 @@
         "菜寮",
         "西門",
         "迴龍",
-        "雙連"
+        "雙連",
+        "頂埔"
       ]
     },
     "ChIJpwBjEvmpQjQRIIKlR24w7Ts": {
@@ -49896,7 +50306,8 @@
       "baseline": true,
       "candidate": false,
       "stations": [
-        "大安"
+        "大安",
+        "忠孝復興"
       ]
     },
     "ChIJP_fPOACtQjQRgEsA-DOSwUA": {
@@ -51378,6 +51789,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "十四張",
         "大坪林",
         "景美",
         "萬隆"
@@ -51431,7 +51843,8 @@
         "海山",
         "輔大",
         "迴龍",
-        "頂埔"
+        "頂埔",
+        "頭前庄"
       ]
     },
     "ChIJB0XcpWy7QjQRVOPbPcZXOrQ": {
@@ -52136,7 +52549,9 @@
         "復興崗",
         "忠義",
         "新北投",
-        "石牌"
+        "明德",
+        "石牌",
+        "關渡"
       ]
     },
     "ChIJ0QDnrdirQjQRD2OySM4pb9I": {
@@ -52244,6 +52659,7 @@
       "stations": [
         "劍潭",
         "士林",
+        "明德",
         "芝山"
       ]
     },
@@ -52533,6 +52949,7 @@
       "candidate": false,
       "stations": [
         "十四張",
+        "景平",
         "秀朗橋"
       ]
     },
@@ -53019,6 +53436,7 @@
         "古亭",
         "台電大樓",
         "小南門",
+        "東門",
         "頂溪"
       ]
     },
@@ -53180,7 +53598,8 @@
         "台北小巨蛋",
         "大直",
         "松山機場",
-        "松江南京"
+        "松江南京",
+        "西湖"
       ]
     },
     "ChIJ61ZB1MGpQjQRiX3AMz6GaV8": {
@@ -53556,6 +53975,7 @@
         "新店",
         "新店區公所",
         "景安",
+        "景平",
         "景美",
         "木柵",
         "秀朗橋",
@@ -53876,6 +54296,7 @@
         "台北101/世貿",
         "台北小巨蛋",
         "國父紀念館",
+        "大湖公園",
         "市政府",
         "後山埤",
         "文德",
@@ -54086,6 +54507,7 @@
         "永春",
         "港墘",
         "石牌",
+        "秀朗橋",
         "竹圍",
         "芝山",
         "萬隆",
@@ -54615,6 +55037,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "三和國中",
         "三重",
         "先嗇宮",
         "忠義",
@@ -54671,6 +55094,9 @@
       "candidate": false,
       "stations": [
         "中山國中",
+        "中山國小",
+        "南京復興",
+        "松山機場",
         "松江南京"
       ]
     },
@@ -54851,6 +55277,7 @@
       "candidate": false,
       "stations": [
         "公館",
+        "南勢角",
         "台電大樓",
         "大安",
         "大安森林公園",
@@ -54978,7 +55405,8 @@
         "橋和",
         "江子翠",
         "海山",
-        "輔大"
+        "輔大",
+        "頭前庄"
       ]
     },
     "ChIJpxovZUinQjQRpaumLxuDSL4": {
@@ -55164,7 +55592,8 @@
       "baseline": true,
       "candidate": false,
       "stations": [
-        "新北產業園區"
+        "新北產業園區",
+        "新莊"
       ]
     },
     "ChIJQyWPuLyuQjQRDPXKEBDmERw": {
@@ -55200,6 +55629,7 @@
       "candidate": false,
       "stations": [
         "動物園",
+        "大坪林",
         "木柵",
         "萬芳社區",
         "萬芳醫院",
@@ -55298,7 +55728,9 @@
         "南京復興",
         "台北小巨蛋",
         "國父紀念館",
+        "市政府",
         "忠孝敦化",
+        "昆陽",
         "松山",
         "松山機場"
       ]
@@ -55815,6 +56247,7 @@
         "台電大樓",
         "大坪林",
         "新店",
+        "景安",
         "景平",
         "景美",
         "木柵",
@@ -56163,19 +56596,24 @@
         "六張犁",
         "動物園",
         "南京三民",
+        "南京復興",
+        "古亭",
         "台北101/世貿",
         "台北小巨蛋",
         "台電大樓",
         "國父紀念館",
         "大安",
         "大安森林公園",
+        "市政府",
         "後山埤",
         "忠孝復興",
         "忠孝敦化",
         "忠孝新生",
         "景美",
+        "木柵",
         "東門",
         "松山",
+        "永春",
         "科技大樓",
         "萬芳社區",
         "萬芳醫院",
@@ -56336,6 +56774,7 @@
       "candidate": false,
       "stations": [
         "劍潭",
+        "唭哩岸",
         "士林",
         "大直",
         "明德",
@@ -56989,6 +57428,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "北門",
         "西門",
         "龍山寺"
       ]
@@ -57664,6 +58104,7 @@
       "candidate": false,
       "stations": [
         "丹鳳",
+        "泰山貴和",
         "迴龍"
       ]
     },
@@ -57974,6 +58415,7 @@
         "北投",
         "唭哩岸",
         "士林",
+        "大直",
         "奇岩",
         "復興崗",
         "忠義",
@@ -57981,6 +58423,7 @@
         "明德",
         "石牌",
         "竹圍",
+        "紅樹林",
         "芝山",
         "關渡"
       ]
@@ -58163,11 +58606,24 @@
       "stations": [
         "信義安和",
         "六張犁",
+        "動物園",
+        "南京三民",
+        "南港",
         "台北101/世貿",
         "國父紀念館",
+        "大坪林",
+        "大安",
         "市政府",
         "後山埤",
+        "忠孝敦化",
+        "昆陽",
+        "木柵",
+        "松山",
         "永春",
+        "科技大樓",
+        "萬芳社區",
+        "萬芳醫院",
+        "萬隆",
         "象山",
         "辛亥",
         "麟光"
@@ -58330,6 +58786,7 @@
       "stations": [
         "中正紀念堂",
         "台大醫院",
+        "善導寺",
         "小南門"
       ]
     },
@@ -58820,7 +59277,8 @@
         "圓山",
         "大橋頭",
         "民權西路",
-        "菜寮"
+        "菜寮",
+        "西門"
       ]
     },
     "ChIJ1Sk-qa2tQjQRXxXekf5f9p8": {
@@ -59869,6 +60327,7 @@
         "古亭",
         "台大醫院",
         "善導寺",
+        "忠孝新生",
         "東門"
       ]
     },
@@ -59977,6 +60436,8 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "北投",
+        "奇岩",
         "復興崗",
         "忠義",
         "新北投",
@@ -60713,7 +61174,8 @@
         "中山國中",
         "南京復興",
         "圓山",
-        "松山機場"
+        "松山機場",
+        "松江南京"
       ]
     },
     "ChIJsSEL8p6tQjQRcTj_-j9JEOw": {
@@ -61504,6 +61966,10 @@
       "candidate": false,
       "stations": [
         "信義安和",
+        "六張犁",
+        "南京三民",
+        "南京復興",
+        "台北小巨蛋",
         "大安",
         "大安森林公園",
         "忠孝復興",
@@ -61606,7 +62072,8 @@
       "baseline": true,
       "candidate": false,
       "stations": [
-        "大直"
+        "大直",
+        "松山機場"
       ]
     },
     "ChIJT-UXz7OrQjQR_Vv4ttuv7uE": {
@@ -61819,12 +62286,14 @@
         "松江南京",
         "民權西路",
         "永安市場",
+        "永寧",
         "永春",
         "港墘",
         "石牌",
         "秀朗橋",
         "科技大樓",
         "竹圍",
+        "紅樹林",
         "萬芳社區",
         "萬芳醫院",
         "萬隆",
@@ -61877,9 +62346,11 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "三和國中",
         "三重國小",
         "北門",
         "台北橋",
+        "圓山",
         "大橋頭",
         "民權西路",
         "菜寮"
@@ -61900,6 +62371,7 @@
       "candidate": false,
       "stations": [
         "北投",
+        "復興崗",
         "新北投"
       ]
     },
@@ -61953,6 +62425,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "七張",
         "新店",
         "新店區公所"
       ]
@@ -62259,6 +62732,7 @@
         "小南門",
         "忠孝新生",
         "新店",
+        "新店區公所",
         "景安",
         "景平",
         "景美",
@@ -62506,7 +62980,8 @@
         "景美",
         "永安市場",
         "秀朗橋",
-        "萬隆"
+        "萬隆",
+        "頂溪"
       ]
     },
     "ChIJ5ZqWlBYdaDQRMy4LBSOtKgg": {
@@ -62574,6 +63049,7 @@
         "三重",
         "三重國小",
         "徐匯中學",
+        "忠義",
         "新北產業園區",
         "菜寮"
       ]
@@ -62625,6 +63101,7 @@
         "大橋頭",
         "小南門",
         "忠孝新生",
+        "東門",
         "松江南京",
         "民權西路",
         "菜寮",
@@ -62770,36 +63247,54 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "中和",
         "中山",
         "中山國中",
+        "中山國小",
         "中正紀念堂",
         "信義安和",
         "公館",
         "六張犁",
+        "動物園",
         "北門",
         "南京三民",
         "南京復興",
         "古亭",
         "台北小巨蛋",
+        "台北橋",
+        "台北車站",
+        "台大醫院",
         "台電大樓",
+        "善導寺",
+        "國父紀念館",
+        "大坪林",
         "大安",
         "大安森林公園",
+        "大直",
+        "小南門",
+        "後山埤",
         "忠孝復興",
         "忠孝敦化",
         "忠孝新生",
         "昆陽",
+        "景平",
         "景美",
+        "木柵",
         "東門",
         "松山",
         "松山機場",
+        "松江南京",
         "永安市場",
         "秀朗橋",
         "科技大樓",
+        "萬芳社區",
+        "萬芳醫院",
         "萬隆",
         "西門",
         "辛亥",
         "頂溪",
-        "麟光"
+        "麟光",
+        "龍山寺"
       ]
     },
     "ChIJc_j1jRaoQjQRgUm86aBROUc": {
@@ -62834,6 +63329,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "三重",
         "北門",
         "台北橋",
         "台北車站",
@@ -63411,7 +63907,8 @@
       "stations": [
         "三和國中",
         "三重國小",
-        "徐匯中學"
+        "徐匯中學",
+        "菜寮"
       ]
     },
     "ChIJeVR5KY6pQjQREwN2iYFlJn4": {
@@ -63815,7 +64312,8 @@
         "新北投",
         "明德",
         "石牌",
-        "芝山"
+        "芝山",
+        "關渡"
       ]
     },
     "ChIJ1xWNeUmpQjQRRIkllYT7lTQ": {
@@ -63922,14 +64420,25 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "中原",
         "丹鳳",
+        "亞東醫院",
+        "土城",
         "府中",
         "新埔",
         "新埔民生",
         "新莊",
         "板新",
         "板橋",
+        "橋和",
+        "永寧",
         "江子翠",
+        "泰山",
+        "泰山貴和",
+        "海山",
+        "輔大",
+        "迴龍",
+        "頂埔",
         "頭前庄"
       ]
     },
@@ -64026,17 +64535,24 @@
         "三和國中",
         "三重",
         "三重國小",
+        "中山",
+        "中山國小",
         "劍潭",
         "北門",
         "台北橋",
         "台北車站",
+        "台大醫院",
         "善導寺",
         "圓山",
         "大橋頭",
+        "大直",
+        "小南門",
         "徐匯中學",
         "民權西路",
         "菜寮",
-        "西門"
+        "西門",
+        "雙連",
+        "龍山寺"
       ]
     },
     "ChIJP6XCKQCvQjQRSuJFx4qWkMo": {
@@ -64077,6 +64593,7 @@
         "新店",
         "新店區公所",
         "景安",
+        "景美",
         "秀朗橋"
       ]
     },
@@ -64542,7 +65059,10 @@
       "price_level": "PRICE_LEVEL_MODERATE",
       "photo_name": "places/ChIJ7-iV4NmpQjQR0aadctCL7hk/photos/Aa-ngMZbLlPJl_ghsqH5NkNzAaTUkO6lMY7Ag2Ox_fJL7lsOYlITRJ5Mb6N44zyN6UHaFcgG5XfCiR-zC7h5i4rAuizZzmTBmlbzVf1OM8-q2gX7T2QqZh-nwItm7sZBM6hDLBqlDSujrnVxsNz6kMsUHktJlUdFspA0ELZ9B4Hr5jPjxJyW4q84J8Yt0tCgc7SQQfwUtf15CMJfmaSIZCsU7T-vR2uSTZuXa3fk5Ye0mYjcejm4AcNAlgtie7wHYTy1ql1DU8VioD4AU3c_YY4vc6falAMTQFUBMxjOVNKP6a_i9ha9fjSveujKPa_mur7N75AurvNHMHM1LQ7tnGh0FT4XtPBE0saiJWbMw1T6lmI16uBo2C0YVMykb7Na4z1YMaqObmooXJ3Uw1m7V4_GfCGvsXA",
       "baseline": true,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "北門"
+      ]
     },
     "ChIJpfLEkFAfaDQRZ6-JX6Z7U2A": {
       "name": "Ikkon Shabu",
@@ -64928,6 +65448,7 @@
       "candidate": false,
       "stations": [
         "亞東醫院",
+        "土城",
         "海山"
       ]
     },
@@ -65224,6 +65745,7 @@
       "candidate": false,
       "stations": [
         "丹鳳",
+        "泰山貴和",
         "迴龍"
       ]
     },
@@ -65361,6 +65883,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "復興崗",
         "淡水",
         "紅樹林"
       ]
@@ -65425,6 +65948,7 @@
       "candidate": false,
       "stations": [
         "中原",
+        "中和",
         "丹鳳",
         "亞東醫院",
         "土城",
@@ -65632,6 +66156,7 @@
       "stations": [
         "南港",
         "南港軟體園區",
+        "文德",
         "昆陽",
         "葫洲"
       ]
@@ -65814,8 +66339,10 @@
       "stations": [
         "三和國中",
         "三重",
+        "中原",
         "中和",
         "中山",
+        "中正紀念堂",
         "丹鳳",
         "先嗇宮",
         "北門",
@@ -66085,6 +66612,8 @@
         "丹鳳",
         "新北產業園區",
         "新莊",
+        "泰山",
+        "泰山貴和",
         "輔大",
         "迴龍",
         "頭前庄"
@@ -66226,11 +66755,13 @@
         "三重國小",
         "中和",
         "中山國中",
+        "中山國小",
         "丹鳳",
         "先嗇宮",
         "內湖",
         "劍南路",
         "劍潭",
+        "北投",
         "南京三民",
         "南港",
         "南港展覽館",
@@ -66240,7 +66771,9 @@
         "大湖公園",
         "大直",
         "奇岩",
+        "復興崗",
         "文德",
+        "新北投",
         "新北產業園區",
         "新莊",
         "昆陽",
@@ -66297,6 +66830,7 @@
       "candidate": false,
       "stations": [
         "南京三民",
+        "南港",
         "南港展覽館",
         "市政府",
         "後山埤",
@@ -66323,6 +66857,7 @@
       "stations": [
         "六張犁",
         "動物園",
+        "台北101/世貿",
         "萬芳醫院",
         "萬隆",
         "麟光"
@@ -66746,7 +67281,8 @@
       "baseline": true,
       "candidate": false,
       "stations": [
-        "六張犁"
+        "六張犁",
+        "麟光"
       ]
     },
     "ChIJGd7tVYsBaDQRIzSiNEiI1ao": {
@@ -66768,7 +67304,8 @@
         "大坪林",
         "新店",
         "新店區公所",
-        "景美"
+        "景美",
+        "秀朗橋"
       ]
     },
     "ChIJzWSuxRcBaDQRBQrAB9SCfN4": {
@@ -66848,8 +67385,10 @@
         "中山國中",
         "中山國小",
         "先嗇宮",
+        "劍南路",
         "劍潭",
         "動物園",
+        "北門",
         "十四張",
         "南港軟體園區",
         "台北小巨蛋",
@@ -66872,6 +67411,7 @@
         "新北產業園區",
         "木柵",
         "東湖",
+        "松山機場",
         "松江南京",
         "民權西路",
         "竹圍",
@@ -66963,7 +67503,12 @@
       "candidate": false,
       "stations": [
         "內湖",
-        "大湖公園"
+        "大湖公園",
+        "文德",
+        "東湖",
+        "港墘",
+        "葫洲",
+        "西湖"
       ]
     },
     "ChIJYRYyM76nQjQRjK7-WgMiv_Q": {
@@ -67044,6 +67589,7 @@
         "公館",
         "古亭",
         "台電大樓",
+        "東門",
         "科技大樓"
       ]
     },
@@ -67259,6 +67805,7 @@
         "三重",
         "三重國小",
         "中山",
+        "中山國中",
         "中山國小",
         "先嗇宮",
         "劍潭",
@@ -67271,8 +67818,10 @@
         "大直",
         "奇岩",
         "徐匯中學",
+        "復興崗",
         "忠義",
         "新北投",
+        "新北產業園區",
         "民權西路",
         "石牌",
         "菜寮",
@@ -67880,6 +68429,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "中和",
         "永安市場",
         "頂溪"
       ]
@@ -68261,10 +68811,13 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "中山",
+        "中山國中",
         "信義安和",
         "公館",
         "六張犁",
         "動物園",
+        "北門",
         "南京三民",
         "南京復興",
         "台北101/世貿",
@@ -68282,13 +68835,16 @@
         "東門",
         "松山",
         "松山機場",
+        "永安市場",
         "永春",
         "科技大樓",
         "萬芳社區",
         "萬芳醫院",
         "萬隆",
+        "西門",
         "象山",
         "辛亥",
+        "頂溪",
         "麟光"
       ]
     },
@@ -68433,6 +68989,7 @@
       "stations": [
         "信義安和",
         "六張犁",
+        "台北101/世貿",
         "大安",
         "忠孝復興",
         "麟光"
@@ -68823,6 +69380,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "中山",
         "雙連"
       ]
     },
@@ -68840,11 +69398,20 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "中原",
         "丹鳳",
         "亞東醫院",
+        "土城",
         "府中",
+        "新埔",
+        "新埔民生",
+        "板新",
         "板橋",
         "江子翠",
+        "泰山",
+        "泰山貴和",
+        "輔大",
+        "迴龍",
         "頭前庄"
       ]
     },
@@ -69144,6 +69711,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "中原",
         "中和",
         "丹鳳",
         "亞東醫院",
@@ -69200,16 +69768,24 @@
       "candidate": false,
       "stations": [
         "三和國中",
+        "三重",
         "三重國小",
+        "中原",
+        "中和",
+        "先嗇宮",
+        "內湖",
+        "六張犁",
         "動物園",
         "十四張",
         "南京三民",
+        "南勢角",
         "台北101/世貿",
         "台北橋",
         "台電大樓",
         "國父紀念館",
         "土城",
         "大湖公園",
+        "奇岩",
         "市政府",
         "後山埤",
         "徐匯中學",
@@ -69218,16 +69794,25 @@
         "景平",
         "景美",
         "木柵",
+        "東湖",
         "松山",
+        "橋和",
         "永安市場",
+        "永寧",
         "永春",
+        "泰山貴和",
+        "海山",
         "秀朗橋",
         "菜寮",
         "萬芳社區",
         "萬芳醫院",
+        "萬隆",
+        "葫洲",
         "象山",
         "辛亥",
+        "頂埔",
         "頂溪",
+        "頭前庄",
         "麟光"
       ]
     },
@@ -69290,6 +69875,7 @@
       "candidate": false,
       "stations": [
         "丹鳳",
+        "泰山貴和",
         "體育大學"
       ]
     },
@@ -69409,6 +69995,7 @@
         "府中",
         "新埔",
         "新埔民生",
+        "新莊",
         "板新",
         "板橋",
         "橋和",
@@ -69561,7 +70148,9 @@
       "stations": [
         "三重",
         "中山",
-        "中山國小"
+        "中山國小",
+        "景平",
+        "菜寮"
       ]
     },
     "ChIJ3Sk1rEipQjQRpjgSD3if4wY": {
@@ -70122,6 +70711,7 @@
         "竹圍",
         "菜寮",
         "萬芳社區",
+        "萬芳醫院",
         "葫洲",
         "西湖",
         "象山",
@@ -70302,6 +70892,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "三和國中",
         "中山",
         "中山國中",
         "中山國小",
@@ -70313,6 +70904,7 @@
         "士林",
         "大橋頭",
         "大直",
+        "徐匯中學",
         "文德",
         "松山機場",
         "松江南京",
@@ -70668,6 +71260,7 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "七張",
         "三和國中",
         "三重",
         "三重國小",
@@ -70684,6 +71277,7 @@
         "內湖",
         "公館",
         "六張犁",
+        "劍南路",
         "劍潭",
         "動物園",
         "北門",
@@ -70692,8 +71286,10 @@
         "南京復興",
         "南勢角",
         "南港",
+        "南港展覽館",
         "南港軟體園區",
         "古亭",
+        "台北101/世貿",
         "台北小巨蛋",
         "台北橋",
         "台北車站",
@@ -70701,8 +71297,10 @@
         "台電大樓",
         "唭哩岸",
         "善導寺",
+        "國父紀念館",
         "圓山",
         "土城",
+        "士林",
         "大坪林",
         "大安",
         "大安森林公園",
@@ -70723,6 +71321,7 @@
         "文德",
         "新北投",
         "新北產業園區",
+        "新埔",
         "新埔民生",
         "新店",
         "新店區公所",
@@ -70736,7 +71335,9 @@
         "東湖",
         "東門",
         "松山",
+        "松山機場",
         "松江南京",
+        "板新",
         "板橋",
         "橋和",
         "民權西路",
@@ -70746,12 +71347,14 @@
         "泰山",
         "泰山貴和",
         "海山",
+        "淡水",
         "港墘",
         "石牌",
         "秀朗橋",
         "科技大樓",
         "竹圍",
         "紅樹林",
+        "芝山",
         "菜寮",
         "萬芳社區",
         "萬芳醫院",
@@ -70760,8 +71363,10 @@
         "西湖",
         "西門",
         "象山",
+        "輔大",
         "辛亥",
         "迴龍",
+        "關渡",
         "雙連",
         "頂埔",
         "頂溪",
@@ -71130,6 +71735,10 @@
       "baseline": true,
       "candidate": false,
       "stations": [
+        "台北101/世貿",
+        "市政府",
+        "後山埤",
+        "永春",
         "象山"
       ]
     },
@@ -71630,7 +72239,8 @@
         "忠孝復興",
         "忠孝敦化",
         "忠孝新生",
-        "科技大樓"
+        "科技大樓",
+        "萬芳醫院"
       ]
     },
     "ChIJG3WAX5irQjQRsO_PIrXPmuI": {
@@ -71717,6 +72327,7 @@
       "first_seen": "2026-10-04",
       "baseline": true,
       "stations": [
+        "劍潭",
         "唭哩岸",
         "奇岩",
         "明德",
@@ -72012,6 +72623,7 @@
         "東門",
         "松山",
         "松山機場",
+        "松江南京",
         "永安市場",
         "港墘",
         "秀朗橋",
@@ -72128,6 +72740,7 @@
         "明德",
         "石牌",
         "竹圍",
+        "紅樹林",
         "關渡"
       ]
     },
@@ -72239,6 +72852,7 @@
         "泰山貴和",
         "海山",
         "秀朗橋",
+        "竹圍",
         "菜寮",
         "輔大",
         "迴龍",
@@ -72327,6 +72941,7 @@
       "stations": [
         "新埔",
         "新埔民生",
+        "新莊",
         "板新",
         "板橋",
         "江子翠",
@@ -72671,6 +73286,7 @@
         "內湖",
         "大湖公園",
         "文德",
+        "東湖",
         "港墘",
         "葫洲"
       ]
@@ -72907,6 +73523,7 @@
         "明德",
         "松江南京",
         "民權西路",
+        "石牌",
         "芝山",
         "菜寮",
         "雙連"
@@ -73129,11 +73746,13 @@
         "南港",
         "南港展覽館",
         "南港軟體園區",
+        "台北101/世貿",
         "台北小巨蛋",
         "國父紀念館",
         "市政府",
         "後山埤",
         "昆陽",
+        "東湖",
         "松山",
         "松山機場",
         "永春",
@@ -73453,6 +74072,7 @@
       "first_seen": "2026-10-04",
       "baseline": true,
       "stations": [
+        "北投",
         "復興崗",
         "忠義",
         "新北投"
@@ -73702,7 +74322,8 @@
       "first_seen": "2026-10-04",
       "baseline": true,
       "stations": [
-        "新北產業園區"
+        "新北產業園區",
+        "泰山"
       ]
     },
     "ChIJG0SVP0qpQjQRF4mVA_HcTaw": {
@@ -73953,6 +74574,7 @@
         "忠義",
         "新北投",
         "明德",
+        "泰山",
         "石牌",
         "芝山"
       ]
@@ -73986,10 +74608,14 @@
         "三重國小",
         "中山國中",
         "中山國小",
+        "劍潭",
         "台北橋",
+        "善導寺",
         "圓山",
+        "大橋頭",
         "松江南京",
-        "民權西路"
+        "民權西路",
+        "雙連"
       ]
     },
     "ChIJc17Z5AKoQjQRFG8CJNSRwL4": {
@@ -74080,8 +74706,11 @@
       "baseline": true,
       "stations": [
         "信義安和",
+        "內湖",
         "六張犁",
+        "劍潭",
         "動物園",
+        "十四張",
         "南京三民",
         "南港",
         "南港展覽館",
@@ -74089,8 +74718,13 @@
         "台北101/世貿",
         "台北小巨蛋",
         "國父紀念館",
+        "大坪林",
+        "大湖公園",
         "市政府",
         "後山埤",
+        "忠孝敦化",
+        "文德",
+        "新店",
         "昆陽",
         "景美",
         "木柵",
@@ -74098,8 +74732,11 @@
         "松山",
         "松山機場",
         "永春",
+        "港墘",
+        "秀朗橋",
         "萬芳社區",
         "萬芳醫院",
+        "萬隆",
         "葫洲",
         "象山",
         "辛亥",
@@ -74115,7 +74752,10 @@
     },
     "ChIJi4VaGBqoQjQRC35zaJ3Giy8": {
       "first_seen": "2026-10-04",
-      "baseline": true
+      "baseline": true,
+      "stations": [
+        "板橋"
+      ]
     },
     "ChIJr3yJdCivQjQRTw7whA_c6VU": {
       "first_seen": "2026-10-04",
@@ -74199,6 +74839,7 @@
         "亞東醫院",
         "土城",
         "府中",
+        "新埔",
         "新埔民生",
         "板新",
         "板橋",
@@ -74767,7 +75408,9 @@
         "新北投",
         "明德",
         "石牌",
-        "芝山"
+        "竹圍",
+        "芝山",
+        "關渡"
       ]
     },
     "ChIJYbLlbUarQjQRDDkNSHZLU_A": {
@@ -74853,6 +75496,7 @@
         "松山機場",
         "松江南京",
         "板新",
+        "板橋",
         "橋和",
         "民權西路",
         "永安市場",
@@ -75179,6 +75823,7 @@
       "first_seen": "2026-10-05",
       "baseline": true,
       "stations": [
+        "新店",
         "新店區公所"
       ]
     },
@@ -75791,6 +76436,7 @@
       "baseline": true,
       "stations": [
         "南京復興",
+        "台北101/世貿",
         "台北小巨蛋",
         "大安",
         "大安森林公園",
@@ -75844,6 +76490,7 @@
       "first_seen": "2026-10-05",
       "baseline": true,
       "stations": [
+        "忠義",
         "關渡"
       ]
     },
@@ -75853,7 +76500,8 @@
       "stations": [
         "南京三民",
         "台北小巨蛋",
-        "國父紀念館"
+        "國父紀念館",
+        "忠孝敦化"
       ]
     },
     "ChIJvyoX8A6sQjQRN-EOwfq9vac": {
@@ -76492,6 +77140,7 @@
         "動物園",
         "大坪林",
         "新店",
+        "新店區公所",
         "景美",
         "木柵",
         "萬芳社區",
@@ -76544,6 +77193,7 @@
       "stations": [
         "劍南路",
         "大直",
+        "港墘",
         "西湖"
       ]
     },
@@ -76608,7 +77258,8 @@
         "國父紀念館",
         "大安",
         "忠孝復興",
-        "忠孝敦化"
+        "忠孝敦化",
+        "忠孝新生"
       ]
     },
     "ChIJtWEBsP6lQjQR9eGk-sqgLPg": {
@@ -76634,7 +77285,9 @@
       "baseline": true,
       "stations": [
         "三和國中",
+        "三重",
         "三重國小",
+        "台北橋",
         "徐匯中學",
         "菜寮"
       ]
@@ -76738,7 +77391,8 @@
         "大安",
         "大安森林公園",
         "忠孝復興",
-        "忠孝敦化"
+        "忠孝敦化",
+        "忠孝新生"
       ]
     },
     "ChIJI5mwBhOpQjQR2GHLn_GiNu4": {
@@ -76826,6 +77480,7 @@
         "中山國小",
         "劍南路",
         "劍潭",
+        "南京三民",
         "圓山",
         "士林",
         "大橋頭",
@@ -76888,7 +77543,10 @@
     },
     "ChIJxdRGEdirQjQRKLWOk-uOq5k": {
       "first_seen": "2026-10-05",
-      "baseline": true
+      "baseline": true,
+      "stations": [
+        "忠孝新生"
+      ]
     },
     "ChIJc7Iy__MBaDQR1YE1HhZmPmk": {
       "first_seen": "2026-10-05",
@@ -76963,6 +77621,7 @@
       "first_seen": "2026-10-05",
       "baseline": true,
       "stations": [
+        "中和",
         "南勢角",
         "景安",
         "景平",
@@ -77141,7 +77800,9 @@
       "first_seen": "2026-10-05",
       "baseline": true,
       "stations": [
+        "南京三民",
         "市政府",
+        "昆陽",
         "松山",
         "萬芳社區",
         "象山"
@@ -77159,8 +77820,10 @@
       "first_seen": "2026-10-05",
       "baseline": true,
       "stations": [
+        "中山",
         "中山國中",
         "中山國小",
+        "善導寺",
         "松江南京",
         "雙連"
       ]
@@ -77354,6 +78017,7 @@
         "三重國小",
         "中山",
         "北門",
+        "台北橋",
         "台北車站",
         "台大醫院",
         "善導寺",
@@ -77515,7 +78179,8 @@
         "明德",
         "松山機場",
         "民權西路",
-        "芝山"
+        "芝山",
+        "菜寮"
       ]
     },
     "ChIJbXCHHA2pQjQRpK7Boj_cwbw": {
@@ -77732,9 +78397,11 @@
       "first_seen": "2026-10-05",
       "baseline": true,
       "stations": [
+        "中和",
         "南勢角",
         "景安",
-        "景平"
+        "景平",
+        "秀朗橋"
       ]
     },
     "ChIJa9pu-3OrQjQR2kXhJS70lEQ": {
@@ -77947,10 +78614,14 @@
       "first_seen": "2026-10-05",
       "baseline": true,
       "stations": [
+        "中原",
+        "中和",
         "中正紀念堂",
         "古亭",
         "台大醫院",
         "小南門",
+        "橋和",
+        "永安市場",
         "頂溪",
         "龍山寺"
       ]
@@ -78020,19 +78691,60 @@
       "first_seen": "2026-10-05",
       "baseline": true,
       "stations": [
+        "三和國中",
+        "三重國小",
         "中山國中",
+        "信義安和",
+        "內湖",
+        "六張犁",
+        "劍南路",
+        "劍潭",
         "動物園",
+        "十四張",
         "南京三民",
         "南京復興",
+        "南勢角",
+        "南港",
+        "南港展覽館",
+        "南港軟體園區",
+        "古亭",
+        "台北101/世貿",
         "台北小巨蛋",
+        "台北橋",
+        "台電大樓",
         "國父紀念館",
+        "大安",
+        "大湖公園",
+        "大直",
         "市政府",
+        "後山埤",
+        "徐匯中學",
+        "忠孝復興",
         "忠孝敦化",
+        "文德",
+        "昆陽",
+        "景平",
+        "景美",
         "木柵",
+        "東湖",
         "松山",
         "松山機場",
+        "橋和",
+        "永安市場",
+        "永春",
+        "港墘",
+        "秀朗橋",
+        "菜寮",
         "萬芳社區",
-        "辛亥"
+        "萬芳醫院",
+        "萬隆",
+        "葫洲",
+        "西門",
+        "象山",
+        "辛亥",
+        "頂溪",
+        "麟光",
+        "龍山寺"
       ]
     },
     "ChIJf2tX6aWpQjQR3X_PMSqZtTQ": {
@@ -78100,7 +78812,9 @@
       "baseline": true,
       "stations": [
         "公館",
+        "古亭",
         "台電大樓",
+        "永安市場",
         "萬隆",
         "頂溪"
       ]
@@ -78184,6 +78898,7 @@
         "北投",
         "唭哩岸",
         "奇岩",
+        "新北投",
         "明德",
         "石牌"
       ]
@@ -78355,6 +79070,8 @@
       "baseline": true,
       "stations": [
         "內湖",
+        "南港",
+        "南港展覽館",
         "南港軟體園區",
         "大湖公園",
         "文德",
@@ -78826,14 +79543,16 @@
       "baseline": true,
       "stations": [
         "北門",
-        "台北車站"
+        "台北車站",
+        "西門"
       ]
     },
     "ChIJZZDB3LarQjQR9DWNg1hret0": {
       "first_seen": "2026-10-05",
       "baseline": true,
       "stations": [
-        "南港展覽館"
+        "南港展覽館",
+        "南港軟體園區"
       ]
     },
     "ChIJ88bJD5OpQjQRxqwIsL5U54k": {
@@ -78938,8 +79657,12 @@
       "first_seen": "2026-10-05",
       "baseline": true,
       "stations": [
+        "內湖",
+        "大湖公園",
         "文德",
+        "東湖",
         "港墘",
+        "葫洲",
         "西湖"
       ]
     },
@@ -79061,6 +79784,7 @@
       "first_seen": "2026-10-05",
       "baseline": true,
       "stations": [
+        "三和國中",
         "徐匯中學"
       ]
     },
@@ -79324,6 +80048,7 @@
       "baseline": true,
       "stations": [
         "信義安和",
+        "劍潭",
         "圓山",
         "大安",
         "大安森林公園",
@@ -79331,6 +80056,7 @@
         "忠孝復興",
         "忠孝敦化",
         "昆陽",
+        "景美",
         "東門",
         "松山機場",
         "象山",
@@ -79421,7 +80147,8 @@
       "first_seen": "2026-10-07",
       "baseline": true,
       "stations": [
-        "新莊"
+        "新莊",
+        "頭前庄"
       ]
     },
     "ChIJ3Za__y2lQjQRJDDtN-_AlSQ": {
@@ -79677,7 +80404,8 @@
       "first_seen": "2026-10-07",
       "baseline": true,
       "stations": [
-        "竹圍"
+        "竹圍",
+        "紅樹林"
       ]
     },
     "ChIJf9aIRH6pQjQRF2NW93zKq2g": {
@@ -79708,7 +80436,11 @@
     },
     "ChIJ1zM6aDCtQjQRcbqbST2pwt8": {
       "first_seen": "2026-10-07",
-      "baseline": true
+      "baseline": true,
+      "stations": [
+        "士林",
+        "芝山"
+      ]
     },
     "ChIJZUzi4xWpQjQRcDC0mL_74-o": {
       "first_seen": "2026-10-07",
@@ -80335,7 +81067,8 @@
       "baseline": true,
       "stations": [
         "亞東醫院",
-        "府中"
+        "府中",
+        "板橋"
       ]
     },
     "ChIJNT9WgVmpQjQRE7hzA6m7OOY": {
@@ -80380,7 +81113,10 @@
     },
     "ChIJNapkBRavQjQRVPRjJ2Xjcpg": {
       "first_seen": "2026-10-07",
-      "baseline": true
+      "baseline": true,
+      "stations": [
+        "淡水"
+      ]
     },
     "ChIJBSnuONKrQjQRzADPkQ5yXQU": {
       "first_seen": "2026-10-07",
@@ -80634,7 +81370,11 @@
     },
     "ChIJL2Fa84WpQjQRE6YF4v4s7XQ": {
       "first_seen": "2026-10-07",
-      "baseline": true
+      "baseline": true,
+      "stations": [
+        "公館",
+        "台電大樓"
+      ]
     },
     "ChIJqz1LcbEfaDQRSXiK5J9q5_g": {
       "first_seen": "2026-10-07",
@@ -80661,7 +81401,9 @@
       "baseline": true,
       "stations": [
         "新莊",
-        "輔大"
+        "泰山",
+        "輔大",
+        "頭前庄"
       ]
     },
     "ChIJURlFQeSpQjQRpB-azUYi_m8": {
@@ -81025,7 +81767,10 @@
     },
     "ChIJITtgKLyuQjQRk_mrZw4NH9Q": {
       "first_seen": "2026-10-07",
-      "baseline": true
+      "baseline": true,
+      "stations": [
+        "奇岩"
+      ]
     },
     "ChIJ-83o02CpQjQRIGwCuy_3VRU": {
       "first_seen": "2026-10-07",
@@ -81108,6 +81853,7 @@
       "first_seen": "2026-10-07",
       "baseline": true,
       "stations": [
+        "劍南路",
         "西湖"
       ]
     },
@@ -81244,7 +81990,10 @@
     },
     "ChIJSbWCSOGrQjQRg1pZq3BUzWo": {
       "first_seen": "2026-10-07",
-      "baseline": true
+      "baseline": true,
+      "stations": [
+        "永春"
+      ]
     },
     "ChIJgycrR_OnQjQRUoidNUzFNl0": {
       "first_seen": "2026-10-07",
@@ -81684,7 +82433,8 @@
       "stations": [
         "中正紀念堂",
         "古亭",
-        "小南門"
+        "小南門",
+        "東門"
       ]
     },
     "ChIJbxyLRlirQjQRRO4iZVRY6Uc": {
@@ -81888,7 +82638,8 @@
       "candidate": false,
       "stations": [
         "市政府",
-        "後山埤"
+        "後山埤",
+        "永春"
       ]
     },
     "ChIJ6YRhp-yrQjQRpfqpx4WhZFE": {
@@ -83260,7 +84011,11 @@
       "first_seen": "2026-10-09",
       "baseline": false,
       "seen_count": 2,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "大坪林",
+        "景美"
+      ]
     },
     "ChIJt4v5uRipQjQRPAnQ_UOilOg": {
       "name": "瞇瞇眼義麵工坊(無訂位服務)",
@@ -83879,7 +84634,9 @@
       "seen_count": 2,
       "candidate": false,
       "stations": [
-        "台北小巨蛋"
+        "中山國中",
+        "台北小巨蛋",
+        "松山機場"
       ]
     },
     "ChIJ65JwYh6pQjQRl0dov5jDjrQ": {
@@ -84134,6 +84891,8 @@
       "seen_count": 2,
       "candidate": false,
       "stations": [
+        "後山埤",
+        "昆陽",
         "松山"
       ]
     },
@@ -84386,8 +85145,11 @@
       "photo_name": "places/ChIJEVSrYSgCaDQRu_hW_sAfW0g/photos/Aa-ngMYYVD6wVLbEbvImwMXP3_-gxqQNu60u_xHVnFm4PrSQ9UVMgLTi11iAO3RHyL0o6SVDnenD0E7tKsmxZ1cc027s73TeoV-ZSgnn_h3eNM8DLUcPSRXO-GqWtXRiE2uIV1gH9RzGUNa_fxEsanzgUcfkkCmve8P7f2zdbUsdp5wuejqt_9_pespoqXirM_dUCTIrUDGE9zKbEhsmxHx7KKNayZjoMvAnW1FH-6rLGHJrIyZoHRIwsZtK4kg79LLZU2iMNXKtm1y42xJU03rAF6arrvuZ77XOL1kTho0F6EuhxPH5xfVLMWgoRnoPeQ3TP5R5Ztws76olasha7J8rICMlfecu9ZjWXhIp6lvBR_1NAB6UPC2oOaTyVihRaykipoVblgqCQipwIMqvCICXoipvmw",
       "first_seen": "2026-10-09",
       "baseline": false,
-      "seen_count": 1,
-      "candidate": false
+      "seen_count": 2,
+      "candidate": false,
+      "stations": [
+        "新店"
+      ]
     },
     "ChIJ7-dflrepQjQRvbhR9lp6C2s": {
       "name": "Staff Only Club",
@@ -84564,8 +85326,11 @@
       "photo_name": "places/ChIJBwrWWfKnQjQRAn902bR-VUY/photos/Aa-ngMb1ENQOfxPn-f0djnP7Fn2Y7CeynlFR08mUaDkzCLprEq9leIssyVa5ypr5hOL9N7Ns2mwGY-UflgpFQtpsaAqC9UEevimubu8zOszaPHttrq3mLDeBGt1uyxL7ss7WMBuvN-wg09IwiwnJrO4L6FgQvXwbyGPn90c4_GG65aK3oiFoBLOGHHbWvZClJXvQIsbBlscEJxlZPvWeHOhqXIHoSjvz6ntyYk63YwsvgqVwPlkj62EB2mgnUhU5ZhLKV4evk2f37R4opXzZUte3kfdBEWwPu-2uyZ4ToiYs3e5Ah4g9uUtnpvbrPshXDLAjWUTHp_P6XcC8AE7ZyNY0ySaAqp7NDCs1OZP0JdhYQImlZdubeKCiBjdfFPfgglIpvFCiAjn9Ib7EGLolc9ypA_HeqLZ-S7w",
       "first_seen": "2026-10-09",
       "baseline": false,
-      "seen_count": 1,
-      "candidate": false
+      "seen_count": 2,
+      "candidate": true,
+      "stations": [
+        "迴龍"
+      ]
     },
     "ChIJLz7Bys-oQjQRxtSRm8MRygU": {
       "name": "小時光our times",
@@ -85235,6 +86000,8 @@
       "candidate": false,
       "stations": [
         "唭哩岸",
+        "奇岩",
+        "新北投",
         "明德",
         "石牌",
         "芝山"
@@ -86035,7 +86802,10 @@
       "first_seen": "2026-10-10",
       "baseline": false,
       "seen_count": 2,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "松山機場"
+      ]
     },
     "ChIJX7sl0D6pQjQR2VLE_N-3-m8": {
       "name": "九日咖啡（北車店）9 Days Coffee",
@@ -86075,7 +86845,8 @@
       "candidate": false,
       "stations": [
         "動物園",
-        "木柵"
+        "木柵",
+        "萬芳社區"
       ]
     },
     "ChIJtc15H4epQjQRkWjaqQDeCfQ": {
@@ -86855,7 +87626,10 @@
       "first_seen": "2026-10-10",
       "baseline": false,
       "seen_count": 2,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "景安"
+      ]
     },
     "ChIJb0N3_d-nQjQRM1WvMi5R54I": {
       "name": "立癮（炙）咖啡-新莊店",
@@ -86910,7 +87684,10 @@
       "first_seen": "2026-10-10",
       "baseline": false,
       "seen_count": 2,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "台北小巨蛋"
+      ]
     },
     "ChIJHZ-hpnOoQjQRzDApiZ2-nHg": {
       "name": "琳咖啡 新莊公有市場",
@@ -86978,8 +87755,11 @@
       "photo_name": "places/ChIJgeQuTQCpQjQREFcPxRMsGbo/photos/Aa-ngMZYxbN-Fh1tWn4raeJyexUMX5c-bXlMl3o_1Kw_VAuDObTtc8WOkuagmqWLDQP4pp0khG5_IxlWpXwzIlpmzXd1buyoAg5EC7cwUjdCGcVSYfbGOI_obPXfsueUEDqsUwrNWzF7eq5GIaWwqHbf9Kiqlm5wJc-7YOGcUNmyXNnji7LoES9DZ2FkKT_3G9Ql3dFnOZgU53LiO1ph2N11vw802sZ-ax4oKpag-UFHND8JqCfjksQw2dbOQracE750q_dXcj281vom7gEHf82UwJ5Hb8f6AZmQwjyZJclVLrKqI0krluomBeOCXz6q_Pz5rQvmtaD_EziCa7-G4KJUPfjjAQwV595q3NtnTedzoLTJft5_rlEXwR2L2UlFCukaxljUDDltdpzu0LdCqUP9cGWAfJthlluXslsPnfuaR8KJ",
       "first_seen": "2026-10-10",
       "baseline": false,
-      "seen_count": 1,
-      "candidate": false
+      "seen_count": 2,
+      "candidate": true,
+      "stations": [
+        "頭前庄"
+      ]
     },
     "ChIJHZMDxqMBaDQRllIwOXfD1RQ": {
       "name": "晨間廚房-新店民族店",
@@ -87631,7 +88411,10 @@
       "first_seen": "2026-10-10",
       "baseline": false,
       "seen_count": 2,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "龍山寺"
+      ]
     },
     "ChIJUSq10byuQjQRMPoglIUs4Ao": {
       "name": "泰揚雲泰主題餐廳",
@@ -88215,7 +88998,10 @@
       "first_seen": "2026-10-10",
       "baseline": false,
       "seen_count": 2,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "景平"
+      ]
     },
     "ChIJpaSJ_26pQjQRRt4VPuaMhJI": {
       "name": "典藏咖啡館 - 長安店",
@@ -88547,6 +89333,7 @@
       "stations": [
         "中山",
         "台北車站",
+        "善導寺",
         "雙連"
       ]
     },
@@ -88963,7 +89750,10 @@
       "first_seen": "2026-10-10",
       "baseline": false,
       "seen_count": 2,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "中山國中"
+      ]
     },
     "ChIJrRm-mBkCaDQRBOvtjdnLr-c": {
       "name": "咖啡走廊 coffee hall",
@@ -89048,7 +89838,10 @@
       "first_seen": "2026-10-10",
       "baseline": false,
       "seen_count": 2,
-      "candidate": true
+      "candidate": true,
+      "stations": [
+        "迴龍"
+      ]
     },
     "ChIJDUmpjECoQjQROgM98bBQVN8": {
       "name": "Ivy輕食厨房",
@@ -89064,7 +89857,10 @@
       "first_seen": "2026-10-10",
       "baseline": false,
       "seen_count": 2,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "江子翠"
+      ]
     },
     "ChIJE68F9QipQjQRMZMejOOrL9g": {
       "name": "上林咖啡",
@@ -89197,8 +89993,11 @@
       "photo_name": "places/ChIJK3zP-bMfaDQRY3Dt2x7Z7XM/photos/Aa-ngMYUiNHc83Q8a2b87w4qNz_7Bgn38hXw5-O4uF_GNSP_SXSpC2IJGlak2rfW-YsciwWxd6oypjzZtS4iDQG51B_V16ljp7hlqfJSBuqQdSSwSoHrtLfvHsOHAqa1F1_4zLX53pCAQCO9W4TvaEzw6i2-PKkME0Z8FBHmCzZKnnQHL3Mk5vyW4PxmnIlfMEpCAeZgyUVucSR1sauoLBLdGR1LoZgU1kwoKj00fY0SAsJBviKLtIfvrkUKwrjHxL85La7YgwiYiHPz8nMMk38ba2sltAp5ivfcO9kpQG2pCALLBRqj5jbjvitFontHsuPnWJaJRz3RRYTRzcbl5u65zUuwiglL1AoHS5cANUpgc1BIyXk_4qnUlOW2JE7LP0fxkKOMVFQzNXZ9wAul_pV0g78I3bgDJ5CmU7FbslWBwsvk",
       "first_seen": "2026-10-10",
       "baseline": false,
-      "seen_count": 1,
-      "candidate": false
+      "seen_count": 2,
+      "candidate": false,
+      "stations": [
+        "體育大學"
+      ]
     },
     "ChIJ42P4KgupQjQRqMHJWliJyVs": {
       "name": "Knock Knock Heaven 承德南西店",
@@ -89282,7 +90081,10 @@
       "first_seen": "2026-10-10",
       "baseline": false,
       "seen_count": 2,
-      "candidate": true
+      "candidate": true,
+      "stations": [
+        "麟光"
+      ]
     },
     "ChIJPZg_0R-qQjQRUvCyzhrK238": {
       "name": "SHALLOT 紅蔥二號店",
@@ -89642,7 +90444,10 @@
       "first_seen": "2026-10-10",
       "baseline": false,
       "seen_count": 2,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "松江南京"
+      ]
     },
     "ChIJX3LyRWmpQjQRLkweye8-DFs": {
       "name": "佐曼咖啡館",
@@ -89712,6 +90517,7 @@
       "seen_count": 2,
       "candidate": false,
       "stations": [
+        "淡水",
         "紅樹林"
       ]
     },
@@ -89939,7 +90745,10 @@
       "first_seen": "2026-10-10",
       "baseline": false,
       "seen_count": 2,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "體育大學"
+      ]
     },
     "ChIJQdj3s3MCaDQRGOb30Fgol2w": {
       "name": "鮮活樂早午餐",
@@ -90044,7 +90853,10 @@
       "first_seen": "2026-10-10",
       "baseline": false,
       "seen_count": 2,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "體育大學"
+      ]
     },
     "ChIJwxazX2qrQjQRH-xOKKedrM4": {
       "name": "好嶼",
@@ -90254,6 +91066,7 @@
       "seen_count": 2,
       "candidate": false,
       "stations": [
+        "公館",
         "台電大樓"
       ]
     },
@@ -90308,7 +91121,10 @@
       "first_seen": "2026-10-10",
       "baseline": false,
       "seen_count": 2,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "景安"
+      ]
     },
     "ChIJnclSGvKrQjQRnGBYr16yeU0": {
       "name": "上海宴",
@@ -90342,8 +91158,11 @@
       "photo_name": "places/ChIJexjaDcsCaDQRzgDMvxMtkc8/photos/Aa-ngMani8WfSDm22PbsWi78bfT7UI6LVtsd3z8Hb3E2NRauusOi1wXuS-ps8raRXy2_zJO-UWhHAUF2ujnFykRpHzhLES99pSwaJ3l2f48gOV_x2SJdRDZQpByIMgw_mLEx0U_kPIt2zHrPG6NAkbdqP4f_-uM8XPBAu7iU43sRNMno0yekpg-pAJhX1z_HUmXR84rMnA8eRlxmQlLIiPBWa61Zmbed0aV5KTE1sGMuTP4rGaSRz1UNi_HqIT3CFcjVpo7wn2dS8oNrfccYJTN3SDIdi5Ak09mPgA-InHWgK0YjUjrP5f4QPwTU28dpcGD6lTe7mEbR0-B_R6UrHhVZdiRzcMsLeky9lQQKW6MbLAW5AFe05ZioAg3PPx0nydxqFeNJkBkbJg47HPQV9HQFKMEwkuU6yLM",
       "first_seen": "2026-10-10",
       "baseline": false,
-      "seen_count": 1,
-      "candidate": false
+      "seen_count": 2,
+      "candidate": false,
+      "stations": [
+        "海山"
+      ]
     },
     "ChIJ6fnvUU6rQjQRCHS70wc3Nt0": {
       "name": "Erom Cafe手沖精品咖啡",
@@ -90379,7 +91198,10 @@
       "first_seen": "2026-10-10",
       "baseline": false,
       "seen_count": 2,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "體育大學"
+      ]
     },
     "ChIJA2uQ_64CaDQRhoj8ser7X_g": {
       "name": "薩莉亞 板橋亞東店",
@@ -90504,8 +91326,11 @@
       "photo_name": "places/ChIJL6hVkpCoQjQRrc9wK25kjtQ/photos/Aa-ngMZwopCDOaAfPogbSii70VJHn91p6ZGEPSbLJB1K9PQybq069LERi8Thf_qJzDIHCj-xri35_Lg2I981cfUj34uyN3MVHgIRO6RVIvnzPc0WYV4UX7te_mtT4e3NdsE5bxLPbhQ2GqbGaC9PxYF0eNzBQ7sOZzI2aQB-5dnvBX2XECeQo0uEvYePMCsQRY67yFNkQJ0bHWoPL7NFayJipiotmM-KjeC7XlLyGFwwXt40_vI78QdPSjiWFnEEp4S0kmsZSS4EBV_W7G90SGjOcml8ws3fXjikjpVAabiVex88MEvxpSeCQpNrQmkqWmSMQK7FPX3-avQazAuGTB8vCrgADlXjPW18FqZT1NKxmBqmr264E7x7M5H4KUJpmI0BlSKukQ4j00E_DWWeYKsDTCR2zEk",
       "first_seen": "2026-10-10",
       "baseline": false,
-      "seen_count": 1,
-      "candidate": false
+      "seen_count": 2,
+      "candidate": true,
+      "stations": [
+        "新北產業園區"
+      ]
     },
     "ChIJayeQKzerQjQRl_1lCzPVisE": {
       "name": "柏穀德精選BuonGusto stile di vita LaLaport南港店（概念咖啡廳）",
@@ -90552,8 +91377,11 @@
       "photo_name": "places/ChIJHZU-jo2pQjQRPFekG_KSv54/photos/Aa-ngMZrPzqXjp2OJTg0qsXj-TQ9wzTVPFfLhvxQie9pMTG6RvBYXZ-6rXupqypFfY13ELF4WizIm28OBUVUvGp7_Hn5GAw2XwuARiFiW_tUSEyPbL0UvCeRic_fOrRCQt7hhXhDc6nUR3SW2j_Y2gR6sswJFE6FD2EAczZ62mSYJqo8mp6wS0Gv4vu3QrfToHPTDaqEtQRAM1DTnCb_nq4fACmu00k9qg_PT3BPyVT_vGICWTaikedls-oKTS242Nm1Ui0Z70jIWD3foHMj0VKODh8PS4pKR1IPxl3A7GTB3ZvZz2hohLdS0dHYSO34Ctk2w7nHznRFMHfNbjQW4DZAaUL7vz76OJcs-0KANmOEKXhyjsiGk6vSPSb3GN1-s_9Cr_hzPZfSrsD6OGd7RCaiKDV4a9gK",
       "first_seen": "2026-10-10",
       "baseline": false,
-      "seen_count": 1,
-      "candidate": false
+      "seen_count": 2,
+      "candidate": false,
+      "stations": [
+        "台北車站"
+      ]
     },
     "ChIJZXKXIQipQjQRt24-7ctvArA": {
       "name": "森咖啡烘焙坊",
@@ -90872,8 +91700,11 @@
       "photo_name": "places/ChIJj7zFkIapQjQRUdBWLcfhEJM/photos/Aa-ngMYqbByDO16F5T0ruDkcwQ7OKRGL9ZJuaOCVdyybEv2OB5xf3P_Jgtc6t255sIzeNu9AYDiKADIz3l2fN6iPY0_5O6NJMFP5Suz_h-1EB-T182P-gEV99fC-5PEb03eoEuMG5Vr9icHODHIEcgtxejgy8oEgn_7yoKWp9DIWrQVJxVpEgmB9VsXpHxxzDxVf7I-l_yU_fYdiSdSULeO3ywy_anmdB_keJEclrrRFDeDuenfk3d8nt44QvMDGU0dtpNkig1E94U8YepO_M6PXTtpaR8maC4h2hB-H_mppnUoPUDAES1Ug4sYoofWduzKYkGUBK4uv32Xc1bUUWb5kKv4D62z0ZQ_HI96p4wyvL10terv0C0N8UwLZA8WhsnAwtNsKYpy2iPT_N-Rex6IPzSSvnEz40Yg",
       "first_seen": "2026-10-10",
       "baseline": false,
-      "seen_count": 1,
-      "candidate": false
+      "seen_count": 2,
+      "candidate": false,
+      "stations": [
+        "東門"
+      ]
     },
     "ChIJSQGJ-umrQjQR7lmiulaJ3Jc": {
       "name": "廚｡嚐咖啡",
@@ -90924,7 +91755,10 @@
       "first_seen": "2026-10-10",
       "baseline": false,
       "seen_count": 2,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "市政府"
+      ]
     },
     "ChIJxXgjnpepQjQRDP2OjFIwnBY": {
       "name": "旺角飲茶",
@@ -91112,8 +91946,11 @@
       "photo_name": "places/ChIJTxAvo0CnQjQRSasvk3l5cCk/photos/Aa-ngMYaFcotSZzjopusq3U3sB6lqGLkSp2btTZdCbCObVtRX7z2InMggfJsPWOvwnzS5yghfy27kvz9v644TBWW1AqaEkgrocSkyJ32Tnm2gAGgpe0OhqYminmCp3fpTCicH7Xa-LBWHcJ8Nw0eT839WCZGfQP_bfD1QvXKu1uQfB5TxhxFZTiQ87wtpx9cJhBuMUoWriFF9FX3H8B4RNiaH2XKdBnjIQt47-XElhazjlpImE8YEllgwoaS0aMRrHVkvfsxsJADuQ-FMEcmMlUTaO95xZaBJLTrv91eJMoutGMjepKTByrvNfbKYFJ3SeLIEVFaG7LxgIACDI0DDFZguS_qis36riPoxWPLLIa2tApkqyadcO0u4YbQX47w35V2QtaKewfVb8FFdp9qmYqfLMWYW5vmbSI",
       "first_seen": "2026-10-10",
       "baseline": false,
-      "seen_count": 1,
-      "candidate": false
+      "seen_count": 2,
+      "candidate": false,
+      "stations": [
+        "體育大學"
+      ]
     },
     "ChIJVVVVVRWsQjQRjjyEN1IKh6w": {
       "name": "金色三麥 美麗華店",
@@ -91354,8 +92191,11 @@
       "photo_name": "places/ChIJw7PtOTQDaDQRv8ix75885sg/photos/Aa-ngMYFRUzKZSYLVda9XmVRqq2d5l88lWaxlmW4sy-ijBZJx13YFiz-t-mmNJzZBpp6tMc1-CaHXAfPHdAJCP0II3Kqov7qjo61F1sGJzWY5_z0OQB7FBVfbwU3NDEgFnnjIYFssBJvG5EWWCiOpP8qzdCJ77Y1zmkNu4TdUKisIZI57S9gM2mRrsXdEG-640xuXR-FJR9ie6HAsikaAxfrlF4ZaRN0YvEBbA6kGe81dgvigTLfGv0dzxY1h3SsTXWMKtedfSF_G8_Hp2oN7vAJ8TDKdm35KjcIAJg3h2JDHOQqae5SMwGBWyRCaSKpBqoucZnZvsI_8rG0cgcCdiXKSq_q9yp441yRgmAl4DtjxtDMbvsNPYzQwAMBRlmEs4M8wp-DCV5d4GEZnXxx7hhyH1B38FxS",
       "first_seen": "2026-10-10",
       "baseline": false,
-      "seen_count": 1,
-      "candidate": false
+      "seen_count": 2,
+      "candidate": false,
+      "stations": [
+        "景平"
+      ]
     },
     "ChIJLe9RdgCrQjQRLXCe9mlIE-Q": {
       "name": "Cat Cafe Mocha 台北信義店",
@@ -91443,6 +92283,7 @@
       "seen_count": 2,
       "candidate": false,
       "stations": [
+        "中山",
         "台北車站",
         "善導寺"
       ]
@@ -91754,6 +92595,8 @@
       "seen_count": 2,
       "candidate": false,
       "stations": [
+        "北門",
+        "台北橋",
         "大橋頭",
         "民權西路"
       ]
@@ -93064,8 +93907,11 @@
       "photo_name": "places/ChIJgQF9ttmmQjQRxmcoUFH8VwE/photos/Aa-ngMb7m6MGeV65Nm2rQdJSWH7S3LlHq9s9GdwEG4p1UKhH6tMzeLNtq-BQX7n4lGJJp-w-i43Ss3nxYJjcIDPD1cofq80ql_NhiCqGd5POljJpqgwZ26Tk6SBCgnfsnd1nReNtbYKh49_DYKV18YBzWVgSwv_Xk4g93ZmU-BenrEzDUxnIF9osi_2AlQsEbxwqcDCnWUcDebzTEPnGU_0KpFSoEw13NsAqahC6GlWCTK6oDWibfiitkyU_WbpQRJu1-bBTAgNtr0pEUTmOR2P-c4dmZuTCANNxdcyRVCqux3GAwEhI2aKYQWTs537noWR1ELF2eDczQKKzrsDMmbcJLqRmMGLAv8oJ6zVd8UnKH-hOthcgURUhRPmsLIiHmeOYSa1rjegi-7w2MW-nYfCPzDwkTbc",
       "first_seen": "2026-10-10",
       "baseline": false,
-      "seen_count": 1,
-      "candidate": false
+      "seen_count": 2,
+      "candidate": false,
+      "stations": [
+        "體育大學"
+      ]
     },
     "ChIJqStUjhaoQjQRRacqudJLjWw": {
       "name": "NU PASTA 板橋新埔店",
@@ -93081,7 +93927,10 @@
       "first_seen": "2026-10-10",
       "baseline": false,
       "seen_count": 2,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "新埔民生"
+      ]
     },
     "ChIJ7ZXcIA-rQjQRIFMAOLXqt14": {
       "name": "WIRED CHAYA茶屋 南港店",
@@ -93172,7 +94021,10 @@
       "first_seen": "2026-10-10",
       "baseline": false,
       "seen_count": 2,
-      "candidate": false
+      "candidate": false,
+      "stations": [
+        "江子翠"
+      ]
     },
     "ChIJgeKYiWipQjQR9vJVqK3sIsE": {
       "name": "晶華酒店-中庭咖啡廳",
@@ -93229,7 +94081,9 @@
       "seen_count": 2,
       "candidate": false,
       "stations": [
-        "七張"
+        "七張",
+        "十四張",
+        "大坪林"
       ]
     },
     "ChIJs-56CUOpQjQR52CpLIJrLpA": {
@@ -93407,8 +94261,11 @@
       "photo_name": "places/ChIJmbqMiSOpQjQRwA5QeDrmPSc/photos/Aa-ngMaGJpaDQg6MOM2Y-Ui0SihEukh5YdJ8Nj_li5SmcN85sUOEmG_NCXbLf_h3HFnKLVbfYnSTl0wxsTW6KL4JZrJRo8rc6FWpdf8q8BzDLJamsoo5Zl0YGw9JFj-QQiH41ykxJQhVYKLz0xNTYbB78CYALuYyC1zAlxMnunHMwfUXNkqT6rUBwiGH4yXlEyhDtkOhoKJkYPRor0ammWaeGZj_GOhRcVLEIMj0Hu9HP7gWOLP6-RPv214DVrNrkWz-seq1F_Z39q39r68OGa7TTnTrHeviyfzBarc87MJfeiOtnWkblscNO63Y4F41lFmK-mYkIientdjyDaNdQz-rY9Dx3lJSdXEzYXiHkIcfZ2Ya7xAYJPkrZpy1rMHTfor88zPMs3WgCkf2OekTBF1Jst2H1oOTpk4",
       "first_seen": "2026-10-10",
       "baseline": false,
-      "seen_count": 1,
-      "candidate": false
+      "seen_count": 2,
+      "candidate": false,
+      "stations": [
+        "龍山寺"
+      ]
     },
     "ChIJfzlHBzEDaDQRJFLXOHxRO1U": {
       "name": "青沫糖水町",
@@ -93661,6 +94518,7 @@
       "seen_count": 2,
       "candidate": false,
       "stations": [
+        "古亭",
         "東門"
       ]
     },
@@ -94022,8 +94880,9 @@
       "photo_name": "places/ChIJ28XGCMWwQjQRjQ6vICgDG2k/photos/Aa-ngMZDZNCs8ogma_-xNwXxFGQbUPs0iz83hlKovoqk3ZtEqOdklZiTg5u-GRNCc0CgcSCGiMQo8oT5Bt_fwTqv6M8NvqzN07tQzef11fHopcbMvy_m9iPM3LUXh-hU9gvQVttMBdX2Ar-Re_mZ804rqrvEpXuQ42wK7v4G-W7GDB89z_7Wvi2KZ6ZsrAk86tu--Nlf16LyZFgWjAxcNROuCNTky0p1DbNgGaIajUEB7goSJfkoW8f6GQoJh4CZsi3w5EeGp6n2rAJGe6DOrnQ3-DCpAnTDbk15ncQjS959ZFwa4hJfaCaeg2lII1rFlIe2jHM2oAfhEXhG_HNpzSueDegUdCBjcn1efU4L7fpFCFQoR9AMXUuQXS6ZOmlx9M-eqAwp3YzSGYmVn9prQ2SRPmHTj4iApoPIYCXKbctW4mdnxQ",
       "first_seen": "2026-10-10",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
+        "淡水",
         "紅樹林"
       ],
       "candidate": false
@@ -94952,6 +95811,7 @@
       "stations": [
         "新埔",
         "新埔民生",
+        "板新",
         "江子翠"
       ],
       "candidate": false
@@ -95443,6 +96303,7 @@
       "baseline": false,
       "seen_count": 2,
       "stations": [
+        "北投",
         "唭哩岸",
         "明德",
         "石牌"
@@ -95466,8 +96327,11 @@
       "stations": [
         "亞東醫院",
         "府中",
+        "新埔",
+        "新埔民生",
         "板新",
         "板橋",
+        "江子翠",
         "海山"
       ],
       "candidate": false
@@ -95674,8 +96538,9 @@
       "photo_name": "places/ChIJj9UJtrurQjQRSvkXdnrzyeI/photos/Aa-ngMaIIN0zDSQWPWg1baI-Or7Q3qln7bqsJVowXMyTH7diWHBhznPRDt0Q9GMaUaRfF0iVwZMwybpVvDuVunfikdVUGVeU2naBQI92_pY1TP4knMFddlhvnZp0pZ64iWvSq9QwjJr6GjtLDIVrEFMNlMT8Sk4Oyc8HHniaTfo9SqHYERngAAlXuc9Og6ekoyIJ0WRvYKyKNZwJWynr4kit74IaEW7POYrSMkSH2uVlR_q4xidbLVkVfPPK3gfdWrD8Em6zEdRSndJKzmGTacpdSTbIKTL6o-Iqv3QqHFZGvQ-Y0-r7ykq4R-ysFJXw7mMxV83rGJStTh4IIIIAyYDtjdYKDdl4IEew91BVGiLZH8LykdOy1cyonFgE0hEijy0aVk5QJsoLVkXfSB7ako4O_AJMixao",
       "first_seen": "2026-10-18",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
+        "市政府",
         "象山"
       ],
       "candidate": false
@@ -95756,7 +96621,7 @@
       "photo_name": "places/ChIJNxUDizepQjQRSfrlf-Eevlg/photos/Aa-ngMZVcIKFRouQZ9qcCIMa4Cp7fepKUdy9N8GRhh9NmqIivfnXNGiP90QEgazDT8UKYTRh2zsWJKH78ioEl-pdSl44jl8mpcWvaN4xRV5TeozbMv1JREbCkwmDuqkLqle80XNUcaJOjXUPvcTsMy5yVcSku_VaqwkFiFh-tRoP0hW7VNGdz0PH5IgFp8v1slFejMPMTmJtcIc7Og2dqQCojKCEbJ8pVpC4B9NrBEJ5L8b9yHoTYYo3ndQ70KHb0FTD2cQkuxyGmOGc-cKdHYEZopIbnlmjySe8x0j1tAV0AGuTDqpbwnTVaHLk4IY5eymvfS7EerMrXR8NL9J1JRxcu117c17C1Gn5auaNaorbskXoxKELg-4iRgpdFuY56nvMGxV3gvs_DYfpB2JayhI2PvDZPA8",
       "first_seen": "2026-10-18",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "北門",
         "台北車站",
@@ -95957,7 +96822,8 @@
       "baseline": false,
       "seen_count": 2,
       "stations": [
-        "中山國中"
+        "中山國中",
+        "松江南京"
       ],
       "candidate": false
     },
@@ -96033,7 +96899,7 @@
       "photo_name": "places/ChIJYUJGvtOnQjQR0ZnEbBlAy58/photos/Aa-ngMY8HSJok5XNo7KMYWqlKzVyo0C5Zhs4SG9vzcRhARl9khpuRPw9hmJGsmn0X9HHPKXI6tge30JkkH9xDlXi81UCOIvq2_TE1K5qYMzvSs-M9E0PYH2U4e84tOevtmBpy0l9EaDdvapx4OK905Ygb1cL3Di92C0a46MzlMnl4DNgenmx11Q_U_Vxg6Nx2ncFJsflHHvaT_KrrZISjZlSItTer-dztHSH5q-TCYvHZAuP-AzBE72RB7P8DscgJzpg1sD9qZywPkd9oZoAEeJU1oy8RUJPnP6VKc_Vse6n4Xc0CYEQDqhK9hFHAslz4yGa8xUCZ8Wo8CAf2XK-tUHFtdfUGQ6eFxaYXt8X51btYGwhSYVO0GU4ACQ5W23wECdVSMzy6lBdRgAX8uDqH4jDFLn66hU",
       "first_seen": "2026-10-19",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "體育大學"
       ],
@@ -96090,11 +96956,11 @@
       "photo_name": "places/ChIJ843IlRSvQjQRx9BiJ2agHp0/photos/Aa-ngMZZ_-gEcH7Zo4HghigQrMge9SnCuOWE-NDqo9AQ5WNuMtrtyHqYPzSBvuCVMKmRmGuT0TZMtscKMcG7Gbo8D_ERS5TJ6MTgNI6rgM1CATbEzP81ETdE1Jd679kNo_fNm6iVNmiY6n_AZBC9-xoTeu1pwGSySnNDW8tMaBgz27I_yV3qKZZDW7Vl5jHQwFWHiZyJc3b8PMLNTJre8sGZdHiMbg6nPT2dpWol_QNutS6U6Jl3dDp4FPaC9HEQlMGXg2_8vObVe0bCRfilszJYo8vE13oCsSY1l1NtrmWhVUUEj3GoPRPiqb_vv2PGyhQz7lbqkf-i2IKwhErmNCUUSMKvaZ1pAMmfx4RxcrBsVjdBFYErqwlte5cmFsUtkHuYxgpfzyvnnoc1Z8m3Fjbe8Bg1rxxYvQXC29-HPGW0s6V8kg",
       "first_seen": "2026-10-19",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "淡水"
       ],
-      "candidate": false
+      "candidate": true
     },
     "ChIJ_dSOZryrQjQR9NdjM3w-nf8": {
       "name": "NOT ONLY CAFE",
@@ -96128,7 +96994,7 @@
       "photo_name": "places/ChIJ1QQPCRurQjQRmXD1gE5fUPU/photos/Aa-ngMYRFYZ9Vy0Dj6566INdRpy-tIKpa8QKmNLx09w93H3utdsxrs8ieQbN8Gx8dFbemGsgeZZ8ygV9mY1RAkDLbQrY6x1taC6_PJYQ2CIOrCL8iHk__p0mdTnci3rMaJTP5bx62xc_9TXfvH0GNyz9n-w4IK004wUFKk_MKTR3zNVEvPx997xO9gA4-1AOcsSKJnBmYKW8WPC17rA5GmomsW9jEfjbdfV9j-8obk3B1wiV_aar6cXhvobt8jZOBn1G-T6L0AYcToJaQcNBWCaqjSgpPygJ8AeY14s0CkOlhTS0wo9OJsxSZz5mWp0MNe7Gh83JNoGBDynptrqWeWzYlHtGu14m_R2z-iHFoTZY715Uh4U1l-KDIs3t67reJEuMO2chT6R4ao0qCZUpQ7Yu3WOx75Y",
       "first_seen": "2026-10-19",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "南京復興"
       ],
@@ -96322,7 +97188,7 @@
       "photo_name": "places/ChIJLfHP61yvQjQR940FXId3vD8/photos/Aa-ngMaHCVrPBeth5N0UcHe6U4mT1A9fAGrvpAZIpm7t2wh-eH-WLiNhAHM0kXp8hGArtmklG5fXUgh-SuyKerbEz0MhcLeFOeDxLuI2-9wOns_i3vc9Gw7vUI2X2lTR6zzQ8QVN9_i1S7s2svbYE0wkb6XNL_wSgFRPejfT5M_ezVFWLXeRL4biwrF6uNc0ftpKiIj1-rHntDkAEpD_Cx1XgjdeY_8ATvsl_RAAnR42mO4KiRJX1vDUY38yMnwK_SgseeZrhPQmSD3BjKkprePXlX5DiTTKdODp4AV53NVIuZqH14Ls97untDHjdzkcKpSbWlG_jnPsNcJIhD6NjSfUgFt-QV23TFZ3xNabHKN1zkOJD7arKxgJVXnTo5hINBFdwRKIrewL0x2bRspO4wZ9GKddmSQeOmgJ7la1XugkRNYqWQ",
       "first_seen": "2026-10-19",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "淡水"
       ],
@@ -96343,6 +97209,7 @@
       "baseline": false,
       "seen_count": 2,
       "stations": [
+        "新埔",
         "新埔民生"
       ],
       "candidate": false
@@ -96362,8 +97229,11 @@
       "baseline": false,
       "seen_count": 2,
       "stations": [
+        "七張",
         "十四張",
-        "大坪林"
+        "大坪林",
+        "新店",
+        "新店區公所"
       ],
       "candidate": true
     },
@@ -96557,7 +97427,7 @@
       "photo_name": "places/ChIJnXFT-7WrQjQRRpVrSLA4RhE/photos/Aa-ngMaqP8D0b5S8bEKdcHyKWTYv2hyeMBRBsgXp1ygB32qvuR89Y5ViBmePKjJNMzyeX7Ircq-3lzMFNSMVYUFEivlOv75OrpaD4YKoIpWRdfY8V0IeJy7FydXOxMWfi24RJP4ijdvzyYq4o0TAfQJa_MCweCo7zA56ZTnnyyHjAMnT7Zzn8aXKlo4vtk5NJMmflFFHyZZFSAg0slASpU6RmkuOVzfEoYmpDJPDuxmi190yNEzVhGVAfTc7bgPbit6sPewhP6HGdvk4cYLPdMg5ih8bc8U7Jj27arXogUkSS5D45FnnRgdnDzBo2bEYKUPttMqwhP7kK86cAB238EXuqBwzi1Clnheo8j7ZqqltOJgHJL0YIyow_RLRlTPxnrhkNdBiIzZgSHSmyXcXSnle2_LFvPMq_7g",
       "first_seen": "2026-10-19",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "台北101/世貿"
       ],
@@ -96596,7 +97466,7 @@
       "photo_name": "places/ChIJCW7vObarQjQRYcrMFpt42Cc/photos/Aa-ngMajmLQ9SIOCpbN68Ypuw4Sf4MXYyxb3tO1g4ezcriuspE26wKZk_HGdKH6OAfY07PwXDyL8qJSsjwaYwdJ9Eo7S8Hr64TkdI_Up1tug_Zau0aVzEplkGTG5r8J548D3iS1K7pIPDMsdtbKuTqiPSZAEP8ZJNt5glBQMWP5cVhsGSxu5LVp_3PZfmnJ-l_gqnjww-RR_imFKslLVG2amnylj2P54XcF4qiSmL3dThQIknrEzyLGNRfUDSos1Kky5RGi2LaDqqt0VBCWOieh_p2WRFV3qBlOiwPnNuUE7m4JGrjqKtQboBFF-FNuL7D2ow4NUbc1tkUvduXkc5ysmPaPSi2OJFXPPcAAWVaydgFzpdRymkEcDtSBEoJ_OMzDoAOyu-iqfK06iw_uhsdg9CeeYheosMOw",
       "first_seen": "2026-10-19",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "台北101/世貿"
       ],
@@ -96691,7 +97561,7 @@
       "photo_name": "places/ChIJAbIImsyrQjQRd9G-Zs9h9zU/photos/Aa-ngMawX-qP6saAtdBYE2M6SRWLYstF5xoL1NvKxAzPJz4XlIWElgtkrJcA6aCqIMsqAa5bJa6-f_ms6xCOJu_eRkGTNcQ7xe3ULt0jfLUOOpZhc58ZZYY0ywhnCH6euwXpVEsz8PBLoHdvRRatXZmBVxrmkIeNTVtRoFtUoDg-OrNbkm-aWGk5vjpnl3nSQuRd8xxGmuyADcntSPZjzyaKb75LKa5U30M6Fl8J19_-fXyB-1hINueZDAwFcEnULwmsMdzIqxWPoP0U3MYTkGcEq3AkbCTdmo27N1m2tu-qCWZcwjBxCOe8JNRktGMlbBpYNykc2pHYQS-x-NCfrw0PQ6561iL7RpwVhapAI3K6zDwL6tMWmUDPPioOtNzqLte6UxmHTyr6Rj5cznM6XgVt_N-uD3X-wwq_uMy9O8zEJu6O",
       "first_seen": "2026-10-26",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "中山國中"
       ],
@@ -96767,13 +97637,13 @@
       "photo_name": "places/ChIJ33PIiDSpQjQRwcoZUdzp86Q/photos/Aa-ngMbQGQS6OaSSOjxSP41RscW4nXwyVMeC44ydT_KabZimMNNqePB5U95TXHp2ebrxiU3wvIfQBJYkhLLNckGkTcTdTGS3U9ZdmbCMQb2FkY03vl1FxlN27kOaBR7Fn72wMjSR1MPbwA8VfSCfmi2H_uuthhlT9l0nJ9_po7ywINjt8F272YJQBkFrJhViBq6CfSv_dWYB2niykY_WHSFRcvrtsd6h5sYYlHDqkvmIWQU4IFJ20cL4nC0XW89wXX-wlm0lQV61-oTtC5Qw2vPHJATLJLvp7TMkw2E7kVZTNO964yc1zwGm8eSOAG755doP8DGfp-Az7j_EZ5lubCjI-LJ3vhbFcq3sjZP0NOkQeD2ptqxiW7UmGoYUMJJbDh3gs25qVoP36_y13XBg4Jfar_rmBNNz4d0",
       "first_seen": "2026-10-26",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "中山國小",
         "圓山",
         "大直"
       ],
-      "candidate": false
+      "candidate": true
     },
     "ChIJ_bRik8WrQjQRZ5zEMoWeJHE": {
       "name": "TBS剔邦饈Teppanyaki 大安區鐵板燒",
@@ -96807,7 +97677,7 @@
       "photo_name": "places/ChIJX1ul5q6pQjQRcs80XOvP9d8/photos/Aa-ngMZ9pd0XlIuNbprbFrOZdUS7TsuZkgtc1R296mMU00Zf66jwQ2whnrR6vtEi6K3LC-4xErXaKd2MDDW1xSLBOaoYHn5OCQ33RShDG5tl4ToN5niLP2UgkR5KTpF3-la6EVu4IlYtIyffEtB54Kyyk6okcSCuhDFyw7SKsujk4Y0OdLBJZCqOCcPoBXHQuBgiFk37kumznfvo72oOylvFVmv1AVlq5haSxQ4lNfeeC9nsRU13qIaUjWWraLsir5Suu_VzpncUpzK5N_t7feuFXpSjR2E4ov4FVeS-s5elYOixrQbrQykEV4-uxuNAy5Q2y6MtnY1VM-hZ-S4M4cltVQejCFObYlwipFnQyJT3tE6fwA6Vu6HLP2RMv-19TvJgrsM97c7dEvPUUrinCUw5pRqvYcY",
       "first_seen": "2026-10-26",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "中和"
       ],
@@ -96864,7 +97734,7 @@
       "photo_name": "places/ChIJeclpyrSvQjQRUCdiQdKrckc/photos/Aa-ngMbPWziEITEYpGgV0-kOJS0mQCFy_4TtjOE2PenA3N0HvYnok5K5IWWP_NLVHEdbESqKx-nKgJ8eC2tCci_3Avxr_nhraAyWkBGhZPS9fw1Dg32_uef5JmITFI65eJLqYMIEIEsAS_sFoOG9K67H3ghb-oMyra88_o99kIMtIIFHN5x_-Y-bvP2FMTt7l4J7APNc6mMWnVaUT9PdauUxI_XaYj5ch5J7BVjXejpZJBhQ10EjFGR49HVxbwpEUDd-NZEcHpzfbwDj9YvgTJqNmozEAmob2u6pwhe_rdZsE_5ktXV7cxIn3LrXOQejhFyE-UgOyCc3Y2AuEr-p34vwXUe3dWzPUHWAN7n5JlDtEVtJ2e0dRbjBifZwmu5hZGqvuBv2rMm3Pe6NpC_Dv8ZwdyCgug",
       "first_seen": "2026-10-26",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "石牌"
       ],
@@ -96883,7 +97753,7 @@
       "photo_name": "places/ChIJEwflM-arQjQRrhl-6DusZ5c/photos/Aa-ngMbIcmC3vB3aWD_ALT2A8sg0eeLz8Mu4OJLaPI0JmLGTQQZw25bft7kgltwiCmPnICfOKvmrY4p4sB5uIG7c-F2BGXXdfCOOTjeiblUJU4ItusglwweCwLX92rc5zdXS2ANVvK4YgLXYvCE7MBabFLf_tzvyEB2Pna_vdK0acI5PRYfYfrLAjDpSAhyaOa4qC1kepnNgXm0LS77uUIhgfdY-37P_mLyhv2lHoDgtUhUtPSXjoC-b8YivCJcr0sBhTsg8DrJ80qqettA-frm6Me3QYc_lXLFxwt6B6_30QwRCyD-0wbZuS0dj3khNMucXMdKs8ipe1259N09WjVAomZjJ57FkdnqCe0CDfELynzhpucWbctxHMBp3T4c7XYPpYaXxRVyL2oK5TYuyz4qpdM1E2WM",
       "first_seen": "2026-10-26",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "南京三民"
       ],
@@ -96925,7 +97795,7 @@
       "photo_name": "places/ChIJf0AfDwCvQjQRVxN7OZ_Y-Y8/photos/Aa-ngMY2SRhiY_4sETc25_2bDoZbLU1ypLJTxeZjTDqd6HpDW5xRrN1DiV9ZJslvtjfaeyPknnB37KB9iuWsA4RKw3kCVg_jw0WagzBN7HmRoQ1cVRGMU1X-l1jqN50hEQrAVvB_7qahA6mU8Q8YE64Gxi8Wf5HmRQXf1OPYQL05DaWTNUPXP-zqT7Fx8zpF7h65pCPq0CDqmMKt768gkCTeyNd_VJJmqBR-2zgy0JGPSiw4BhXocuHZCljCZvww0WYdQEI0AGyTEMU4l89pkPBxeesCjDtBdrczlQNzfAtSg2--MwezwJFpNRvreqL-5oKmE68QyefFLfU0Go-K7t7rklFIB5rTQnNPZbki3FCWi-J4qtaLcpRS9B7uR06K8wQRhxnnAhYtck5CNyHhqxc1HurliBreKJn8Gw_gJT2GEwRb",
       "first_seen": "2026-10-26",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "唭哩岸"
       ],
@@ -96944,7 +97814,7 @@
       "photo_name": "places/ChIJt2y_Tx6lQjQRmJKqk25yGYQ/photos/Aa-ngMYziE8ygO5nLRsgW64FMRfEeN4iR7Cu8ohGZR7xfVhpoa2ZrbLiuSX6wOylBfpwAk3OMM_mSl4IUMh-UxjPjMq0pPrBI0fIyPpoHVgSg-NNYz7XkgEIwF2fR136gkl3Lh6VQJklw57Q6OfXVYN_FiTsNfAS_WAQMJl2tgVrtj3DihySBcCb3xd6jYJOhVmTg_1ZcCtdMuVPn7AO7ppDG87emCYe-NFVXs7kTd2j5ncZZeImOKU7KIbLfI7EWwYU6KW_8au7L2GgNTdxHp1_Po6F9cbUxyAzkeF6Bi6uXkTl7zBwNUTKd6IaDzY12SFIrETJ91X-hsX8DkyPOyyerR4uovUkneuHwlX8NU6CxWSUao2qjPOaGKXuxOviCbw1YoHgGTeJPskau2BehyeaSqwYuV8",
       "first_seen": "2026-10-26",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "淡水"
       ],
@@ -96963,7 +97833,7 @@
       "photo_name": "places/ChIJD9XsutqrQjQRnJ2-uKnMVg8/photos/Aa-ngMZsxiuH9c62plL2xP_S6DqGNOi5nKQTLqXDbFqrt4_NYmwLESFcLk1u5uo2ji8g8-BanhB_vrLbO9ye9-X9OZMXuYOd_gJZlv3Q6jXLsD-_jGn35tTka4S2ZqF-l5z3eG9lxAQFaOMYB8ZH7mJNflV7Sjox3lLJST3j6lE-w2N1PlkL_RSyCCOSPJNPtCWla27qUKcUQT1m3Y4It4u7pCPDwEJSwacA292vDZzyCrckSWCxRkZIa3At2de3vHWpLD3seAscOn-btP38Fl3FEmwocOFhpXOSTzVe7-XrE9ExcQTEnwt1K9zHSWmjPmpHf_T9ElSYU8vM_R-fFTAYsfwOwwWCgjcfEzTykt-ueiosajGdW_5ai6zcml7Hh3omSPGO7wIeNKv6Idh0aoStQniscps0DQo",
       "first_seen": "2026-10-26",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "信義安和",
         "公館",
@@ -97000,7 +97870,7 @@
       "photo_name": "places/ChIJ8bDiSkupQjQR4MAgPfA9p5I/photos/Aa-ngMYSsKl2oxrx6JZSni4gjIRiE6k4c7FL5D-d-d8Pbqu3xtGuiTU2EgTvaPQcsrPywr9Rtnw1NXezagyc3ueOZsauLHf6iFOTw1OU71AYe3eDg8ho7YaITimNNCSKXiYiiYA7s1lPiL5DUQZKL6uQJCsta-38_GUlHVmrDnd6C11X9tLY8sppyWsFbzyVec4paSdFFN52HqMKa-z4IDZwksZT9MjK4Kfp4NY7cuKmLI7QYcBlmeE5fhxWTXzrxpsTzdTPN-prHPAfabMVdoCdfqSVIzolKAMrKUpQDKrsKk_mi_nUVcKJVCseEUouoP0kIDmWt1wFmBAsauI-NPfIQlnvIF7vFJGqMn_GHL5fWqJl8H6leb1s4Oz7cO8YRIM5NuuFQD0efFV7IiCYZCfFgBWJO1YXHkphx4tJvWa9w1uz",
       "first_seen": "2026-10-26",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "頂溪"
       ],
@@ -97019,7 +97889,7 @@
       "photo_name": "places/ChIJa0sta-SrQjQRn5c7GWpoEC8/photos/Aa-ngMbfv5swYNZKy6K16Z8NLm2avPphYgZczNx14QotQJLVZYhbpKYL_-dwv8Tztinh7NcDxUP6wjjCy0a5p39FXJAnEXBbDIIJ8wsEoa84-26f_Dk3Ikvj-7xV7h4UqnepRn_O142-Vb4oppmN_VtnhI6sHvcGHcmst3YIb410wCvRwsC8YQu66kErkYfqWFXK1lxYta1d4TKCoOY5hNz1xdmw4CBhkjoFzKMOBZRwbY-TApTCEgF7rUJSreyxqkIL9JEpMIjo7DXu4msCwEtqqQCwdyrKVP6U2ttVYWX64Kkg4J5B8lUXWLAmOa4bhXLtMiV1NgxTJAWNCC0rK4kqSrfn3D2O7glvAtlnQsHKXGEYAumIxzNLAmNRShAsBjBkKJT6nL4_o7g3Kodk1JlBFWphaog",
       "first_seen": "2026-10-26",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "中山國中",
         "中山國小",
@@ -97085,7 +97955,7 @@
       "photo_name": "places/ChIJb9xkl3WtQjQRrsHNVeLTx-8/photos/Aa-ngMYoHQccPX_yzy60d0yN_oPANKRFqQCyjoIYew6qg1DtdrJC9dUw_40oPJjyugLqw4M5h7fzm8Ll6Sb-64x2G5-NBuGlf4vAGUMUKI4Sm63HqxSY20_aUYiFqOGHzhQKF60TZZuu4ZJLjo5mM3YQuGQnUpEso1objnl_ScZ-_072DzSNAkYQDp0_L1j5KqiuBdA7F90CSP5W93dzui4tVmI7q5O56aAov6IHI-4E9BG0gxTMysa46G24aUvU3GNqoootYcqBmlgz-BmsrFmAAld4WcljMiXvkke66jbkzE889Qwiedqw_bo3LcNJ6dmPznhwTICJQEcReX2BvpufL44YSZBi73DwSbeUaTVtYbv2YeNSBSYZSY6d1PiL5GEbLqsNrUibC4jSZo4XJeuNb8VrmVpTFiKEFxnHy-crTZEIzA",
       "first_seen": "2026-10-26",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "大直"
       ],
@@ -97104,12 +97974,12 @@
       "photo_name": "places/ChIJRT1bJy-pQjQRlM9fb0RuSuM/photos/Aa-ngMZ6XmvCmgmWK_UxoXE-7mIggyi0dD35fMr_DisR9KB0_q-bdptfaNqvaBNAtGJGgSDpPDebjGlsER9hwUVkS4Wy-nKfbXWz66y98Z10ayj5Re47oX0B3Cm_2d8ASfLabiX6neVIfkFUGikasMw5LlA2nmkn8gHZWcnAk-gmzv4OKijYByPqEMW_91eF1wR6dYM1OnKF_-0-_rpoZqaQnCOA3RfaYzC8VYGZfO6dkswdRp4wk76c1gg1WZ_xo8B5bpY6iGKR-VKWjQt22NvEiKCMeqAc6A-U-S55U3fyW_cID6vJCNQ0YmOGW1BFa7Ds-uHJLBujaYqarssLT_4zNKjPwNBtyVixyHc3EMblGS1_t4RkBrsPvp_VBAo9lpKJSbkjh3Ea8PWh_U9QDrDUgmHoTFLrmGDfT9133jtLwbXkHg",
       "first_seen": "2026-10-26",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "先嗇宮",
         "江子翠"
       ],
-      "candidate": false
+      "candidate": true
     },
     "ChIJn9Iy1ripQjQRKBK-CPo-iSo": {
       "name": "Morim 森沐｜Dessert Café & Space",
@@ -97124,11 +97994,11 @@
       "photo_name": "places/ChIJn9Iy1ripQjQRKBK-CPo-iSo/photos/Aa-ngMb_UmsGoLSMOmGrA9vuVONpkCGZ5bEWohLJ7fPK_V2odPfhf78KKW7VuFlsWtd7USMCaAjsZpGxZaIZCpcHYoQCxXfArzVLrmBntD6fS7sPwTYlTu3MhLwi2ynu0sG2OaPc9UvjyTxgid3Bw10ECOv8Oa0enFB2HGlKHrnIHEi9rk9BnvgIfqcLNDyJewMZ3WKyGnOSPgdRXO-qeBPTryPC2DGtLnF4bEv3WKBzjfGUbzD3afgyy2YYWbcYgcFKEws2sDIL4aIVgomlnrcG6NAEB8A-4taBHLGcNd0Lb4LtxPGvQekJoV2Y465GJy4DeQUoQlKT_nXwuD6GXgS5mpTypZWuFIeYSVbRpWF1wniqplgwzVJkItT2-XMtGa_1md4IZKZmGoanMLb41xhhivBAaHDaA9g5twyfAV1Smu7K8A",
       "first_seen": "2026-10-26",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "東門"
       ],
-      "candidate": false
+      "candidate": true
     },
     "ChIJ7Zq5xdWoQjQRyrihLZtp8Fg": {
       "name": "85度C生甜甜圈三重仁愛研究所",
@@ -97143,7 +98013,7 @@
       "photo_name": "places/ChIJ7Zq5xdWoQjQRyrihLZtp8Fg/photos/Aa-ngMZFoAF5P6iKS3KAYHiYw3DMc43xSrZgxWnOKUToG8C98aAvDMJnH_qVYeQ3EPEmOmP2qFAQiqgXZj2nh0u7ylMFOhLyD8PjeHjAWnUL5a6hYpDvUjgKMZokRhBR1epAEfDs64E8-5eSk0ikqz5utbcC84QX430Q0t4OX1lWGtmbBZN4CahOwTO2AJ8S27K9nPd6vJtSch2k1Y0M18NGezAZfhZInctyZxW99WYAwePnqosmlhwZ2Sn7Xc1gKjOSo2TJBRCOO0oGDON6eUJkdoCMNQQfqukKFtShFU4F7iaztkJQzZNd5uqE8sbl0alb9H5X2nMX_lxGQC2TrWZZe2hKEX88AKQiV8MuAPJnSAHgpvWcaH5OiiRHtzX-4B1M6C7XuwHcETCgIxP11OVuCmM-6U0aZ540kCfHBHd53yAonA",
       "first_seen": "2026-10-26",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "三和國中",
         "徐匯中學"
@@ -97163,7 +98033,7 @@
       "photo_name": "places/ChIJkxT1bgCtQjQROnIN-CoDhYg/photos/Aa-ngMZW8A3oRE2KorpdkY8tuBM12PbBhG-XGaDkyiBJ50lc3ElfiIiassZf-03M9RJ4YcSPBeTS6TkRIwqKKVbMb4Ni9iT4eXeQalSdxPxEyxolVes0fE97qkcyBXCFgxs40mB-cjouUo6NOXjJ8OPclENzI1Zfq9RGX_iwS1tjn8yhlGZ5Roxykhc924hBkfS2IxVREKGvogA09FNqRZPQKkUvYgwcm9Ia9mivEgUR_mjg8Nnmi4IdvXIATj8XeJ8NDUNWvqyQz7P4Fxc7PigeRRB5981zHl2hFsythp6BcX0QYTqHQI053qo-dqxiF2blUJUld3LXZ-jzT5VnVgfqdSElYJ4uV_LGHX0eHY3phl0jSyPJ9LmKMkgxypr3sJW_lSz2URM5k2qDaY_rBwxYHWQXCWTegvci0aLT_uoxlDw5",
       "first_seen": "2026-10-26",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "南港展覽館",
         "南港軟體園區",
@@ -97184,11 +98054,11 @@
       "photo_name": "places/ChIJe6i8h2upQjQRmUOrahETbSg/photos/Aa-ngMbiZI5_SZTfObwZrgKdPLrGghIVR8YPQa5ryf2LXv-Gq_JK0jRAHOqsBy6MzMYLnSD8ntSuUb6j8ok-SpnBez0nBIihdR7QSyyKV37u7tTGixnonirmEnkMYTD2ch2aT1notxUWlpq3f4JCXKKbuMnRGD-WfIm408kQIGTVzUy2a9uihxY_bN_p9xS_q7AtOJSUqIsJAqSb1vvUU5twfTZ3QiALBSalzxPINNVZFpTl-CK8Pq54E_k-Li9b9uGittK-zVplEI_eWm--Lc_s1OlhGIZLvQ_g-lC2eUTniES2-UPBS7QlFq61CTzPMJPVju9i8cblp5iOB-N_8GjIV7YjDebi35BcRNlriogEA3bSRiPYf_Yq7Mj7jlTWWW8FugFN4TjjC_bsZvWYAGBbBWfFY5Whlh4",
       "first_seen": "2026-10-26",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "中和"
       ],
-      "candidate": false
+      "candidate": true
     },
     "ChIJK1mIzderQjQRwv43Zm13DJM": {
       "name": "育成蕃薯藤餐廳 (建國高架橋下) 每週一餐廳公休",
@@ -97203,7 +98073,7 @@
       "photo_name": "places/ChIJK1mIzderQjQRwv43Zm13DJM/photos/Aa-ngMYJ3Hbk9mzF2Y5BFa1m3wxtRLopzvJkjdGx5rnpzpJtIc3GVB_PJJp1k3jR371Se4KvnLQogFXCxn7EtN6zGBezWCWq2cgJ9pmZsUwvarDE1O7JRJEoCL77IDYQmmlZgIyc_IbKWjaBVK25iGtz94DQQcrQit1x9lO311-p7Nz_B4DeE5m0dn-pQu2fCdZvFoZsm4jxZWK2Ty4nynAP-MEmQ6_dlhi4S_m98CLldFMB97msocefqD814VA7YAvfesXsEncGgmYXFo21_q4zZvFJEeMtSwjEKng4NniapwYofWwZ8ARJJm1p1WbsISNk5DS6Kfd0hPcs_aKKwF6xin55uI1hCp6u_Q2b_BKsaGreWXaI8bJqaEy5qiQj76XV6PMQkE_LmMCh1S-gSXJOJ1H135VEEEij_zbA06ZAqpXg",
       "first_seen": "2026-10-26",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "忠孝新生"
       ],
@@ -97260,11 +98130,11 @@
       "photo_name": "places/ChIJZ7p5KwCpQjQRggDjTaR93qQ/photos/Aa-ngMYRH4KtOWHGNEgcL4Kz2_jA5N9SXLH3sbh3D0P4B_pwYedY_FEwKoq4Q4yXg7RMWmv1ruIuSMWQm9-rXGsBJFdJXeOqA2dad7zq8rjl2SwagN-HUX-mQLKcEklluAIegrw7uT5OHstwwCHV-6AjKyfzw4oOIJ6rzLa3BlMSsCg9PXM2J-Xj42ch37pue4--UtxpjQHxusqYj3VS4fWKaK0x4oGYwgTyDuhxzotSjBtjjHpQKzikp7NGWZUgsqE--VV1dAMMI7mO5IfiUBCUTuG0MhknEFoKubS2i4dZJEC9AnPESsSjgebHmctbTuHiNECK3lUpZJjqQv2-PaHcNkRaxnToGMUi7Ev1qmFEKzWdSoqX42ctxt7LjfPEXaUgLqFXQFEzP9SIA3jbiSG3gfMKAnBa1bSdD7F6WaXKnzjZBQ",
       "first_seen": "2026-10-26",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "泰山"
       ],
-      "candidate": false
+      "candidate": true
     },
     "ChIJ-YL1tWavQjQRrB4xEvxl2sg": {
       "name": "饗泰多泰式風格餐廳 天母店",
@@ -97320,11 +98190,11 @@
       "photo_name": "places/ChIJ6yd-qu2pQjQRWzkv9wooXe0/photos/Aa-ngMZYxWKyNdPCeZNH18JzNRa8PkLHVq81sPHRn2aizePZunZ9_5InXhclwXCCzdJdRg30t6-6vbUmdMhgzzuCQzxMlEyUoRdaaQKdXCqCxfqBXpAdsO3AQ-kN2ON28QfKew72_EppM2-CVIEC9V2GlPa5X_8GKwH8AKvtvgrWZeMFxh4RjxzwynOGhIsKFAARKNCqtAEN0MPU8Ok7ions-R-6bMXfOetpcl0P-ykcjqSVcx8SysTHDG1QDxJ2qQQXH7blCUuf-6_52SPFReLiJbkgK9-i90evxyE2M44P3Ejme9_Lu1XIJxnplWzE5TQ9OaqPH_PtODppzoNDQi40jeXp_QmU1IlSO8hwzL39Tpuie8zDYtZ1W-UITrK2hadrUaU6mB30z2rpvzHhHCoH9tN9JPcaKIInbcHgnLTnqeo2_w",
       "first_seen": "2026-10-26",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "新北產業園區"
       ],
-      "candidate": false
+      "candidate": true
     },
     "ChIJWdrmZS2rQjQRaWM7Sa-B9q0": {
       "name": "Hoda Bistro餐酒館(加油站跟萊爾富中間)",
@@ -97358,11 +98228,11 @@
       "photo_name": "places/ChIJc5oms8WrQjQRN5CROSjy-Eo/photos/Aa-ngMYr2u28HAolMuCL4cbTMsRoGB1jpTLcV1M1jpbC1tacSxIuc3bujqGpCqLXprzeNDZmFn-lemgb9nYfP2NFWy0gClGFUxgC9yq8XKSEBrCOdQBF-k1YzgKOCTgGUpMBIZFjVnVL9YROzgP9dXotpwZHzSLeKJd0ULQGsdCRraVe2a26i8EswJETCmkqdTgsnIKTX8wNy2yhKE8ghp3IRoH--Vta6ODDW2KEH5MVGCAvDi4E43yA8uuvzBnNk18zmuzz_vnTerN4R9JUySw0wRwGD9uE1nDfS4V6TfCNkGra3_KJVOBG1H-uT0FNMYRZ0Xyjxi7E2soZ79zktMX5G7gye40J2_gecJ5Ix6ExTQitG-xXz_WkHBZR3oTSQWWB9wRLdVcJAxcrXzKYWDKi5vUwYo7xHOlF2a-ZsVSYd4xF",
       "first_seen": "2026-10-26",
       "baseline": false,
-      "seen_count": 1,
+      "seen_count": 2,
       "stations": [
         "中山國小"
       ],
-      "candidate": false
+      "candidate": true
     },
     "ChIJGzqUC8-rQjQR8d5fRKpaNQo": {
       "name": "雅室牛排 仁愛圓環店",
@@ -97442,6 +98312,1003 @@
       "seen_count": 1,
       "stations": [
         "泰山"
+      ],
+      "candidate": false
+    },
+    "ChIJMdql9jOrQjQRz9ysezDvPAQ": {
+      "name": "肉執事台北松山門市",
+      "address": "105057台灣臺北市松山區慈祐里市民大道六段135號",
+      "rating": 4.5,
+      "reviews": 2550,
+      "status": "OPERATIONAL",
+      "type": "yakiniku_restaurant",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJMdql9jOrQjQRz9ysezDvPAQ/photos/AV-0GLeAac0EVATFQ2KkeGA4OkW4161ObxTGuZQgqygysB-KU7zE0vwHbt63RRZDQgzdM2S_NiDf6kupSiOLvewG1GV8PhUTYPtYpnccwcvz0O59px3Q3WKHluo-b4WtJHpnzB8l-Az8B09XnqzSwhdMV4F1_Y5CN3Zfkak5-VLuSgp9RMVi6-jS7xE-DY2py6Et_3ttKhdfOHJ_VAM83i4rlbr4E1lievbs8iGL4WdzV55DjPtHbil8W9FHhhP6we9HDWxLTz--g8U4crYJm-dIXgWxhhhlrqRy84ECjc08kELdoKXU6No__9yZ4xd1vQj4RpK_yvufOJaaCgdEOlHL0Fgfl6SbKoQUm-4KVMFuOgoSgpTIhNQGmGvG5qWIBeMedbWadxi2SfyVUdE6sHsTc9_5lD-_qR0tKfqPawTDR3fdxA",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "後山埤"
+      ],
+      "candidate": false
+    },
+    "ChIJM5Jk3s6oQjQR0eFabcYj6ug": {
+      "name": "MO-MO-PARADISE 蘆洲徐匯牧場",
+      "address": "247台灣新北市蘆洲區恆德里中山一路8號5F",
+      "rating": 4.3,
+      "reviews": 2629,
+      "status": "OPERATIONAL",
+      "type": "japanese_restaurant",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJM5Jk3s6oQjQR0eFabcYj6ug/photos/AV-0GLedJQ9Ok0LD_WdzXSGGbuuYttIX-kSXRksGqq7OwYXUcL_dMGCrQLx8nBWqKlxJOaWXfmlCYjGxqs09zCkk5zxsaUSR0bo0eOwBDBc1UW4pp-_sjA6QL6F8X6mSbF4-Uf6-7TU7YZBKKoOg02GWSTMpC1lbp_srHbNB7kr3y4lYcJJfQWs7d5ZZlb6RF9982McSCJlqoVrv7QygEgsqvy0nhtLl0S5YYXPUwkhO_aLrHow_fl76rAnvHu5MFl4nfgIKjXu6IuzHy1dMXbtzKqo80WsjOMEtGFoW8G8g9OOLSZX-HhUvZTZhpJTQzYbxBZOmo-cBxIcRy5k5ooTitsvI3qidcyCjsJSWRCndBG8g72B-bvTzPh_H5r7QmqukBjSqS3hbTXrSgE9931-_q_PYVYW-Q3-nbuZOLJ3s5XErkA",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "徐匯中學"
+      ],
+      "candidate": false
+    },
+    "ChIJzVxRQxYdaDQRgEyuv6v0__o": {
+      "name": "馬里珈琲マリコーヒー",
+      "address": "238台灣新北市樹林區樹西里中興街2-4號",
+      "rating": 4.6,
+      "reviews": 177,
+      "status": "OPERATIONAL",
+      "type": "cafe",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "photo_name": "places/ChIJzVxRQxYdaDQRgEyuv6v0__o/photos/AV-0GLfIQvqPz2haqaOZsc9jZshxR_wkr5JwUPnz6G4m9-dAK1QpQcgWAqT9XpZJaIxOjfI5f3OTMYHEqCA7KXPplIgD11sHE6TJAfTtAt3AqmsfznQS9aCvj1C0EhK4OO8GsRfogac5UMJ2LNzfaBf6Z2UtNN-JJPQufFzvYIwkTefcRXunX61F6GXzWC-f5_DqjcdarpkXmH8qgC6GGjXQtBeEXsl-kuKELfAbP-5Oh6vhX_pQxAYpVz65RxssrO5AJgjBDtOm-hqMpWdOxy0Ul6o2--n7RgQ8LXBJYaDaOy02VA5ly2nvzh4KfQ_aKIPXZGTVAgJgexu9Jd9kC6JXZi0jdQfVWDitD8YkCxbqvEkOBLSvVUxcg4X0pTmlovyo8QcvD-Ze0l8tyntnolIqNI-sdmc",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "永寧",
+        "頂埔"
+      ],
+      "candidate": false
+    },
+    "ChIJ-dD7-s-pQjQRqw4JZutsb5A": {
+      "name": "和民 手作廚房 台北桂林店",
+      "address": "108412台灣台北市万华区仁德里桂林路1號4樓",
+      "rating": 4.7,
+      "reviews": 1154,
+      "status": "OPERATIONAL",
+      "type": "japanese_restaurant",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJ-dD7-s-pQjQRqw4JZutsb5A/photos/AV-0GLcNWksR47-odzBpmJTBPBe5JVc0fyqwMjPasTaaoLsNVx1lUbpJcPMjQbh-WyUPKnLYyTP008EPMsyvk2-F69GszCDBozVH3DrcCZ1KWpcPdDEwmldJqbyEeS0lxFWc5IKOKVjoEUrOv73251vluVAtWX-UClc6Fti3gsGvFWrjLWRhNVVN9ZCXXt5M9z8_I36rlrM_Z8s6YuWtStmHWPq17Y4NBDu3mHC-lzFcxk4u4nf8edkInnKoOjpzXkuOwSFeQvBaTM8dG3DEH-JcdxXWVi4cU7ZrFm3__ohKl8p7_woTcqO4LWtfugVM1ga2cBi0Kryjy2M2uOClGp1iyUumwHqu_Y7ebRfroXXdgxAY3o1U2H3BMRephUnPAHITrd2wOVAu3iU2vJsuuPGx1p1njD1louT44MfyopTFDECwZA",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "龍山寺"
+      ],
+      "candidate": false
+    },
+    "ChIJ02xgSi0daDQRzYO_UDIklnk": {
+      "name": "甜甜的朋友圈-慈愛店",
+      "address": "241台灣新北市三重區慈愛街49號",
+      "rating": 5,
+      "reviews": 197,
+      "status": "OPERATIONAL",
+      "type": "donut_shop",
+      "is_food": true,
+      "open_now": null,
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "photo_name": "places/ChIJ02xgSi0daDQRzYO_UDIklnk/photos/AV-0GLfI7luqmLTbON-tR3KnMRsvIpYhxQ8rnnhR9dCZfGFykjE_LXOwCyuvJgcHEO2IA3RR3Ipw4D7gOWHJWXkpKZrV9wbG6A85sg3TV2ABHrpsG5HpRxWrqtQNAcKZiGyYMEGiKlBQw6nU33oxuVvo9t3_ERMVssmeyR7-N7ulOQaBFpekEkjNtlAEGNHFxeiDrNp0v8LjdsxvqQ9nxdxENr_dxTSoJnlle6lF2g6J51XXWEeBQvdlPzuMSB5dyKQBMB2O4M0TbaOzVAI-CAp7jL_Kdoj4weLECeNiiN-FRhUVvU6W8RNrOL14_d7yiIAWVG2Q_Tj7q2slxG6GjClddmaQoYbsxzHgb5rzrThSchOb0t98ThbadvAPxr6qJSwFL_JNsZXXl6FNvFbS4BPPRgSDYDPMgRs",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "三和國中",
+        "徐匯中學"
+      ],
+      "candidate": false
+    },
+    "ChIJgVgFn2ClQjQRNjku0Ukicl8": {
+      "name": "153小站-探索奇妙以色列",
+      "address": "251台灣新北市淡水區中正路11巷",
+      "rating": 4.5,
+      "reviews": 48,
+      "status": "OPERATIONAL",
+      "type": "coffee_shop",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "photo_name": "places/ChIJgVgFn2ClQjQRNjku0Ukicl8/photos/AV-0GLdhvungspecjdT3hJCqV-o33d11c7m8Cwsfa24B0OGVt_i5JEI4N_Gh8ixyD_6EgfiNWAphDcDMv3Lsi7t3M6Ti7D16Im6TL9B797kMx0B4fff6-YSepAO6BBDuQJlqFZEUBudZIBqBZCVw_r8NNW9xw2m5yWcNdhJ5hi4YUXMI9Dfl_6CRpk4EKlFJ85Bwdxt0e0XzLz24Oy8CU-F0uMdS3MlZOkjTUON_xyxCgMOYQ_-8Erdc-cNbGie_vTt2kubGfdy8ZnnZzL2i6s7WSnwhzYv6WvWmbtDRlfmylYiYgLYZXpGvFiVRcY3F73uthkRGtAxRMOsVN475dTrE9TYjrZFdlXZMfrgbKDVmGnWYD6rAjpqVU1eCbJuLQBXVCjEOsfSjJA-wXEPoWustEdC1xDX4w2U",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "淡水"
+      ],
+      "candidate": false
+    },
+    "ChIJdyguFfmpQjQRaHblXTkQvHo": {
+      "name": "蔬格拉邸工坊(鍋物在中山路)｜素食九宮格、團體餐盒、合菜BUFFET外送【無內用/採預訂外送服務】",
+      "address": "220台灣新北市板橋區純翠里光武街119號",
+      "rating": 4.7,
+      "reviews": 180,
+      "status": "OPERATIONAL",
+      "type": "vegetarian_restaurant",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "photo_name": "places/ChIJdyguFfmpQjQRaHblXTkQvHo/photos/AV-0GLdKeB_E4v-PjVr2FbsqmkRgk_-OeXq6Etb8T8SeTpPj2n-j_Xe_e-DZBmz6STfi72d8VqoS-YVsDJJ_A0j9FlrV91RYZqKQWGzj_6z75EIh3Ks0vIi-WVAx-OfKVS0sMvHWPKzXvXqbP6g4JX8jPWA7FTvBJNP8AfVx06uQVf1YsczcxXIcKfMjIkXkVPEle1mAjLMTCA9NG2IPTpWRh94gOJGjw5PS5B7Y7mQMGLDex1GkxmcggAUBbHzUsF7JoK6xhpZXywp83bi04cCLtgLrL3BqLA7h5ReczZOgrm4zjawr0G9yjp6C5nAC0Q5kZb4X2bX9iQfkpQnxXiRYOjwu8zIPDREVZqK-BKVAEYIcZOCbNP42fokRCSfTAgMgx8cAxA-CypUOXWhK_fVfKutp4Q",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "新埔民生"
+      ],
+      "candidate": false
+    },
+    "ChIJj3nwHcytQjQR_HEgmHGcf_k": {
+      "name": "Cave X - 親子共融咖啡廳",
+      "address": "104台灣臺北市中山區永安里明水路397巷3號",
+      "rating": 5,
+      "reviews": 57,
+      "status": "OPERATIONAL",
+      "type": "food_store",
+      "is_food": false,
+      "open_now": false,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJj3nwHcytQjQR_HEgmHGcf_k/photos/AV-0GLdKZSdXGESX5uEHaHrI8QznZMcTSi0k0WlsKWLG1JmJFBcfDnDpM49OgxgI4x7FR3x1kAVrSB1XJaVpVjJsUku8Ni9kseSjkihQdaH8t7XK8DlN9dXAtgYOWV8JKVt0F70KzcwEfGkYMPR3x0UVb56yY3zvVwjVNdhk5Tv4zxZUwzM353g1apr7XLNcbu-b5v85KyCGffI5GyHvygSnKrthwGaBNMvXjm5pBH2bdcUYGHCfNfNR-GSTrH8XjmKWouQS9wBvMh83TKsrmRo_rRhQhNCQtn6YmCjaLbWDZn4HchhwpfKB2Ec0b3P3Nuh6mNxXW-mL6JUuHarhjqLyQMPYCEP2ac8ncCmLZ8Ua4vj_IWBfvyUUHbb8gDhMcsoixsHzByVG6Y-zsd3AOlWjao7xFzbfYoIEszoPwihXpzY4",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "劍南路",
+        "大直"
+      ],
+      "candidate": false
+    },
+    "ChIJHS-iTWmpQjQR07JYlXrMQqY": {
+      "name": "吉比鮮釀餐廳 - 台北南西店 GBA Brewery Restaurant - Taipei Nanxi Store",
+      "address": "104台灣臺北市中山區南京西路15號8樓",
+      "rating": 4.2,
+      "reviews": 1793,
+      "status": "OPERATIONAL",
+      "type": "restaurant",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJHS-iTWmpQjQR07JYlXrMQqY/photos/AV-0GLfqyAK-2qkdqaCPm5zkqyI2BaO1l5sbrfSXS8MOvm5ElAjXTiESAYPy-nwnNcXBaWxn4Auyqo77FL36a-AeiULjYTFqDdxYkuCfEDH8ArDFzYQic4x4rf3q0uROU6hbmhmsokI2b5fSu0LYTjZjk1QCnUkqmrAlmpIyUnNCMNX-WHXcdFqli8AI6LfTFe0JuIP_GO1RABvQ5SuOBkme17q3_qu1BFi3MRj2npIEkYtIKVWEkvYv14dN0qrvNpfMCH_zOAObdH_VfWPZiTzmFGhPr45V_4kcKvNdPYylv_IhL8k0PITJ1xlTQALMY9Mv3B4xZBPqhLRUBjG1lkx_swbJq-3VZ98nv6qBkCzxqgZ93sWowXafYv58-s6IaPXrRvBvR6UBH4u2jxaFtBgc-FE9QlU",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "中山"
+      ],
+      "candidate": false
+    },
+    "ChIJrSZypLCrQjQR2NYLSstifcw": {
+      "name": "Florian 福里安花神餐廳",
+      "address": "2f, No. 9號松壽路西村里信義區臺北市台灣 110",
+      "rating": 4.2,
+      "reviews": 1594,
+      "status": "OPERATIONAL",
+      "type": "italian_restaurant",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJrSZypLCrQjQR2NYLSstifcw/photos/AV-0GLdP7313_dDIqPhH9lsfBTUHiAZ62mjiF0OiT6EQ8-BVs0hnDWJqb-Fsno5rZNJfY-CGBu09mhKdWd1DiPfZTWdivkClZuigAFRC5mxht6_xlklpY8o8Kb30EFfadGL2Lk68S0AuLbfYZOJeleaeZyEwfZptyJEKrO-50twJyEUDXnYxblIrN00mG7nUZOeZudIvzt38HiFnjIGLKPL_zFIJ-tH43si4ukFs14IBhEK6snmkyid2H9z-gnCH2j3NskXiJYyBRyPCenIQBeYYZ_nGrHcdKkHiQFjeLljHH1LjeKEl5qbRdmNZydSkzJ3gIXxUfLpRxbH8LAFQ3AKcQwG5E6BRQ7KkelJSCcvjYhPAGF_zCv7sTwcUo0tkq25e2lFxAXclf_qBRxzsveBrLsicYLq9k-0",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "市政府"
+      ],
+      "candidate": false
+    },
+    "ChIJI0awtiepQjQRS7RZxl0R8fA": {
+      "name": "Mingle Bar&Bistro",
+      "address": "104台灣臺北市中山區雙城街32巷4號1樓",
+      "rating": 4.8,
+      "reviews": 528,
+      "status": "OPERATIONAL",
+      "type": "sports_bar",
+      "is_food": true,
+      "open_now": false,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJI0awtiepQjQRS7RZxl0R8fA/photos/AV-0GLcps1WAYCDmThNubUobqvV9ocokZCDtuFxOjgfgdjayhD6fwxzNZg-4cCDN863xhvavVLFrYEgxgI4ZZbxj98YvOYDCiZ0YtV8rRkEXCZXV5kPCOjUibEJ6ATAU9_kW1Zle9z7yvk1WC8SKyzK2CqYdtDDTix-71jDcDE4jFrzDOUx5dAIWVZQy1ILV63YH-4guJS9CoxrD2ZmNQxhEo74XNmaHzP4KjJQlS_5ISxpogWO9S_kT4nZwIL-OtDcC2K-xooFpeH8BZv4cEp2wnayStxLv8NX_1TV3nodx7AdcRXXZe9Q98ASRlhEjYrFJvDM6dZmYX-w6e5O-3sMkd96hpspJFyKH3eMaGhrPyGRr789k5qNQbIn38SA1vxQuW0UjiNQ-1RGY-Ja9bSxEXPvVnizy3D0gtDKMvh84IEuR",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "民權西路"
+      ],
+      "candidate": false
+    },
+    "ChIJm4w-kmSrQjQRh-_UsenczeQ": {
+      "name": "獺獺啡Bar",
+      "address": "106台灣臺北市大安區黎和里和平東路三段346巷4號",
+      "rating": 4.8,
+      "reviews": 16,
+      "status": "OPERATIONAL",
+      "type": "food_store",
+      "is_food": false,
+      "open_now": false,
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "photo_name": "places/ChIJm4w-kmSrQjQRh-_UsenczeQ/photos/AV-0GLfyDxeI3ZboP-vHqq8QvmDj-x7RTaIva5OHYZQWGdGqt0R0UvfJA0xETkgA1Vxekiy5zrVcnPv-8HZElf6_LP9pWu7hSm_xTmdRizcNhdgjGcIeYAh7q1lhqPVO5WZBRymXAAWh6tHlWXbLYxulT9MSHakz4Np7ftveNO6UFgVyKJUPTJGX4il4Kwh_yTRJMpJwAi636DFRRpwc3A6h5Q6ZE1DJLdmt08uaZ73EmVq5nhh4UpMnm2JZ7-W96mq7tVvEDOXgAkeoU677vqU9qQH1vFNoTkCwCKYI224R2g3oxcuKDtPjQ7nBqhPjCL4LsjHfUJDPR04n3qkzY72AB3mOmFA2SLPd4dmE8blBWybXqC5AMUwylaNR663bgolFUV3-pF1iIJFmcjVWr_HnUebazKao0IjaDwduO5JRN9kDZg",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "麟光"
+      ],
+      "candidate": false
+    },
+    "ChIJh_cGnwqvQjQRlTRCzmdpY84": {
+      "name": "水星藝大書店 Suisei TNUA Bookstore",
+      "address": "112台灣臺北市北投區一德里學園路1號水星藝大書店",
+      "rating": 4.6,
+      "reviews": 257,
+      "status": "OPERATIONAL",
+      "type": "book_store",
+      "is_food": true,
+      "open_now": true,
+      "price_level": null,
+      "photo_name": "places/ChIJh_cGnwqvQjQRlTRCzmdpY84/photos/AV-0GLe_g6yOLaWmu6Byvthn4SHaGSgWK8S9-dmQ3ZZFr2TcpTkUQvYSWIcqHc827YQ0PWtsLZzh9Bvd-3tjd9rzTd7OWLPn8pe1HE1hALM4u_iYtnxNu8d1tYgYIGNBCFI-9AKbDl4D1tzKxvEgQlaXRortD8lxHLC9bWIenoJp_NOdElG8FPhL1KCUByAV71yk-87ee8bDb42xEsmPl4lneiVcgnlna_nfi0KAL-lno19KZ2Artae9G8YVlC9QwPixygC-LPGB_0C2UHb1Jk7YJF5t6tpFkasS2RCpCC8133x5BNm_TXx28318qZVqSsTsjn8wTjt0c_bDZX_QXaLICK0YJp5t0gdtc_27nPEh5uVQlZg3Hmj1DdPjbu_dkLjbSzYvucr4SJ8rJz7l2fEFs9oTT4E",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "忠義"
+      ],
+      "candidate": false
+    },
+    "ChIJD9MxksWpQjQR_Tm5L7ngl4c": {
+      "name": "Aposo 艾波索 法式甜點 中正忠孝店",
+      "address": "100台灣臺北市中正區幸福里鎮江街3號",
+      "rating": 4.9,
+      "reviews": 285,
+      "status": "OPERATIONAL",
+      "type": "pastry_shop",
+      "is_food": true,
+      "open_now": true,
+      "price_level": null,
+      "photo_name": "places/ChIJD9MxksWpQjQR_Tm5L7ngl4c/photos/AV-0GLfGpRA6xlISrAuC1S4ZqFb8mMI-OYvjbWuQp178BwcMwgmtV-0cMlc0vJBme28nG-7uId9MvXEF59By-Fu7iI7E5yqvQV1bBSFJyLGDtKGF4LMiXwfrNu_jhLXxw46NelZT16fSGN7Cw0xyFcWxFUPZS-YJIOH_uYv5AMASohcvOrhdnbdPp1zt8vEbj3e4CHCg1pYmUqDIe-116lDACccFldyxNOTWF0q9FTM-186dUocPyaGtEjC3k5Yt7VH4lgretk5bS7ZALmrszFA5PRmT-yTiVX9aDCwslkBgtiTNk3T1XXKjc2MuMT4CtiUfhKR50TontFGlcfyDJwDRTTdGl8ugHaC2P5rzFy0Q5ZpMiYQ__tIHo3XjU-UV0M-p31E3jxeV4rtK9MDInA1RqtBR0w",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "善導寺"
+      ],
+      "candidate": false
+    },
+    "ChIJE63C8fypQjQRocBKJlXHlC8": {
+      "name": "九月茶餐廳",
+      "address": "103台灣臺北市大同區雙連里承德路二段213號",
+      "rating": 4.5,
+      "reviews": 2171,
+      "status": "OPERATIONAL",
+      "type": "chinese_restaurant",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJE63C8fypQjQRocBKJlXHlC8/photos/AV-0GLe_2UVoqVVw3dvfvjhIdLM2OKvKrX3YtPHCvkfKWujhTKFnRCAVur53ofkeFFJG7dY9fYRVWnOoy5z_5E-AXypdW9iNmAxVltQr_2Gx_fFTUa6t-nQmlAYvNlgQVAuBrAnm-ir2tQlB7ntH2Qc-PI717uwKLUEFzgblebloUPlHVEVmttyIQNEcoPGNK58fiY-hx6eHotE6z4C47Il-DxEh7JRDfgpirrFd-OPsgjwBQqkPMNLXvk33CvqeCsPQKPIqbZjQxCR83ui8duMAnRRPr91aJRPJ4G4uHH9kb4x-a742G-HtRg96FmpwjnR74kYUqpB4T7OPfV8vn0GYDbm4e5cbE9B-Kc_EUPU_Bv23YggIZ5Xz8P64RxEks9aD-VFznsE6fC4Ze4czFdT5BtOypyMK",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "民權西路"
+      ],
+      "candidate": false
+    },
+    "ChIJQUWHMT6pQjQRiTQj44NYqkI": {
+      "name": "doto pizza & beverage",
+      "address": "220051台灣新北市板橋區北門街11號3樓",
+      "rating": 4.9,
+      "reviews": 33,
+      "status": "OPERATIONAL",
+      "type": "pizza_restaurant",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJQUWHMT6pQjQRiTQj44NYqkI/photos/AV-0GLcnwj7BGttpIUplf3cVC-OUdL6lXgg9CN5dIl7u68eN-WrjhkwXghx4f0vevUFhG6WiMEuIUX8xMMY0Vd42TeiIpzSlLBpfI9sa56Sh7DRbqVWm1CTd-lFMGCGFq_UucNwsbSs0M4OtaMyidpDgxHFwUwuOlvMN-SabZ8aGri4s4PFbE9Im6MQhlOL0tev74B4YDbOh5EZhjy6SQCVPXjQsBzIGFOhBXIfR8AgI3uwiGTAPnDFP0ZOip3U-h3C7hSJ5qfDVy4_X_8OIOc8EZghEwjjS9uSZnGcmCAJh0drFo6HKo8G0YHYFg_-Zqq0Kzxpx3dL4S5j_8GGDknrSVLJ9RE7Fhv5Be4d-vYBNrVd_qJgSbftX850RYd0zH6PEeQKBcHMfMd2E31RPpcOt670s4MZ45SvqQPOK4e1lEtyr7Q",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "亞東醫院",
+        "府中",
+        "板橋"
+      ],
+      "candidate": false
+    },
+    "ChIJexLEa8YfaDQRFVC7xEnSjro": {
+      "name": "紅牌時尚鐵板燒",
+      "address": "330台灣桃園市桃園區文中里力行路658號",
+      "rating": 4.9,
+      "reviews": 9233,
+      "status": "OPERATIONAL",
+      "type": "japanese_restaurant",
+      "is_food": true,
+      "open_now": false,
+      "price_level": null,
+      "photo_name": "places/ChIJexLEa8YfaDQRFVC7xEnSjro/photos/AV-0GLdDoHd1gu7NMY98N4PaV7DvXBR-DjL2_mlbDsivueXBpgsx0L8tmYKxiGkiRNqSIFEt2XjtPK7dgQBDZ2x1_zBGMsCDYNy5js9KqVBOV9WmyMbIrKkj694aIqQ8fwsfCsSDw82KIHV19yT5HSuVnf4pzUXRhBq2nsQOjXbe7vgR1OXYMN8fuHnLnUa1c8gdpUwce3a-VUDfb1gS3XuwHrjpDPLpaDK8sULwuJM0hWxDSR2XNqqoJV2ywHzGIgMCDQIM6W6RztDT6VvmRR3_1JwCGpAE0UUkiYvgPDXG_pt_yy78ph3wpIe-jcLdqvrrkXpsvrPzMaBvtyHucRSjyUaARV8pWC6kBHPWQIYs9nz-eWKKuqvMXQyGH0mKWPY8omnv2gK_v9FYdeag-jmNOLlhCChhIkmWz6rvzzy-sWieNw",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "體育大學"
+      ],
+      "candidate": false
+    },
+    "ChIJ_8UrDBWvQjQR0t28utBr3GU": {
+      "name": "PUFFIN BAKERY 帕芬鳥",
+      "address": "112台灣臺北市北投區實踐街82巷3號1樓",
+      "rating": 4.4,
+      "reviews": 59,
+      "status": "OPERATIONAL",
+      "type": "brunch_restaurant",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJ_8UrDBWvQjQR0t28utBr3GU/photos/AV-0GLcsve3Qca0RGuXmr3VI7fYLMjY8jLNZM4Gz0QS7_JBfa6rNhkMU0Ps91NLNpt6tkWxlPBiPWEMHr-hjqBZagYEPkNfBcZk5tNGu6x8soKFGzxMcdAI7rjn8WfaLJklQW4QxGuzQGwZRleeNA0RntNZphuUBwQuXWDWdTJk6Ywy94t5DLD_uVCz8NCL7BEU0eYdnYUv2i0lzBZDpajMtC7tfsmydx89YhYB-i3rZ4fit_cA1NWKP9LQ6VR32GxmOQtVaNoiPf2JwOabkMoAZ7hAq132aVNpiMKA2T9Cit2Q88ZiSX_m5mnrDv-mHhOdCN8or5shXIs7DHSDhXpUgfIYCy63not4lJN7-HEslKGCJhwJMSdGLJQASkZOiH5Yv277k-7buQjs98cMNjO0zR2qKge3hJ4LyyG1CusC5TSK4Qg",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "奇岩"
+      ],
+      "candidate": false
+    },
+    "ChIJD8DyoxcfaDQRaVG_QrKvYuM": {
+      "name": "lindajia甜點工作室(預約方式以IG公告為主)",
+      "address": "330台灣桃園市桃園區同安里同安街183巷1弄8號1樓",
+      "rating": 4.7,
+      "reviews": 108,
+      "status": "OPERATIONAL",
+      "type": "cafe",
+      "is_food": true,
+      "open_now": null,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJD8DyoxcfaDQRaVG_QrKvYuM/photos/AV-0GLex-LZMSrYX_mzbg8DJH0TKDJtDTd8cw3SmtC9CL2-_vYJbkabPLpMUraO5mWU1HF_ZVjkEBJdso3q3AXKFMw1cfRGHkR6YErdi9fN6t7AexjEyzNE0YC9zHYAYCsyMTfoPc8OGbg-L5CkfIGOhHgDPmwzHDFdyW_KRDq7FRw1cst92tg9vK4WpnFZ2iae102qIZdFB8d-NlT4WiewF8-GQOFghiwjHt5IWY_SE4AubVFQQDpM-czcEvxPPzQs-XnFTF7xQ9LMMzmoay5zIkDPEAJshNcC1GvTPNuIAHBUM1y0jMGE1ziX5IiNFHgK5sASahs4uLoL6dJTtHPr5roFqgnQR6PG473Z9lca8KYt00xsE4MfyaV8ze6f89B_5gTwIbVyVtOqBeGqEQIIW_y2UQyc",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "體育大學"
+      ],
+      "candidate": false
+    },
+    "ChIJXUnJJuurQjQRVR92IIq1AZk": {
+      "name": "李李豆行 咖啡 湯飯定食",
+      "address": "105台灣臺北市松山區東光里南京東路五段47號",
+      "rating": 4.7,
+      "reviews": 83,
+      "status": "OPERATIONAL",
+      "type": "cafe",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "photo_name": "places/ChIJXUnJJuurQjQRVR92IIq1AZk/photos/AV-0GLeGE2R3ZrfXSypnKnX5iVUsP5gJeoDVPQBlXHwcwB_mSynZ90ygulP47u8nQhu8x6wMMgoXxpJrxhrRTUJJY_ROy12o0bIoIGdW_NIawGomKHr0CcGxUhFwUOHdKm3eU8EfoRBrLJRQ8XR168Pt6sr_i_C0QAuuYOuL0Xx5_DxeTqI9cXYbrHpAOQVQvMIC7c9vEIg1QzWd4T3euki46u_lfcx9osnoSW84fxfKGKsq6nIezIU2s-nADlxQz4Ka9AqZOW3jE7oYX-DECKTGoDeUQFNHcsmPfdYPD0-Y-nGzA0brX9fgCMmlhcZgwaNOaw34v8p_98Lq10gu8amge05Um6TxRzyv93uvXcwvyAG1acsVXMnsa2SLX5ZjYTxrE3vNswzk7ythxjpPJVoqUxwkyPg",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "南京三民"
+      ],
+      "candidate": false
+    },
+    "ChIJq27nDhQfaDQR7-HTEw-qm1s": {
+      "name": "成真咖啡 桃園藝文町",
+      "address": "330台灣桃園市桃園區武陵里中正路77巷20號",
+      "rating": 4.6,
+      "reviews": 3119,
+      "status": "OPERATIONAL",
+      "type": "cafe",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJq27nDhQfaDQR7-HTEw-qm1s/photos/AV-0GLcnDDez4zRMAZVV4EGYHIfqP9zyVwXw6PWOwpHdSRmfWAv9xdYy7IaePKMEGnk4M5OQc0yBN6VDL1-U33fe_6m26ZgsVBw9BnGXIOKX3XcxRwMX6wWOB4MHMqHB_zujHPSIGo4LvUgPSOwJLOU_Fe4anOK4W-HSECzYZS6CQJhFsx6btpHDD7iSfCzfBnOA9HPUlYWjGruT9t8fVVDfs0i4P-lJQtfx_zTpqyIzvxjxJwJVZDA4U4BNxUdrTx9GSFNeplk5N3BkW09d-UhMd4ImmCnBmTTrR3IzpVe2ZImTELvuzpoLRC2UHvr8G6NpROD0AFGBnBQiG5sLKWOFjiMrSIe_hn46U49-vlyVq4AXK7cWDjyM0leDzYypBHHSrrC6yym63fHUnHpTrefRCC5qiv7Rt04",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "體育大學"
+      ],
+      "candidate": false
+    },
+    "ChIJw8GezL6pQjQRTwKHTescAsI": {
+      "name": "Drop a Beat 落點咖啡",
+      "address": "100台灣臺北市中正區南門里中華路二段75巷40號",
+      "rating": 4.8,
+      "reviews": 80,
+      "status": "OPERATIONAL",
+      "type": "cafe",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJw8GezL6pQjQRTwKHTescAsI/photos/AV-0GLd7quFLVWg0QnOUegnamlrpV7rMiTpLT-P-M-vO3zbaDKIwAkrzbR9G-HJwlBvpbqRg7zdZT2gTBI6uJWLVPK6W93ttWywocB-0FfNnguhQjOiVmybV0Nwc07qL2N6LLIHnXXUMCWvyLWGxuP7zltERvumTXOVXx8a-vbKaLS7Ci06tN9o5qxenYb6UrXv0NAcYfYdkSWFdmAkNQfR572A2Z5ZjbjUxvOK6q2-lxHuRNBwzQQWA_0udN7yaZJN8HX_xalUbd9H2E6b95R_cKciYaqHOwE77phddOF26cWK0gX9ArKI6FOpIQigB3XhxsAzEiHacovzGyGUyjv2-azPyvy7_PeALG0DRmQaWclSGe_yvurCUgw2Q84DxevyvBGctREedCPwJrxaD5vmIyFfW9_Ky6llEMP3zDPx6Y1Bq1g",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "中正紀念堂",
+        "古亭",
+        "台北車站",
+        "台大醫院",
+        "台電大樓",
+        "善導寺",
+        "小南門",
+        "東門"
+      ],
+      "candidate": false
+    },
+    "ChIJ_eI6MrWrQjQROhYGh3vf5S4": {
+      "name": "mois cafe",
+      "address": "106台灣臺北市大安區光武里大安路一段31巷27號1樓A室",
+      "rating": 4,
+      "reviews": 329,
+      "status": "OPERATIONAL",
+      "type": "restaurant",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJ_eI6MrWrQjQROhYGh3vf5S4/photos/AV-0GLc23SzeemU0X0U7ng9y5mbR7V2PW3AU7FqfkBSmSghfGK-BgRA5kN5WCqwKKAMcQFIC_0mzDGkNblKHmNr5eWdj1W06bvk1Xo2xYhRViNAe02iWswbLmnq992o-7tfeW8SDbZw6AXYjPk2v_lqbzImMPDo0dq_vx9srEUu-4IIQVvVWPKEJ74Ef-vlnwP5OlxmXByTcbqSEV7gQ2s0gI6Ei3gr_uwrX5VEuhTrjHn7uFGxPLXQAPAz8wStpbgECYp9la4Nwwue7AYL673eKBsUr0UINUbc_3jVNAhgUEosqRDqCd2kGVB9KCaf9f7lSnaOb2ok6aUgbJ4ATkQXhlZnABQrLN0X7jsE5n96SFAo9vo-r8bUqT4UxTFhUw3sMU3T5ZhpFspvGJbZRESDDtwceTw",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "忠孝復興",
+        "忠孝敦化"
+      ],
+      "candidate": false
+    },
+    "ChIJvVm4DACrQjQRTuEgbHWr5Ec": {
+      "name": "神乃珈琲 遠東GARDEN CITY大巨蛋店",
+      "address": "110055台灣臺北市信義區忠孝東路四段505號遠東Garden City大巨蛋店3樓",
+      "rating": 3.2,
+      "reviews": 102,
+      "status": "OPERATIONAL",
+      "type": "food_store",
+      "is_food": false,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJvVm4DACrQjQRTuEgbHWr5Ec/photos/AV-0GLefSc1_HAKV-jgvANhAwHSMCRl_BAMBwYc_ojWbuQwGIqwlyVkm8kTmGpVuIktovWu0qQCxUy8R07OJVnEar3xP9FtAYj8F0KJwTpTVZXlekN3Pt_x2iFPKA9I92NzGKsnyu-RdX1Cpnofa1r-ivQtAlvnjHRaQ1595W-nLR3DN9XDBPJob0H3FGnJb1QPpK4COhEgVWGlk9KSGJgySrdfobDZ2STP-Tkax0ZEhdUP_ZPxO5Bk1xgEVXxQGEC_GIK_WXJBsAP8SNMuqOmGPq0wjq59u6_zLELHfsKqGXfqX8WDCJt9pcS-M-OkDSnel3TaQyWCgleqEp_A334MTVNLNGZ0_SLZ29SWSdzf83jH9F0iZEYRQW7kaaGDP8pPHIBEcBfSqI1m2Ty85AJOgHVj1F-b0Lya6iIF7RjZNQbVh",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "國父紀念館"
+      ],
+      "candidate": false
+    },
+    "ChIJlSydsl4jaDQR3wcip86ncf4": {
+      "name": "隱覓鉄板燒",
+      "address": "320台灣桃園市中壢區興南里慈惠一街117號",
+      "rating": 4.7,
+      "reviews": 1127,
+      "status": "OPERATIONAL",
+      "type": "japanese_restaurant",
+      "is_food": true,
+      "open_now": false,
+      "price_level": "PRICE_LEVEL_EXPENSIVE",
+      "photo_name": "places/ChIJlSydsl4jaDQR3wcip86ncf4/photos/AV-0GLeEhT6aFSyxiWUbAdLKkdo-k7eI0Y4nb408RugvrIzuzCCZLjpGRLVKNrxhSdo1aaItGXslit-zZo5YVYM5SmLj8C7Z1-6Z3I94RHyqWtQGouSY8NH-yASTMRWS74vLIz7EDbM-pTHtjI1SIgUB1FcVcCPl77olOzsjclUR_BBVcbMd_9jXJIfoDjXwk1LMFlzBRhEvJCW3QpW8N6ic3cXcpJRQY56-pzmjUp63YnoDyFXckvsdGHO-QAkE8rsHjWSWo4Ip5Wsdg_vM7UzWYf_9xnagehQxeiAOFG600UjZqfTGvMxm-6R0ts1E9O34SU28HRmMt5_L7LhwauKS6a3JUaVmkUi0YSKiHkbLkWLzusAnn5bzT83bXIObbf5bcErbb3StjN0Y78yZ-TJKFuOKlFRJJVc",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "體育大學"
+      ],
+      "candidate": false
+    },
+    "ChIJR62OKX-pQjQRBKG-LMPgzN4": {
+      "name": "饎果",
+      "address": "247台灣新北市蘆洲區民和里民生街51-1號",
+      "rating": 5,
+      "reviews": 201,
+      "status": "OPERATIONAL",
+      "type": "taiwanese_restaurant",
+      "is_food": true,
+      "open_now": false,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJR62OKX-pQjQRBKG-LMPgzN4/photos/AV-0GLelZfLOqKf7h1PvER_bl1LGQ6iRE89Gpyg3D0beXttAMK9rxYQyWcLeBV0JWJjjNGc5vw1-GKVwmDkCClw8rqe5Pf7oHzxjDSsmVpg7eZFAVYCTenEv3f4msFHepli1FVpEWk4EuLgTWXOWkprvM-_6e0VvF0f9UtBhZxjcSLQzAUNUkUpGvr86C8Htc_G5vyfqrhkOrJimE0jBOci_5I4xK1eznzCoKX0YuI8lF9wxfceU8gIsfvO0WHdRvlSBxV_Fq2Ukp-vvWLCR7TSO5c97Mwl3zGnOBhk5GSz4OpaIo0bG9WEWhODr8wi4etX7PupfMxVqB40Nlf7hir7J987QSFlxdAMUkKDYnjUlYRDF_ih5AwW1ZvqCPPxDYx1oI3mgGRH9XRicd2T747WYAuMT5diwFxI",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "三和國中",
+        "徐匯中學"
+      ],
+      "candidate": false
+    },
+    "ChIJ-2g_PC2pQjQRqdszB6RLI2s": {
+      "name": "Oh mi! Cafe.歐米咖啡",
+      "address": "103台灣臺北市大同區朝陽里延平北路二段97號",
+      "rating": 4.7,
+      "reviews": 592,
+      "status": "OPERATIONAL",
+      "type": "coffee_shop",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "photo_name": "places/ChIJ-2g_PC2pQjQRqdszB6RLI2s/photos/AV-0GLeeM55gdumhxHDukL0pvQsoeSTzXk0sY38WuGg4DkA1v8uM5zL2ciAhZvqogRTen4iFqH4Yz_zE7a-L5JRe_nFnCwGTxpexbbC6TpXJoBDA2FIWFw7-y2F9AQhIUFa5pd8cqr2RTRjM5OQQjzZPqG5dqnTspKCBKi5pnxsedP9AKmn9_SEkYYIPwu6HFG1ABaji5GnKeUJ5_fwNUa6yvmGSoJaHiek-yuktNjgeD9iIiE0BjWIijHGoiJmOMuILJgJ5aknSLoLMlPPZVzNbLTqWNu_Fb55NYWCokWypD4k6LC72B3P7a4IHIhku5L2u4lO9xORSk4n2UwrpXRkhXA77p64ABBpuMC3chP6UapQ6ItBW9CyjobKHpdCwiv-51onAU5ODx9rG_dk-sfS24YBAWw-vTifgYJXa4YjHWJj7Ww",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "大橋頭"
+      ],
+      "candidate": false
+    },
+    "ChIJ94slFgCnQjQRTWExFDilA4c": {
+      "name": "佳佳涼麵",
+      "address": "333台灣桃園市龜山區文化里華亞三路211號",
+      "rating": 4.5,
+      "reviews": 83,
+      "status": "OPERATIONAL",
+      "type": "chinese_restaurant",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "photo_name": "places/ChIJ94slFgCnQjQRTWExFDilA4c/photos/AV-0GLcrrQRwpYcZc9dp-n1-QUlDQBCBX57OsHe9garE7Fu4cGTGViAr8Gtz130S_Ion8ZvRKcGU73DFwE8yoSZEYK1oZTwPSSz_9AQcFf_Cie3GWDF0AH50xXXhdvOcYAmtfmeIRuRQFam3rOtRXi389EghdiZjqJMb_er3hgkrElFcrI-4wf-ggIBoXII7ti1-XBCzR80iD-XAaTYaeQXfmNtS2N-T_NE_k4o7JdG0jzPkpFjFtA9orRl_ZXhm2yJM9gzoT_AsaeH1-yEnmnRVI2CV52GB35Qna3sVq0srNa21CJSwHzAbU0zKXUVW1AfSqiRE8AlfFX0RZUmSVVoZGSYpFWhsW99GNEc77WjhOfi5o852WS0IvZNZe2ffJoFjkx5KhUlSsgSDufGXa5gT-dCZistClZV1jP4sALXUNigaDw",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "體育大學"
+      ],
+      "candidate": false
+    },
+    "ChIJ3VFpylqrQjQREI5anFRCx-E": {
+      "name": "飲飽食醉",
+      "address": "115台灣臺北市南港區中研里研究院路二段25號",
+      "rating": 4.6,
+      "reviews": 936,
+      "status": "OPERATIONAL",
+      "type": "restaurant",
+      "is_food": true,
+      "open_now": false,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJ3VFpylqrQjQREI5anFRCx-E/photos/AV-0GLdZUgfN6ma-P4AaXMRiz529ScHRTs7lOOaFkiVeLzkbHSmGzm-xBKtc2iue7MF-E3PIb11lKz6Omp3fkAf4QcougnKSGZSyxwA45UMUkGbU8Omf7JSjvVZOuenhI8BKQWyBodWVosb8eRr54FjMKjNRqtwdcAxRDwPA6xYtEFQ_W8KiQPMFcsy4nUL0swGst_BSDRMmMHA_sOdfuULTzpJiRmYJhTxhtRSIcsPuj9FpEjPx_bjx8O8zeJWKhxISpenAi-PdXldZpZ_PydjowoaxOf9wkFUTINoP1S9PWfFIJEqUGOA1aLVcO0kkJj1AMFAyQkUMj3ATKfrFSXWHAEVU4huW6Gf8uro5DEHYVJdzbxIrleJ_wS-siYZqYvIfOq2Q0lO71j8I_mpHpe3BCu-ASIw",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "南港",
+        "南港展覽館",
+        "南港軟體園區"
+      ],
+      "candidate": false
+    },
+    "ChIJuW_XC0itQjQRv3e9Uko16Fw": {
+      "name": "小棲茶室 The nook",
+      "address": "114台灣臺北市內湖區文德路210巷30弄46號一樓",
+      "rating": 4.5,
+      "reviews": 4,
+      "status": "OPERATIONAL",
+      "type": "cafe",
+      "is_food": true,
+      "open_now": false,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJuW_XC0itQjQRv3e9Uko16Fw/photos/AV-0GLduGW4p_Srx9gjkmHWdvTAGOijJ17JLDSjbkMzhBJbgbNFn88B1_55JU3Za9oY4Ge5xEWTyGfScBVdyO41YMhO57rb_QjExuRS6JmaZjzPVffS6geHiG7b9x2UoSeTO0KEyOGgQ9g89mOBAcQCn7TWlEEDNkE7jBT_3sfpiXSJGb5cUUgAUZr_XdNlnDwq_CFVHPsd5_5O-LsGKhWVI08W6s912mjuBjtBIB00DbzSeKG7c_nah43l_iYZyuQ7RbQIrf9LfIoXEulHqUqtVrrFkI1f7tpVsMlpV2N7G9nYc-R_jpuw5oWB_C7Fo_ld4dGvNB0FPsPhasG0R72WHZTSvzw72y2oyrC5YbFU1daQ6vWoXvlOccJqJGCjjFXj19v4EG9ZE8VSDxXIxnuZtipok0kuEKXoyA-xRSsIQ0nNbTg",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "內湖",
+        "文德",
+        "港墘"
+      ],
+      "candidate": false
+    },
+    "ChIJLYcbnLKpQjQRkAV8dosllpA": {
+      "name": "弄宅咖啡 Alleyhouse Coffee（貓中途計畫已於五年前結束，目前店內無貓）",
+      "address": "104台灣臺北市中山區中吉里松江路150巷18-1號",
+      "rating": 4.9,
+      "reviews": 668,
+      "status": "OPERATIONAL",
+      "type": "coffee_shop",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJLYcbnLKpQjQRkAV8dosllpA/photos/AV-0GLfgd3fm6_aLxX0h_S6nCAIohXCVCm7vkL1h9_US3_9yBNsre-Fn07qfdq2XvS8KIwzKbZ88Rsy2Ijhh_U-SSSYojCDT38NJjtse5L9aEr7Bl8yy1o2UfVhFLCfHlw38Ackq8L8bRrk9tIZ73GA5fw5iQABNV1TLDQn03oteMXlwb43ThrMAI9Q87vj4pS1w_sFivG79YEkqrc6s4uwBTwI0lk9DOhXAPPeXvz3ZoK_VaWGJtWTa7qaMyBvkprnqXEE-_fXsgC5FTM2ODU0ch6F8NvYbCMj0lev6UtwiJ4lUV4xhDHZXEZZarM9FvjdKMTFI2RzA0RqIYHl4zai4kCJCKAdfgP2AmEbQcIGb0-rWHRXlWsV_iJw6Y4Sn5n_AzeJlOx3Hr2v_PQHxA4sT5OhGgv8",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "中山國小",
+        "劍南路",
+        "劍潭",
+        "松江南京",
+        "雙連"
+      ],
+      "candidate": false
+    },
+    "ChIJlyXhyG6lQjQRry52FJiR9a0": {
+      "name": "匞咖啡 Jiangspace｜淡水金工體驗・精品虹吸咖啡・淡水海邊咖啡酒吧",
+      "address": "251台灣新北市淡水区沙仑里观海路26號碼頭輕軌站旁）（紅R26公車輕軌淡水漁人碼頭站",
+      "rating": 4.8,
+      "reviews": 227,
+      "status": "OPERATIONAL",
+      "type": "food_store",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJlyXhyG6lQjQRry52FJiR9a0/photos/AV-0GLfqLYXbkgIwYplrtkUT6Z0JI5Lss6-APsEVCO5ZscBFAjJ53bH-A0yj52ZqpaLNjcVn-JEzGxcszGMSGQUXl-UVXkk4MqPdL_ttgYOdBHjZnq1Zk16PXiqyj8No9FJmmEaVIK9zhTKV303gxbSFlX3fg6J4BbitfcZv4m7BemSycq-UsUUigdV85wRSXogXRSj9lCsFwHyFBCDLcdqetnYN2vAra_piSoXn_rtUWSQluY3SEuwvGR73KaQFt4sNMrdfI9XE623MNTFHBMCcDfBmz0R2aUW-ZTr96zaJY6MrFRAasRlHk_gTChRdBB2rhjlQSye5oFPWGvvaiZdciKTAvMSTXF8xLlXtSOLJC_PhB3Mfhrzeu-BM4cjzE0s4350wvPmIIRwRnfkyfrPChvn9WgQgkXo",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "竹圍"
+      ],
+      "candidate": false
+    },
+    "ChIJ1ZzGCqupQjQR5Cvy7I1sueo": {
+      "name": "草咖啡 KUSA CAFE",
+      "address": "100台灣臺北市中正區博愛路52號1F",
+      "rating": 4.6,
+      "reviews": 35,
+      "status": "OPERATIONAL",
+      "type": "coffee_shop",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJ1ZzGCqupQjQR5Cvy7I1sueo/photos/AV-0GLdkJqri5KVx7DEpg4g03AQDbS7Oy44YEPIKSg9Ms-evwvoorNFt0WixJki3pBdgBSrybAKK9oRCnsPc7wuFfoZ36a8k_ehxhDm3AF6Y_l1Qunf4U-BY5hmM1btmHqUmFtPUbOyCVMhk-UASIz8uvFV0dv3YtCx6VWMFd7zwlUbRUhTUe3FRRRiw17JTzu9wiUpNM-HRB53YFWywlNWSHgMlHmNDKtdoSIT8qRmdkJJVasd2xiHJ5WkgEDMSVPG8TM36Z6VJJfR9Qr2jGuHLp24i9ruWrNWNvCi1zDSTgS3izSrKZRCP_WfWxPxxCUxL4GPagZX_znHTPPLrWM8FAA2mJBfsc0HODyputKWzjwfuZY5ynTxTNEz3JD6lr_3i4HGgPo-aagwRycRrhmBPGBvPiDH1k9w4RVHjL6j59jmw",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "北門"
+      ],
+      "candidate": false
+    },
+    "ChIJy6VJLwCrQjQR0Ho7Pk_vkS8": {
+      "name": "OH MY ZOO 動物餐廳 狐獴 貓咪",
+      "address": "106台灣臺北市大安區建安里敦化南路一段187巷62號",
+      "rating": 4.4,
+      "reviews": 830,
+      "status": "OPERATIONAL",
+      "type": null,
+      "is_food": true,
+      "open_now": true,
+      "price_level": null,
+      "photo_name": "places/ChIJy6VJLwCrQjQR0Ho7Pk_vkS8/photos/AV-0GLcGmTj8kPzouHzx79ipMq6MjYe3991RneH-MlXkv0eK-wvDYTNjAluL_coKApsahFYM7lOLZPdfX8ZoCXsSo98mQ71c8qA_KECXknqQKElLYA0Tit0wx1d6ncESJdYa6xDpznB3gYdSlAkTrzEpBDAZY1uOEAkTokt8KGDPdvPgM43vcj6sayWkHq-Ntvl3a938fYs4BkR7H8SQrJwGwrijOu6kUaCT35ElMX46tstMzM_ltparPZxTs5K3ihbfwGvtgNuRLvswbD41Y5Ebs98t5J54U4Cedo26Euz3UZ3NQX55A4A6Ncobee6fXYQ2twGb0aIw9xIkz08H4WOQ_JJyjVMwseVjOi66T5VsCjDTEb2I3Oc2l-8-q_MDTUUdMKNqKHhnrP0_n3uTeajxq2cItJmJ0BUfINs4nMfXnW9uKQ",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "忠孝敦化"
+      ],
+      "candidate": false
+    },
+    "ChIJkyU1hL-nQjQRBuiHKbbKlR4": {
+      "name": "NU PASTA 新莊輔大店",
+      "address": "242台灣新北市新莊區後港里後港一路106號",
+      "rating": 4.3,
+      "reviews": 113,
+      "status": "OPERATIONAL",
+      "type": "italian_restaurant",
+      "is_food": true,
+      "open_now": false,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJkyU1hL-nQjQRBuiHKbbKlR4/photos/AV-0GLeMiL_GrwaDtoj3iXJvGbydto3bUO1yRMacF5Qrkp1T_3PshYRIo4qHcAambdblaevItuDgdQD02mDzwTXWamP9Mlqkr3YbZn2wW_dHpffJvh7W6YOwwG3Gj8Bso-QJeRfYpxxUIyQOQqVCu-Nfk6lidT2SWBR69vZtaI-FWXrwgtLq1YfmPeVzmIp7c0tRADNxMF03gTt5ywwhth8OHb4copLXpulDiqbXRLyMmJkcuVTJj65gsyeT8v258AvTnBjWpcuNIHv9lNaYDgPgrOaz02Ns4NkKnv-S6S-nHAeNp-FdAxj1R0snqPmVZFhQOSQrulCaMEykQsVCtMLzjUue8L3BZ74OeFXnAnJklh_olbxI-M6JtWvc5bSj3X9-KVudEFd6f1thFyP01yulmNBgXGsY8RvnQ7NhWxFidLCZQQ",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "泰山貴和",
+        "迴龍"
+      ],
+      "candidate": false
+    },
+    "ChIJO8cJ2WmtQjQRk91f3AX1klY": {
+      "name": "阿緹卡義大利pizza專賣店Antica",
+      "address": "11193台灣臺北市士林區陽明里凱旋路58號",
+      "rating": 4.7,
+      "reviews": 1900,
+      "status": "OPERATIONAL",
+      "type": "italian_restaurant",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJO8cJ2WmtQjQRk91f3AX1klY/photos/AV-0GLdcC8msiN1HtH2VGkUtkIaETvgEcY03kvIsNJ-1EdvpxxVK_ZiD3KKt085nXIlJHCra4ExpRrZRz47uRa4mljWyjQmgL_nTXsLrh8UFZthrGxIDeTA-YUignOJ7boFsE-bDQq8rjrikLK0F0teq1TTOe1R8PgbTKM7PhkPTiCGJKjdM6jnDsrep3kJj7QnWZsp5D-gj9lBrTAYOPjU7dkCJKenSJUkW9_xZYg1buQpYcjsYZjg18N4R0Hy3VD4nkmtKEFHx14can7qdgNEA4EhEntG-hBTxWl5tphMv6By0h0nDvCGrdIWvk9-OegulQD-JXJfGeVCAr8bPn2GKr8diIofQ-C7vXm2ReWePVIAjCwpvWn_LD-4A8KOQLfmNN0ZdSKproXIURVbyvWD2dy04Au8AZcE",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "唭哩岸",
+        "奇岩",
+        "石牌"
+      ],
+      "candidate": false
+    },
+    "ChIJse7wZhunQjQR9AUN2SxrpDg": {
+      "name": "鹽形烤打燒烤店",
+      "address": "333台灣桃園市龜山區文青里文學路212號",
+      "rating": 4.7,
+      "reviews": 216,
+      "status": "OPERATIONAL",
+      "type": "barbecue_restaurant",
+      "is_food": true,
+      "open_now": false,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJse7wZhunQjQR9AUN2SxrpDg/photos/AV-0GLd64uMtHEkwn8CpsRIYETmDX8mOF9Py79RUdNB7vHHadAqCObJyjozDReGapjU1SuU5SgPSJBMoPovT89PoVF-K2fnS6o0k62j0zro-bH0FMzK9LJP526o_X5Sa31FlsYUMNgrOjxu3TVDFJSoCizxJGII-RS-3x9NvDD5XNDY042n9qukN_O3TA5fop_IWoTmWVQdWY_2xJWVATzoNohHcYawNW6tjAGraeMkfUh67gpUSlGcqDca1i188kWLPK6N8C9n7Rj-vSgZxua8iob-X6oWU_vmGw3bGiG-s5IqnuYMiMWNUdJDvmGOnc0qaEz761p7iOkc3n09mXWvENccLrBSGaNSDOKE1k-eY-aILffZlrhCx49mlA7oWLuOiWfUlkQcte79YpdTYmDLNMv6PzKkrWdyhQhoDMR-isisiUQ",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "體育大學"
+      ],
+      "candidate": false
+    },
+    "ChIJWcIXhSKpQjQRQbnty_xwoaM": {
+      "name": "眼鏡豬車輪餅",
+      "address": "220台灣新北市板橋區新埔里文化路一段437-3號",
+      "rating": 4.4,
+      "reviews": 87,
+      "status": "OPERATIONAL",
+      "type": "dessert_shop",
+      "is_food": true,
+      "open_now": true,
+      "price_level": null,
+      "photo_name": "places/ChIJWcIXhSKpQjQRQbnty_xwoaM/photos/AV-0GLeDV8RiBonzUErDpS7kqkaUwT4oZripGSgEf1Q42fU82j8Mj8F6Da0MEjWYTZxy0O4qN0i4q5bIZ9Y-R17k62Xnbj8y4aiipNWUhSDM5eTh0n2FCuIXhGixGpN3TEWKF4nZ7XvsVoQKOBfIDp0j8zHGAh5F_u0XWjyrtl0_olx3WgOMmoxXz1yGiIBY57StUtXK4MvDf7yIjIsgPRG1RYYnOYFE7xQHaeOcDzu2DrjIv8TMMKheVnwpqBQGBYCfA5OurlRGNa7kapFy2XlS34kjX9adAazvnrkes3u_ah4JiTvzXN657jiKQPSFwj30622HPQsYwUDXbEq5jETpj8pq6M8rCluM3sasJRARVMUPVnuTBq14Y7FjT27Ixzwegf1uBrwh5O-xILuoMXe4rPBAb2I",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "新埔"
+      ],
+      "candidate": false
+    },
+    "ChIJ-8rTkK2rQjQRmqA7rxaCbOc": {
+      "name": "UNIWAWA 台北門市 / 客製化蛋糕 / 造型蛋糕 / 蛋糕捲",
+      "address": "110台灣臺北市信義區長春里虎林街120巷131號1樓",
+      "rating": 5,
+      "reviews": 701,
+      "status": "OPERATIONAL",
+      "type": "cake_shop",
+      "is_food": true,
+      "open_now": false,
+      "price_level": "PRICE_LEVEL_VERY_EXPENSIVE",
+      "photo_name": "places/ChIJ-8rTkK2rQjQRmqA7rxaCbOc/photos/AV-0GLc0bMg1HqqzRCaZKlS1Xpo-DCnlieB9MCUdulNzy3MB91n9cuABIdj6zppds68zA5R-juimr7hKE3cmkb4vjCchpj0NuyijhYqDz-i2iGuW_XHx6rt5c63pDQIYUhfRmE3y5fA1yQ9L3eeDzt6cnDa3GenEARiQgRq-eT7Ot4-ssADaOYustvuOupcb_zx3SAC7PGTkhzjPntNszM5pilK2NNBUiQMjxJftRFy4JTNtOi9QmIzQrFz1UHPwzD7SOyhkL4GUxbujsgNPo9A_Sj6boK5vpMqotyoHNVrtJL--esg2ZNyDTcKLsXoFxjnJ2hIc6SUu3nSwL_grggVvRNK2VWm6uwGOmF9XxVq9gUk2n0ZG7vie4hfsGkJeZ9LgJhRTEZtk6S54B47WGdwPlDi_HpMSExjiJiroydMjbBlN",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "永春"
+      ],
+      "candidate": false
+    },
+    "ChIJb--NICSrQjQRd5h84vBmW8A": {
+      "name": "Decade Bistro",
+      "address": "10549台灣臺北市松山區敦化北路155巷117號",
+      "rating": 5,
+      "reviews": 16,
+      "status": "OPERATIONAL",
+      "type": "restaurant",
+      "is_food": true,
+      "open_now": false,
+      "price_level": "PRICE_LEVEL_EXPENSIVE",
+      "photo_name": "places/ChIJb--NICSrQjQRd5h84vBmW8A/photos/AV-0GLeTAxQXytyDw4FGU8JZ5ETm2987LfZlt9a3-4Cg1fZdshJ_LdQvwhup8hi0QjHgfXGCw4evgtXUk2RSCf20FGoiZEV-hPmbpTNimk2eNn96bGWFiyKw-RJvJSSSgFgPevchI-6BT2wieFKwdVsL-QisWfFIzCQLLEYmsQYi04kWa9wy8SoA_nrtdizRh7hlG-9j_PIrjsjy2ZjP1kG5Q_svipjn2SPoV3yMkB0xsb0dfSZTB7342BYFifqwuN8gNrefP-O7N0ytKhftY3Oh5KVupFzEDm-AYShyBoPDW-RvP2lKt6LfcVtjze0vi92IVe1eMj8nRyp3fF5JR1d_2tzYl6VEyceQHm9phR6g1BwCctbbOukvUOsAtE3OGohv9xR17W57xNIAt4r3I7kiduCyJfg2iqpLaIym-GGx508tTQ",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "松山機場"
+      ],
+      "candidate": false
+    },
+    "ChIJGUlIrt6rQjQRaRodNbWYptI": {
+      "name": "貓子曬太陽",
+      "address": "234台灣新北市永和區永貞里福和路125巷2號",
+      "rating": 4.5,
+      "reviews": 935,
+      "status": "OPERATIONAL",
+      "type": "brunch_restaurant",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJGUlIrt6rQjQRaRodNbWYptI/photos/AV-0GLcPurpLTDp-bVXtuwls4vOULTzA0XVeTOkYqxQYbJFwTcWrk5dBkPJyxInKV10HX5f7mMFQdwfT8edECQycXHNz9dlGLzdZTZPIUsQgcEki4cxhILFgnySOk-YE6PReyjPT2ajP1PU7D9-HvPmZeErF-BRNgdM5EqqBk3e2kwU0aVxRPPcsUVCFvkafaurvxWCnvIubgWINhaZeFIG09Ca4CPNQhxUTBQRF_s74r2085UM5h-xpqZACBAX6xt1wBgYYhxcPx3N5l56Pa3Vxa7FFEzpwQunY3balvjcrh0UAQePtNBiHM07uA73PyrzPsbDDa6IRbhAjeIDpZSNz26ynzYqQBgDv8LXF2cbxRwrknpsewci1jHTZGCG5BrP5KgmkHFWdMnM6Wk9P7gRvzB8Kdp13o8A",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "秀朗橋",
+        "頂溪"
+      ],
+      "candidate": false
+    },
+    "ChIJ9xgvag2sQjQR5aqGShkLT6M": {
+      "name": "米香台菜餐廳",
+      "address": "104台灣臺北市中山區成功里樂群二路55號3F",
+      "rating": 4.3,
+      "reviews": 1953,
+      "status": "OPERATIONAL",
+      "type": "taiwanese_restaurant",
+      "is_food": true,
+      "open_now": false,
+      "price_level": "PRICE_LEVEL_VERY_EXPENSIVE",
+      "photo_name": "places/ChIJ9xgvag2sQjQR5aqGShkLT6M/photos/AV-0GLfxKHhA1rOlBKCkQGpvaTp2J-ZA8YID8R5zXJBkAqEwZcGnGrO-pfob_83GIELiyYxzUUip4rZ9VAPfzzpe-aZdmINTsdfVgoyxExtjr-LeYPCN5r4Jq2Rq26X3Il-2kzKxFmuYyDq1ng5p6GWTgGO_myPq13wu4bs0lgy9pCrAO2NF0Jsz2l5uBr8I9Z1rbG6b9cViC7F1e1i2rH-eh8aHiEzTqeTohzvtxFCfO-R_7T-ByOpviMshq7z0PjQ-AFu7G1dl_3NuqjO_5rOktMnxI7ElGD6w_lkeD5nOrfS9Xa2Xp-JzxCbZsjHh8muVgImcM72CAT3AuryrwapPlrlu-64O_LdHKe3I8cJnXQ-Bt18SY2Fm5G3hY4Pe3OhgxhkhZ-94fxZLQ-f-vE5zdP5xQjQ",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "大直"
+      ],
+      "candidate": false
+    },
+    "ChIJFz3KQKavQjQRkj90s2SPDLY": {
+      "name": "土曜咖啡&ASFT選物店 精品咖啡x甜點輕食x運動機能衣",
+      "address": "112台灣臺北市北投區奇岩里公舘路306巷19號1樓",
+      "rating": 5,
+      "reviews": 109,
+      "status": "OPERATIONAL",
+      "type": "cafe",
+      "is_food": true,
+      "open_now": false,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJFz3KQKavQjQRkj90s2SPDLY/photos/AV-0GLf2Ykmu_hm5qUKhPZFq2PJBKTW25T7n0GxSs1cuLJdbu2I0UwegQlGIqIpU77kAiDKeZVzeOFppc7N2jMgn607ZLHBq9GAKutAbERhxjqhMW9R2N_y7h3nM31yFdK8mSqZc9bAJ5I4emv_ZfDlJfIa7vGzzJeO2C6YOD-m47tlFhSW_zkSH-Fmg_1usCn08W3M6udSCNwJex8bBsV4BcMNwmpwFraEvY39a-kYGo1YT6XVpqmPfuYi944b09_OHvH_0_ZZgsexf9L1yT3Wqx1FM5hwgLdV4fZyTs7bkZysxJP8l1yEk-D1SaJnuVteZy8-ZJ7-dHFH4XuqioH4FuHduQohHym9J5eNMKsAuWVi-Y8il5_agXIW7nnktUfWSn-Fp3hPsjzFF6IEibhdWbCb4NGc",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "北投",
+        "唭哩岸",
+        "奇岩"
+      ],
+      "candidate": false
+    },
+    "ChIJZyEmst8DaDQRpBym6qEsvaA": {
+      "name": "不懂咖啡BDcafe",
+      "address": "231台灣新北市新店區安和里安和路二段169巷17號",
+      "rating": 5,
+      "reviews": 90,
+      "status": "OPERATIONAL",
+      "type": "coffee_shop",
+      "is_food": true,
+      "open_now": false,
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "photo_name": "places/ChIJZyEmst8DaDQRpBym6qEsvaA/photos/AV-0GLeczvov1oMu4tHgNU1sCMmpU7c4Q_ESF7896pZGpFzAZloej_XKanJsYLMj40Grytm7cQGDLGjsRXkk_sX7D_0Xl5sMeoUasCrLdPUlyldRcX8v8VE_3X3qRWCdbLkY3602EFvEy5I4JnrWCD_5YFZsdYyIuuDmIZzSLUN6QzulBJ57mpfY7y0hArlVEyAAOH6XKTK-nn5DO6JSCM8bMhWpVETRfWs0Y9xO2XWLmLMh_tUTLTPVAX5fQ34na_tUTlO3S58hNxG0EirzGIJ3Lym9vZdltJNlo-A8jl7rsefP_CoBFVKKxXc03XpolBPM2tF6PhHxYuafC26X3OInSoxOQW4M_hPWIhZ68FCSwmwBP3byYODsk0PhT0oeV2KOaeJoSTVCzIKR0XNVb08KE0Op-pdcLuk",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "新店"
+      ],
+      "candidate": false
+    },
+    "ChIJS4aqAMkbaDQRcqDrbM1HOZ8": {
+      "name": "38熊-千層蛋捲",
+      "address": "110台灣臺北市信義區三張里莊敬路361號",
+      "rating": 4.9,
+      "reviews": 546,
+      "status": "OPERATIONAL",
+      "type": "dessert_shop",
+      "is_food": true,
+      "open_now": true,
+      "price_level": null,
+      "photo_name": "places/ChIJS4aqAMkbaDQRcqDrbM1HOZ8/photos/AV-0GLdOrgDveXlLZFo6UOXfsK0cVaJ_6ui_Q-97f9Gg236GJ56932ERT43gR5ceOlIFpc41ASiYXjYQ6xM2jY72tv49WVdZW0RW5Ndsl3R_gifxI_zlwmh7UZF2X9m6eq1n2eNmgWgxktN9p15e-OWnaos8I4RgoJWnk9sS4sV38ZZlHhL_M9JqGYroijD8KjKOSQIfgQTume3lwlm0rXOv4WuN1LcVovolu2nAXGF9e-gBJa4LUNgNb8w82FakaraYUMF3Keol5HRD0rc9kSjOskktXL176Z632kR2-5DI_8dIFJaqXemKgUUA2h_BvQlPI0amvJToWMrAUZgpU4RYOdxw1L2-kWvB2fgei1_Zo2Fj5t4Dl6pKBS0EMg3DIZAw0E7Ku1xnSgswU-VXaPhlkMRVWPD6adCdJAKjaKbT2P91NA",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "象山"
+      ],
+      "candidate": false
+    },
+    "ChIJ-VUTsiiqQjQR_LurwJ6RZ88": {
+      "name": "蘇草salvia",
+      "address": "106台灣臺北市大安區辛亥路二段209號1樓",
+      "rating": 4.5,
+      "reviews": 1249,
+      "status": "OPERATIONAL",
+      "type": "coffee_shop",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJ-VUTsiiqQjQR_LurwJ6RZ88/photos/AV-0GLenQLJ3ufex7WomJTWFrOmeQUEWUySjj8yPNSze8Pru0E48LqYL8mgrWCiVoBBCSpujifLYxpjxH3scmRbxUCWx-uN627rMFwwIwvlIsiN9vgJXf65rnL0canhykemcC_ulGwAsCsNTZ342Cl-TTjXuIJN4VbeSSiNbQOL8Ka8Q4FOLn7-rCQDUj8lS5dO32l5wt9BPdEfpC7H3lRUTBA0n-NtD3vWM7Xa6AN3_hNlDgiX1IyZllTGbpJ2UVK8VQdLnTYD_-pl9RTRyA2L3nsDklO0q3WtuI2GdRzJJLlgjYjhYYalVhe0N_I_DPq4-n9uvbUNydFL-XwGTspqYE6I7uFW79Du1R6ZEIWl8MFA7LumYYvAtpgEogkUfv-Dz9_6vP2BrvKVZGE6So9o7gAMNZgkDey8",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "科技大樓"
+      ],
+      "candidate": false
+    },
+    "ChIJhdHGmz8daDQRF-Sg5MJyYXg": {
+      "name": "「Just Like」歐義廚房",
+      "address": "238台灣新北市樹林區保安里保安街一段64號",
+      "rating": 4.5,
+      "reviews": 258,
+      "status": "OPERATIONAL",
+      "type": "family_restaurant",
+      "is_food": true,
+      "open_now": false,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJhdHGmz8daDQRF-Sg5MJyYXg/photos/AV-0GLfuiGzzGywm_v014RfBgjgNHOG13V1M3KzQnQzTntem5pMNx1BvKLaNl1fzW4mARQ6F2q9hqEQdCjoDbtWV-mwViaGYsrAIJgbfMAZPU2DJImUidI8JzG0mOpxWkXuluDqIz043weURghr8IwwA9IZaU2YEaeOyT_jGoeDKLbg-tT9zcJFZcviQdgcpm-_lfdqSJsykF_Rp9DaHJCeg0iPvNl8PxzwYFRIY5tPI0SyKvb5_KcyWQsLpSI4SqXpMssUJ9T9XPnfmwSJzN823m3D7oxGznH61zkTaMgv80siMhT0l8g_-Z5Yoj78E4v3Wrh0PB7-PRqjjw9S0kCXvLvbJ9QdLCS9tQUSXaOgpzEl6gSO81O56wKDqYhXy-zhyk9ECZfrRoQ5RK_iS-YxVcIakn-dHBeM",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "永寧"
+      ],
+      "candidate": false
+    },
+    "ChIJYdmfpPKpQjQRmx-qCXTtnoE": {
+      "name": "丸亀製麵 台北地下街店 烏龍麵餐廳",
+      "address": "B1, K區地下街No. 47號忠孝西路一段中正區大同區臺北市台灣 100",
+      "rating": 4.8,
+      "reviews": 264,
+      "status": "OPERATIONAL",
+      "type": "restaurant",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "photo_name": "places/ChIJYdmfpPKpQjQRmx-qCXTtnoE/photos/AV-0GLeKNvlzrKqB1DjiD7dxIEvTlOUivchcE2jgXTINpq3pmL23t2lkDguORgYWsqWiYKqvfTUc5sH3f_U-0ZBACcNOLU_e3FbaG57g2EkAcR8IkDK2P1GsXBJH-UdlUceoVfKGzRjk2ma9AStFJqnIxzGT2yVxKIyt4L_vaOlbXoHkwSjsWvaWKLO-2AJRGXSsnAdOajxn70VGjbUTVAG9VwUbsVE3KhuxOADmoXvvAJU1wBP1_r5ORz03g0vVj_aJhRHN-m9l0SSCcVwBT4-7R2WLVMCjpfv1rlNN7BiPNeIpldK4rigv6KRI5XmnNerbm4zBySOdgsRW4hz4UHNzW7PIy-c2TjvVYfL5fNHya0l6SGlDDjlWEDTLZJnEFaDE345pXZXVf92n8LfJfKCoQV98DaGKivdSfOc_wcHDofKKgg",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "台北車站"
+      ],
+      "candidate": false
+    },
+    "ChIJFeN9jCqpQjQRs68E9pTww9g": {
+      "name": "咖博館-台北聚落店",
+      "address": "100台灣臺北市中正區龍光里重慶南路三段2號1樓",
+      "rating": 4.4,
+      "reviews": 268,
+      "status": "OPERATIONAL",
+      "type": "cafe",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJFeN9jCqpQjQRs68E9pTww9g/photos/AV-0GLdHkecHBr5lL42nUzITss2OAoyU3ca1-3lmOLpGa6x8ILP7pYLDd6_OPxiodqV7O6g2wk4udjYh5Gw3v-sR2e-8qyAmEHtK5QnuJaQZt7MpbGyymozVBkwhqvB9qsAc7hQYlYNV3MWyyU4VEztgyQWVsekaJLZ-cLBO6Uf_46B6R-t2ptx5xRHguaHCqXaLJWNjbDpunEvCefVhFq3WYpEvna10wuY2afCYdksC8ZIvqCIVHEIu1HCBZVYluCMYtgvXW3uBlaRcUy1tgrKNpMCltvES1h-jKnBUqeO4BkWbwFn1XVl-xzPC5klOLX8ww13p6HN2zjqVtoU0XkuyHkDMoecPFrX568nGzmmnT9G2saTODjSl5EPMkIMPAlRRNQHFExbeF1rZ63zC0n4ZEWliTPU",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "中正紀念堂"
+      ],
+      "candidate": false
+    },
+    "ChIJZVu5TwmnQjQRAXTB6Y_Drqg": {
+      "name": "白桃鮮食鍋物饗宴",
+      "address": "333台灣桃園市龜山區文化里復興北路75號",
+      "rating": 4.9,
+      "reviews": 1525,
+      "status": "OPERATIONAL",
+      "type": "hot_pot_restaurant",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJZVu5TwmnQjQRAXTB6Y_Drqg/photos/AV-0GLeb_rC5JVl0uDVSPk-k9JzV9SORJbdFTh70ogWu4o9gKWbkpf_BkXvv1RBcOTyYaT0Fg836niNHXUGNXJ8LIpdxMU4fY1uaekYi3ueSS7MwVNX4qqaus8GZ9H05dBmgnTZKf4PQbFy50AhVh-fKLMAjK3jytlvfPbogPxby5ajdF5nwVnaon6X5xUdnAwQcUPd2Cpp1UPXbUTUkioAOobjVM7UGjY4ilypFMWkEi_y9WGRncAVW6_1ard-e-i_0QNEUQcL9GqOau_myHGRMSGIjWS2RH8K-CEj1kPHmjoy85fJ0_Q6kCgA8AfkTfCpv9rdnrxG0rulMOk66wyh5AyGNH5zv8PlZsVBkvaL6QaI3ACac5lwsTv9s3IXSPklq6Om6OYDL-1XlblpFAIEnKCZi6WI",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "體育大學"
+      ],
+      "candidate": false
+    },
+    "ChIJaYC98nuvQjQRkbYh2tDzkPk": {
+      "name": "Akila慢食•咖啡",
+      "address": "249台灣新北市八里區龍源里龍米路一段356巷8號1樓",
+      "rating": 4.8,
+      "reviews": 104,
+      "status": "OPERATIONAL",
+      "type": "restaurant",
+      "is_food": true,
+      "open_now": true,
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "photo_name": "places/ChIJaYC98nuvQjQRkbYh2tDzkPk/photos/AV-0GLdV6z7DlIgAGXVR3jysAGhNIB1giJWO5yCMIFm9crN9cB1g1o799CERFetd7kDEWd6jpaWgn3Jps1z03txWRFmrPnTS6dui2_23wA-A6jiDwbKl2ZJxUiImCLVAtMAkKIgO2bSRY4rQi9hI0xfozlVodE7-3flmPghmPpZGotVROJSyE0JB8pFGe539lRzET-oQjvGqU_VAIKVvEmsJlKrMf9SLJ9g_2_ekjuM7DLObJPDPA3Wz6Rsny42tm5VSCuJlEWcCBSz9sv_SauTa1tMluhNh3UurjregoTuNFTesyJ-T-8B8LtVRzDYpV8YdJDkX9bgxW6utZDkK_0DipylAWTzNgIFoWbbwRUUB9ko6b_MFSyOVSH9yUZioUzznCXp_fRsmsEVWh76MRdJZD9BnKZxMbUi4Jqnm1CfjuQx9QA",
+      "first_seen": "2026-11-02",
+      "baseline": false,
+      "seen_count": 1,
+      "stations": [
+        "竹圍"
       ],
       "candidate": false
     }
